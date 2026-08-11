@@ -2,87 +2,6 @@
 "updated": "2026-08-11",
 "events": [
 {
-"title": "Проект «Консалт-Lab». Экспертная гостиная «Найм в 2026 году: почему вы не можете найти сотрудников, которые приносят результат».",
-"url": "https://www.crpp.ru/meropriyatiya_all/meropriyatiya_vse/events2218.html",
-"date": "12 Августа 2026",
-"iso": "2026-08-12",
-"topic": "Бизнес",
-"online": false,
-"source": "🏛 ЦРПП «Мой бизнес» СПб"
-},
-{
-"title": "Онлайн-семинар «Страхование для селлеров: что учесть, чтобы не прогореть при страховом событии» онлайн Законод",
-"url": "https://www.crpp.ru/meropriyatiya_all/meropriyatiya_vse/events2221.html",
-"date": "12 Августа 2026",
-"iso": "2026-08-12",
-"topic": "Бизнес",
-"online": true,
-"source": "🏛 ЦРПП «Мой бизнес» СПб"
-},
-{
-"title": "Онлайн-семинар «Как защитить свое дело и личные активы от скрытых рисков» онлайн Законодательство Личная эффек",
-"url": "https://www.crpp.ru/meropriyatiya_all/meropriyatiya_vse/events2222.html",
-"date": "14 Августа 2026",
-"iso": "2026-08-14",
-"topic": "Бизнес",
-"online": true,
-"source": "🏛 ЦРПП «Мой бизнес» СПб"
-},
-{
-"title": "Встреча с делегацией кондитеров из Ставропольского края очно Кооперация",
-"url": "https://www.crpp.ru/meropriyatiya_all/meropriyatiya_vse/events2227.html",
-"date": "17 Августа 2026",
-"iso": "2026-08-17",
-"topic": "Бизнес",
-"online": false,
-"source": "🏛 ЦРПП «Мой бизнес» СПб"
-},
-{
-"title": "Онлайн-семинар «Как продавать дорого на маркетплейсах» онлайн Маркетинг Продажи Управление финансами",
-"url": "https://www.crpp.ru/meropriyatiya_all/meropriyatiya_vse/events2206.html",
-"date": "20 Августа 2026",
-"iso": "2026-08-20",
-"topic": "Бизнес",
-"online": true,
-"source": "🏛 ЦРПП «Мой бизнес» СПб"
-},
-{
-"title": "«Как снять страхи в продажах за один день» очно Личная эффективность Продажи Управление персоналом",
-"url": "https://www.crpp.ru/meropriyatiya_all/meropriyatiya_vse/events2225.html",
-"date": "21 Августа 2026",
-"iso": "2026-08-21",
-"topic": "Бизнес",
-"online": false,
-"source": "🏛 ЦРПП «Мой бизнес» СПб"
-},
-{
-"title": "«Как повысить эффективность малого и среднего бизнеса в 2026» очно Маркетинг Менеджмент Цифровая трансформация",
-"url": "https://www.crpp.ru/meropriyatiya_all/meropriyatiya_vse/events2226.html",
-"date": "25 Августа 2026",
-"iso": "2026-08-25",
-"topic": "IT",
-"online": false,
-"source": "🏛 ЦРПП «Мой бизнес» СПб"
-},
-{
-"title": "«Пути преодоления паники и восстановления лидерства» очно Личная эффективность Управление персоналом",
-"url": "https://www.crpp.ru/meropriyatiya_all/meropriyatiya_vse/events2220.html",
-"date": "26 Августа 2026",
-"iso": "2026-08-26",
-"topic": "Бизнес",
-"online": false,
-"source": "🏛 ЦРПП «Мой бизнес» СПб"
-},
-{
-"title": "Курс «Академия продаж». «Поиск новых клиентов» очно Продажи",
-"url": "https://www.crpp.ru/meropriyatiya_all/meropriyatiya_vse/events2123.html",
-"date": "27 Августа 2026",
-"iso": "2026-08-27",
-"topic": "Бизнес",
-"online": false,
-"source": "🏛 ЦРПП «Мой бизнес» СПб"
-},
-{
 "title": "«Выбор, оценка, аудит поставщиков. Контроль и управление качеством поставок» 12 Авг (Ср.) - 14 Авг (Пт.) 2026 ",
 "url": "https://spbtpp.ru/events/events_562.html",
 "date": "",
@@ -1685,15 +1604,6 @@
 "source": "💻 ict2go (ИТ-события)"
 },
 {
-"title": "не указан Онлайн-трансляция не определено Онлайн-трансляция Лето – это не только время отпусков. Это еще и пер",
-"url": "https://all-events.ru/events/kadrovye-resheniya-2026-voinskiy-uchet-oplata-truda-personalnye-dannye-otchetnost-v-sfr-/",
-"date": "",
-"iso": "",
-"topic": "Бизнес",
-"online": true,
-"source": "📅 all-events (деловые события)"
-},
-{
 "title": "IT-Информационные технологии РЕД ВРМ + РЕД АДМ: Управляемая VDI-среда без компромиссов 11.08.2026 Вт 11.08.202",
 "url": "https://all-events.ru/events/red-vrm-red-adm-upravlyaemaya-vdi-sreda-bez-kompromissov/",
 "date": "11.08.2026",
@@ -1863,33 +1773,6 @@
 "topic": "IT",
 "online": true,
 "source": "☁️ Cloud.ru (вебинары)"
-},
-{
-"title": "Информация и связь Петербургский цифровой хаб 2026 3 сентября 2026 - 3 сентября 2026",
-"url": "https://www.expoforum.ru/calendar/peterburgskij-czifrovoj-khab/",
-"date": "",
-"iso": "",
-"topic": "IT",
-"online": false,
-"source": "🏟 Экспофорум"
-},
-{
-"title": "Сельское хозяйство Агропромышленная выставка АГРОРУСЬ 2026 16 сентября 2026 - 18 сентября 2026 Зарегистрироват",
-"url": "https://www.expoforum.ru/calendar/agropromyshlennaya-vystavka-agrorus-2026/",
-"date": "",
-"iso": "",
-"topic": "Бизнес",
-"online": false,
-"source": "🏟 Экспофорум"
-},
-{
-"title": "Санкт-Петербургский международный научно-образовательный салон 2026 22 октября 2026 - 24 октября 2026",
-"url": "https://www.expoforum.ru/calendar/sankt-peterburgskij-mezhdunarodnyj-nauchno-obrazovatelnyj-salon-2026/",
-"date": "22 октября 2026",
-"iso": "2026-10-22",
-"topic": "Бизнес",
-"online": false,
-"source": "🏟 Экспофорум"
 }
 ]
 }
