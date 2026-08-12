@@ -1,76 +1,271 @@
 {
-"updated": "2026-08-11",
+"updated": "2026-08-12",
 "events": [
+{
+"title": "Проект «Консалт-Lab». Экспертная гостиная «Найм в 2026 году: почему вы не можете найти сотрудников, которые приносят результат».",
+"url": "https://www.crpp.ru/meropriyatiya_all/meropriyatiya_vse/events2218.html",
+"date": "12 Августа 2026",
+"iso": "2026-08-12",
+"time": "18:30",
+"topic": "Бизнес",
+"online": false,
+"net": false,
+"source": "🏛 ЦРПП «Мой бизнес» СПб",
+"img": "https://www.crpp.ru/assets/img/uploads/m8j33khbei7g3refa0515c.png",
+"desc": "Мероприятия Центра развития и поддержки предпринимательства Санкт-Петербурга",
+"price": "",
+"org_page": "Санкт-Петербургское государственное бюджетное учреждение «Це",
+"enr": 1
+},
+{
+"title": "Онлайн-семинар «Как защитить свое дело и личные активы от скрытых рисков» онлайн Законодательство Личная эффек",
+"url": "https://www.crpp.ru/meropriyatiya_all/meropriyatiya_vse/events2222.html",
+"date": "14 Августа 2026",
+"iso": "2026-08-14",
+"time": "14:00",
+"topic": "Бизнес",
+"online": true,
+"net": false,
+"source": "🏛 ЦРПП «Мой бизнес» СПб",
+"img": "https://www.crpp.ru/assets/img/uploads/m8j33khbei7g3refa0515c.png",
+"desc": "Мероприятия Центра развития и поддержки предпринимательства Санкт-Петербурга",
+"price": "Бесплатно",
+"org_page": "Санкт-Петербургское государственное бюджетное учреждение «Це",
+"enr": 1
+},
+{
+"title": "Встреча с делегацией кондитеров из Ставропольского края очно Кооперация",
+"url": "https://www.crpp.ru/meropriyatiya_all/meropriyatiya_vse/events2227.html",
+"date": "17 Августа 2026",
+"iso": "2026-08-17",
+"time": "11:00",
+"topic": "Бизнес",
+"online": false,
+"net": false,
+"source": "🏛 ЦРПП «Мой бизнес» СПб",
+"img": "https://www.crpp.ru/assets/img/uploads/m8j33khbei7g3refa0515c.png",
+"desc": "Мероприятия Центра развития и поддержки предпринимательства Санкт-Петербурга",
+"price": "",
+"org_page": "Санкт-Петербургское государственное бюджетное учреждение «Це",
+"enr": 1
+},
+{
+"title": "Онлайн-семинар «Как продавать дорого на маркетплейсах» онлайн Маркетинг Продажи Управление финансами",
+"url": "https://www.crpp.ru/meropriyatiya_all/meropriyatiya_vse/events2206.html",
+"date": "20 Августа 2026",
+"iso": "2026-08-20",
+"time": "14:00",
+"topic": "Бизнес",
+"online": true,
+"net": false,
+"source": "🏛 ЦРПП «Мой бизнес» СПб",
+"img": "https://www.crpp.ru/assets/img/uploads/m8j33khbei7g3refa0515c.png",
+"desc": "Мероприятия Центра развития и поддержки предпринимательства Санкт-Петербурга",
+"price": "Бесплатно",
+"org_page": "Санкт-Петербургское государственное бюджетное учреждение «Це",
+"enr": 1
+},
+{
+"title": "«Как снять страхи в продажах за один день» очно Личная эффективность Продажи Управление персоналом",
+"url": "https://www.crpp.ru/meropriyatiya_all/meropriyatiya_vse/events2225.html",
+"date": "21 Августа 2026",
+"iso": "2026-08-21",
+"time": "11:00",
+"topic": "Бизнес",
+"online": false,
+"net": false,
+"source": "🏛 ЦРПП «Мой бизнес» СПб",
+"img": "https://www.crpp.ru/assets/img/uploads/m8j33khbei7g3refa0515c.png",
+"desc": "Мероприятия Центра развития и поддержки предпринимательства Санкт-Петербурга",
+"price": "Бесплатно",
+"org_page": "Санкт-Петербургское государственное бюджетное учреждение «Це",
+"enr": 1
+},
+{
+"title": "«Как повысить эффективность малого и среднего бизнеса в 2026» очно Маркетинг Менеджмент Цифровая трансформация",
+"url": "https://www.crpp.ru/meropriyatiya_all/meropriyatiya_vse/events2226.html",
+"date": "25 Августа 2026",
+"iso": "2026-08-25",
+"time": "11:00",
+"topic": "IT",
+"online": false,
+"net": false,
+"source": "🏛 ЦРПП «Мой бизнес» СПб",
+"img": "https://www.crpp.ru/assets/img/uploads/m8j33khbei7g3refa0515c.png",
+"desc": "Мероприятия Центра развития и поддержки предпринимательства Санкт-Петербурга",
+"price": "Бесплатно",
+"org_page": "Санкт-Петербургское государственное бюджетное учреждение «Це",
+"enr": 1
+},
+{
+"title": "«Пути преодоления паники и восстановления лидерства» очно Личная эффективность Управление персоналом",
+"url": "https://www.crpp.ru/meropriyatiya_all/meropriyatiya_vse/events2220.html",
+"date": "26 Августа 2026",
+"iso": "2026-08-26",
+"time": "15:00",
+"topic": "Бизнес",
+"online": false,
+"net": false,
+"source": "🏛 ЦРПП «Мой бизнес» СПб",
+"img": "https://www.crpp.ru/assets/img/uploads/m8j33khbei7g3refa0515c.png",
+"desc": "Мероприятия Центра развития и поддержки предпринимательства Санкт-Петербурга",
+"price": "Бесплатно",
+"org_page": "Санкт-Петербургское государственное бюджетное учреждение «Це",
+"enr": 1
+},
+{
+"title": "Курс «Академия продаж». «Поиск новых клиентов» очно Продажи",
+"url": "https://www.crpp.ru/meropriyatiya_all/meropriyatiya_vse/events2123.html",
+"date": "27 Августа 2026",
+"iso": "2026-08-27",
+"time": "18:30",
+"topic": "Бизнес",
+"online": false,
+"net": false,
+"source": "🏛 ЦРПП «Мой бизнес» СПб",
+"img": "https://www.crpp.ru/assets/img/uploads/m8j33khbei7g3refa0515c.png",
+"desc": "Мероприятия Центра развития и поддержки предпринимательства Санкт-Петербурга",
+"price": "",
+"org_page": "Санкт-Петербургское государственное бюджетное учреждение «Це",
+"enr": 1
+},
+{
+"title": "Онлайн-семинар «Страхование для селлеров: что учесть, чтобы не прогореть при страховом событии» онлайн Законод",
+"url": "https://www.crpp.ru/meropriyatiya_all/meropriyatiya_vse/events2221.html",
+"date": "27 Августа 2026",
+"iso": "2026-08-27",
+"time": "15:00",
+"topic": "Бизнес",
+"online": true,
+"net": false,
+"source": "🏛 ЦРПП «Мой бизнес» СПб",
+"img": "https://www.crpp.ru/assets/img/uploads/m8j33khbei7g3refa0515c.png",
+"desc": "Мероприятия Центра развития и поддержки предпринимательства Санкт-Петербурга",
+"price": "Бесплатно",
+"org_page": "Санкт-Петербургское государственное бюджетное учреждение «Це",
+"enr": 1
+},
 {
 "title": "«Выбор, оценка, аудит поставщиков. Контроль и управление качеством поставок» 12 Авг (Ср.) - 14 Авг (Пт.) 2026 ",
 "url": "https://spbtpp.ru/events/events_562.html",
 "date": "",
 "iso": "",
+"time": "10:00",
 "topic": "Бизнес",
 "online": false,
-"source": "🏛 СПб Торгово-промышленная палата"
+"net": false,
+"source": "🏛 СПб Торгово-промышленная палата",
+"img": "",
+"desc": "Деловые мероприятия Санкт-Петербурга",
+"price": "",
+"org_page": "",
+"enr": 1
 },
 {
 "title": "«Основные изменения в новой версии стандарта ISO 9001:2026. Планирование развития системы менеджмента качества с учетом ожидаемых ",
 "url": "https://spbtpp.ru/events/events_589.html",
 "date": "",
 "iso": "",
+"time": "10:00",
 "topic": "Бизнес",
 "online": false,
-"source": "🏛 СПб Торгово-промышленная палата"
+"net": false,
+"source": "🏛 СПб Торгово-промышленная палата",
+"img": "",
+"desc": "Деловые мероприятия Санкт-Петербурга",
+"price": "",
+"org_page": "",
+"enr": 1
 },
 {
 "title": "«Стратегии технического обслуживания и ремонтов (ТОиР) оборудования» 18 Авг (Втр.) - 19 Авг (Ср.) 2026 Место :",
 "url": "https://spbtpp.ru/events/events_588.html",
 "date": "",
 "iso": "",
+"time": "10:00",
 "topic": "Бизнес",
 "online": false,
-"source": "🏛 СПб Торгово-промышленная палата"
+"net": false,
+"source": "🏛 СПб Торгово-промышленная палата",
+"img": "",
+"desc": "Деловые мероприятия Санкт-Петербурга",
+"price": "",
+"org_page": "",
+"enr": 1
 },
 {
 "title": "«Особенности проектирования и применения систем оплаты труда» 28 Авг (Пт.) Место : Санкт-Петербургская торгово",
 "url": "https://spbtpp.ru/events/events_563.html",
 "date": "",
 "iso": "",
+"time": "10:00",
 "topic": "Бизнес",
 "online": false,
-"source": "🏛 СПб Торгово-промышленная палата"
+"net": false,
+"source": "🏛 СПб Торгово-промышленная палата",
+"img": "",
+"desc": "Деловые мероприятия Санкт-Петербурга",
+"price": "",
+"org_page": "",
+"enr": 1
 },
 {
 "title": "«Трудовое законодательство — 2026: ключевые изменения и практика применения» 28 Авг (Пт.) Место : Санкт-Петерб",
 "url": "https://spbtpp.ru/events/events_564.html",
 "date": "",
 "iso": "",
+"time": "10:00",
 "topic": "Бизнес",
 "online": false,
-"source": "🏛 СПб Торгово-промышленная палата"
+"net": false,
+"source": "🏛 СПб Торгово-промышленная палата",
+"img": "",
+"desc": "Деловые мероприятия Санкт-Петербурга",
+"price": "",
+"org_page": "",
+"enr": 1
 },
 {
 "title": "Тренинг «Применение практических инструментов работы с рекламациями» 28 Авг (Пт.) Место : Санкт-Петербургская ",
 "url": "https://spbtpp.ru/events/events_579.html",
 "date": "",
 "iso": "",
+"time": "10:00",
 "topic": "Бизнес",
 "online": false,
-"source": "🏛 СПб Торгово-промышленная палата"
+"net": false,
+"source": "🏛 СПб Торгово-промышленная палата",
+"img": "",
+"desc": "Деловые мероприятия Санкт-Петербурга",
+"price": "",
+"org_page": "",
+"enr": 1
 },
 {
 "title": "Петербургский цифровой хаб 03 Сен (Чтв.) Место : КВЦ «ЭКСПОФОРУМ»",
 "url": "https://spbtpp.ru/events/events_540.html",
 "date": "",
 "iso": "",
+"time": "10:00",
 "topic": "IT",
 "online": false,
-"source": "🏛 СПб Торгово-промышленная палата"
+"net": false,
+"source": "🏛 СПб Торгово-промышленная палата",
+"img": "",
+"desc": "Деловые мероприятия Санкт-Петербурга",
+"price": "",
+"org_page": "",
+"enr": 1
 },
 {
 "title": "XII Федеральный форум по ИТ и цифровым технологиям нефтегазовой отрасли России Smart Oil & Gas 10 Сен (Чтв.) -",
 "url": "https://spbtpp.ru/events/events_598.html",
 "date": "",
 "iso": "",
+"time": "",
 "topic": "IT",
 "online": false,
+"net": false,
 "source": "🏛 СПб Торгово-промышленная палата"
 },
 {
@@ -78,8 +273,10 @@
 "url": "https://spbtpp.ru/events/events_627.html",
 "date": "",
 "iso": "",
+"time": "",
 "topic": "Бизнес",
 "online": false,
+"net": false,
 "source": "🏛 СПб Торгово-промышленная палата"
 },
 {
@@ -87,8 +284,10 @@
 "url": "https://spbtpp.ru/events/events_628.html",
 "date": "",
 "iso": "",
+"time": "",
 "topic": "Бизнес",
 "online": false,
+"net": false,
 "source": "🏛 СПб Торгово-промышленная палата"
 },
 {
@@ -96,8 +295,10 @@
 "url": "https://spbtpp.ru/events/events_634.html",
 "date": "",
 "iso": "",
+"time": "",
 "topic": "Бизнес",
 "online": false,
+"net": false,
 "source": "🏛 СПб Торгово-промышленная палата"
 },
 {
@@ -105,107 +306,85 @@
 "url": "https://spbtpp.ru/events/events_617.html",
 "date": "",
 "iso": "",
+"time": "",
 "topic": "Бизнес",
 "online": false,
+"net": false,
 "source": "🏛 СПб Торгово-промышленная палата"
-},
-{
-"title": "Как бизнесу выстроить взаимовыгодное сотрудничество с системой образования без бюрократии и головной боли",
-"url": "https://tboil.spb.ru/events/actual/253503/",
-"date": "11 августа 2026",
-"iso": "2026-08-11",
-"topic": "Бизнес",
-"online": false,
-"source": "🔥 Точка кипения СПб"
 },
 {
 "title": "Безопасность бухгалтера и аутсорсинговой компании при работе с клиентами",
 "url": "https://tboil.spb.ru/events/actual/253683/",
 "date": "12 августа 2026",
 "iso": "2026-08-12",
+"time": "10:00",
 "topic": "Бизнес",
 "online": false,
-"source": "🔥 Точка кипения СПб"
+"net": false,
+"source": "🔥 Точка кипения СПб",
+"img": "",
+"desc": "Точка Кипения - Санкт-Петербург",
+"price": "",
+"org_page": "",
+"enr": 1
+},
+{
+"title": "Стратегическая сессия Молодежный слет технологичных компаний (МСТК-2026) третий день",
+"url": "https://tboil.spb.ru/events/actual/253851/",
+"date": "22 августа 2026",
+"iso": "2026-08-22",
+"time": "10:30",
+"topic": "Бизнес",
+"online": false,
+"net": false,
+"source": "🔥 Точка кипения СПб",
+"img": "",
+"desc": "Точка Кипения - Санкт-Петербург",
+"price": "",
+"org_page": "",
+"enr": 1
 },
 {
 "title": "Стратегическая сессия для молодежи",
 "url": "https://tboil.spb.ru/events/actual/253818/",
 "date": "26 августа 2026",
 "iso": "2026-08-26",
+"time": "14:00",
 "topic": "Бизнес",
 "online": false,
-"source": "🔥 Точка кипения СПб"
+"net": false,
+"source": "🔥 Точка кипения СПб",
+"img": "",
+"desc": "Точка Кипения - Санкт-Петербург",
+"price": "",
+"org_page": "",
+"enr": 1
 },
 {
 "title": "Почему компания работает, а денег больше не становится? Практикум о причинах финансового результата",
 "url": "https://tboil.spb.ru/events/actual/253680/",
 "date": "26 августа 2026",
 "iso": "2026-08-26",
+"time": "15:00",
 "topic": "Бизнес",
 "online": false,
-"source": "🔥 Точка кипения СПб"
-},
-{
-"title": "Законный контроль эффективности: как оценить работу госслужащих, защитить данные и выполнить KPI без 'шпионажа'",
-"url": "https://ict2go.ru/events/71173/",
-"date": "11.08.2026",
-"iso": "2026-08-11",
-"topic": "IT",
-"online": true,
-"source": "💻 ict2go (ИТ-события)"
-},
-{
-"title": "Ваш выход на TeamLead Conf 2026 Митап Автоматизация (бизнес-приложения) , Управление бизнесом , Искусственный ",
-"url": "https://ict2go.ru/events/71098/",
-"date": "11.08.2026",
-"iso": "2026-08-11",
-"topic": "ИИ",
-"online": true,
-"source": "💻 ict2go (ИТ-события)"
-},
-{
-"title": "ИТ под давлением: как нанимать и внедрять, когда цена ошибки — миллионы Мероприятие Автоматизация (бизнес-прил",
-"url": "https://ict2go.ru/events/71192/",
-"date": "11.08.2026",
-"iso": "2026-08-11",
-"topic": "IT",
-"online": false,
-"source": "💻 ict2go (ИТ-события)"
-},
-{
-"title": "Летний ТехФест 2026 в Петербурге: Nexign Встреча ИБ (Информационная безопасность) , Рынок ИТ (Тенденции ИТ)",
-"url": "https://ict2go.ru/events/70846/",
-"date": "11.08.2026",
-"iso": "2026-08-11",
-"topic": "IT",
-"online": false,
-"source": "💻 ict2go (ИТ-события)"
-},
-{
-"title": "SimpleOne ESM: масштабируем ITSM за пределы ИТ-отдела Вебинар ITSM , ИТ в бизнесе",
-"url": "https://ict2go.ru/events/70783/",
-"date": "12.08.2026",
-"iso": "2026-08-12",
-"topic": "IT",
-"online": true,
-"source": "💻 ict2go (ИТ-события)"
+"net": false,
+"source": "🔥 Точка кипения СПб",
+"img": "",
+"desc": "Точка Кипения - Санкт-Петербург",
+"price": "",
+"org_page": "",
+"enr": 1
 },
 {
 "title": "За вклад в безопасность цифрового будущего. Прием заявок Премия ИБ (Информационная безопасность) , Искусственн",
 "url": "https://ict2go.ru/events/70689/",
 "date": "12.08.2026",
 "iso": "2026-08-12",
+"time": "",
 "topic": "ИИ",
 "online": true,
-"source": "💻 ict2go (ИТ-события)"
-},
-{
-"title": "Модель цифровой зрелости. Оцените уровень своего предприятия и сформируйте план шагов для развития за 1 час Ве",
-"url": "https://ict2go.ru/events/70874/",
-"date": "12.08.2026",
-"iso": "2026-08-12",
-"topic": "IT",
-"online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -213,26 +392,10 @@
 "url": "https://ict2go.ru/events/70891/",
 "date": "12.08.2026",
 "iso": "2026-08-12",
+"time": "",
 "topic": "ИИ",
 "online": true,
-"source": "💻 ict2go (ИТ-события)"
-},
-{
-"title": "Крипта по новым правилам: как изменится регулирование с 1 сентября 2026 года Вебинар Криптовалюты , Регулирова",
-"url": "https://ict2go.ru/events/71183/",
-"date": "12.08.2026",
-"iso": "2026-08-12",
-"topic": "IT",
-"online": true,
-"source": "💻 ict2go (ИТ-события)"
-},
-{
-"title": "Факторинг в ИТ: как партнеру получить быстрое финансирование, закрыть критические боли и сделать работу с дебиторкой выгодной",
-"url": "https://ict2go.ru/events/71097/",
-"date": "12.08.2026",
-"iso": "2026-08-12",
-"topic": "IT",
-"online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -240,8 +403,10 @@
 "url": "https://ict2go.ru/events/71109/",
 "date": "12.08.2026",
 "iso": "2026-08-12",
+"time": "",
 "topic": "IT",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -249,8 +414,10 @@
 "url": "https://ict2go.ru/events/71118/",
 "date": "12.08.2026",
 "iso": "2026-08-12",
+"time": "",
 "topic": "IT",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -258,8 +425,10 @@
 "url": "https://ict2go.ru/events/71079/",
 "date": "12.08.2026",
 "iso": "2026-08-12",
+"time": "",
 "topic": "IT",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -267,8 +436,10 @@
 "url": "https://ict2go.ru/events/71193/",
 "date": "12.08.2026",
 "iso": "2026-08-12",
+"time": "",
 "topic": "IT",
 "online": false,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -276,8 +447,10 @@
 "url": "https://ict2go.ru/events/70247/",
 "date": "13.08.2026",
 "iso": "2026-08-13",
+"time": "",
 "topic": "IT",
 "online": false,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -285,17 +458,26 @@
 "url": "https://ict2go.ru/events/71255/",
 "date": "13.08.2026",
 "iso": "2026-08-13",
+"time": "10:10",
 "topic": "IT",
 "online": true,
-"source": "💻 ict2go (ИТ-события)"
+"net": false,
+"source": "💻 ict2go (ИТ-события)",
+"img": "https://ict2go.ru/ict/images/logo_header_small.png",
+"desc": "Вебинар quot;Кибератака в прямом эфире: злоумышленник против аналитика SOC quot; состоится 13 и 14 августа 2026 года в 10:00 (мск). Сертификаты по...",
+"price": "",
+"org_page": "",
+"enr": 1
 },
 {
 "title": "ИИ есть у каждого сотрудника. Почему результатов нет у компании? Вебинар Искусственный интеллект (ИИ) , ИТ в б",
 "url": "https://ict2go.ru/events/71094/",
 "date": "13.08.2026",
 "iso": "2026-08-13",
+"time": "",
 "topic": "ИИ",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -303,8 +485,10 @@
 "url": "https://ict2go.ru/events/71033/",
 "date": "13.08.2026",
 "iso": "2026-08-13",
+"time": "",
 "topic": "IT",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -312,17 +496,26 @@
 "url": "https://ict2go.ru/events/71259/",
 "date": "13.08.2026",
 "iso": "2026-08-13",
+"time": "10:10",
 "topic": "IT",
 "online": true,
-"source": "💻 ict2go (ИТ-события)"
+"net": false,
+"source": "💻 ict2go (ИТ-события)",
+"img": "https://ict2go.ru/ict/images/logo_header_small.png",
+"desc": "Вебинар quot;Как заместить Cisco в Enterprise-сегменте: опыт и первые результаты миграции ГК laquo;А101 raquo; quot; состоится 13 августа 2026 года ...",
+"price": "",
+"org_page": "",
+"enr": 1
 },
 {
 "title": "Новые правила для бизнеса: автоштрафы с 1 сентября и ЭТрН Вебинар Автоматизация (бизнес-приложения) , ИТ в тра",
 "url": "https://ict2go.ru/events/70840/",
 "date": "13.08.2026",
 "iso": "2026-08-13",
+"time": "",
 "topic": "IT",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -330,8 +523,10 @@
 "url": "https://ict2go.ru/events/71184/",
 "date": "13.08.2026",
 "iso": "2026-08-13",
+"time": "",
 "topic": "ИИ",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -339,8 +534,10 @@
 "url": "https://ict2go.ru/events/71072/",
 "date": "13.08.2026",
 "iso": "2026-08-13",
+"time": "",
 "topic": "IT",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -348,8 +545,10 @@
 "url": "https://ict2go.ru/events/71063/",
 "date": "13.08.2026",
 "iso": "2026-08-13",
+"time": "",
 "topic": "ИИ",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -357,8 +556,10 @@
 "url": "https://ict2go.ru/events/71144/",
 "date": "13.08.2026",
 "iso": "2026-08-13",
+"time": "",
 "topic": "IT",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -366,8 +567,10 @@
 "url": "https://ict2go.ru/events/70917/",
 "date": "14.08.2026",
 "iso": "2026-08-14",
+"time": "",
 "topic": "IT",
 "online": false,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -375,8 +578,10 @@
 "url": "https://ict2go.ru/events/70805/",
 "date": "14.08.2026",
 "iso": "2026-08-14",
+"time": "",
 "topic": "IT",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -384,8 +589,10 @@
 "url": "https://ict2go.ru/events/71143/",
 "date": "14.08.2026",
 "iso": "2026-08-14",
+"time": "",
 "topic": "IT",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -393,8 +600,10 @@
 "url": "https://ict2go.ru/events/70813/",
 "date": "15.08.2026",
 "iso": "2026-08-15",
+"time": "",
 "topic": "IT",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -402,8 +611,10 @@
 "url": "https://ict2go.ru/events/71112/",
 "date": "15.08.2026",
 "iso": "2026-08-15",
+"time": "",
 "topic": "IT",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -411,8 +622,10 @@
 "url": "https://ict2go.ru/events/71012/",
 "date": "15.08.2026",
 "iso": "2026-08-15",
+"time": "",
 "topic": "IT",
 "online": false,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -420,8 +633,10 @@
 "url": "https://ict2go.ru/events/71036/",
 "date": "18.08.2026",
 "iso": "2026-08-18",
+"time": "",
 "topic": "IT",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -429,8 +644,10 @@
 "url": "https://ict2go.ru/events/70499/",
 "date": "18.08.2026",
 "iso": "2026-08-18",
+"time": "",
 "topic": "IT",
 "online": false,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -438,8 +655,10 @@
 "url": "https://ict2go.ru/events/71009/",
 "date": "18.08.2026",
 "iso": "2026-08-18",
+"time": "",
 "topic": "IT",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -447,8 +666,10 @@
 "url": "https://ict2go.ru/events/71106/",
 "date": "18.08.2026",
 "iso": "2026-08-18",
+"time": "",
 "topic": "ИИ",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -456,8 +677,10 @@
 "url": "https://ict2go.ru/events/71168/",
 "date": "18.08.2026",
 "iso": "2026-08-18",
+"time": "",
 "topic": "IT",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -465,8 +688,10 @@
 "url": "https://ict2go.ru/events/71134/",
 "date": "18.08.2026",
 "iso": "2026-08-18",
+"time": "",
 "topic": "IT",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -474,8 +699,10 @@
 "url": "https://ict2go.ru/events/71029/",
 "date": "18.08.2026",
 "iso": "2026-08-18",
+"time": "",
 "topic": "IT",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -483,8 +710,10 @@
 "url": "https://ict2go.ru/events/71216/",
 "date": "18.08.2026",
 "iso": "2026-08-18",
+"time": "",
 "topic": "IT",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -492,8 +721,10 @@
 "url": "https://ict2go.ru/events/70976/",
 "date": "18.08.2026",
 "iso": "2026-08-18",
+"time": "",
 "topic": "IT",
 "online": false,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -501,26 +732,42 @@
 "url": "https://ict2go.ru/events/71248/",
 "date": "18.08.2026",
 "iso": "2026-08-18",
+"time": "10:10",
 "topic": "IT",
 "online": true,
-"source": "💻 ict2go (ИТ-события)"
+"net": false,
+"source": "💻 ict2go (ИТ-события)",
+"img": "https://ict2go.ru/ict/images/logo_header_small.png",
+"desc": "На вебинаре 18 августа в 15:00 (мск) Xello расскажет, как выстроить защиту на опережение и раскроет новые возможности решений. На вебинаре поделятс...",
+"price": "",
+"org_page": "",
+"enr": 1
 },
 {
 "title": "Генеративный ИИ для руководителей Семинар Управление бизнесом , Искусственный интеллект (ИИ) , ИТ в бизнесе",
 "url": "https://ict2go.ru/events/71272/",
 "date": "18.08.2026",
 "iso": "2026-08-18",
+"time": "10:10",
 "topic": "ИИ",
 "online": true,
-"source": "💻 ict2go (ИТ-события)"
+"net": false,
+"source": "💻 ict2go (ИТ-события)",
+"img": "https://ict2go.ru/ict/images/logo_header_small.png",
+"desc": "18-21 августа 2026 г. будет проходить онлайн-интенсив quot;Генеративный ИИ для руководителей quot;. Программа интенсива посвящена практическому пр...",
+"price": "",
+"org_page": "",
+"enr": 1
 },
 {
 "title": "Deep Patch: Что должен уметь ИБ-инженер Вебинар ИБ (Информационная безопасность)",
 "url": "https://ict2go.ru/events/70583/",
 "date": "18.08.2026",
 "iso": "2026-08-18",
+"time": "",
 "topic": "IT",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -528,8 +775,10 @@
 "url": "https://ict2go.ru/events/70847/",
 "date": "18.08.2026",
 "iso": "2026-08-18",
+"time": "",
 "topic": "IT",
 "online": false,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -537,8 +786,10 @@
 "url": "https://ict2go.ru/events/70372/",
 "date": "19.08.2026",
 "iso": "2026-08-19",
+"time": "",
 "topic": "IT",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -546,8 +797,10 @@
 "url": "https://ict2go.ru/events/70799/",
 "date": "19.08.2026",
 "iso": "2026-08-19",
+"time": "",
 "topic": "IT",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -555,8 +808,10 @@
 "url": "https://ict2go.ru/events/70927/",
 "date": "19.08.2026",
 "iso": "2026-08-19",
+"time": "",
 "topic": "IT",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -564,8 +819,10 @@
 "url": "https://ict2go.ru/events/71213/",
 "date": "19.08.2026",
 "iso": "2026-08-19",
+"time": "",
 "topic": "IT",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -573,8 +830,10 @@
 "url": "https://ict2go.ru/events/71136/",
 "date": "20.08.2026",
 "iso": "2026-08-20",
+"time": "",
 "topic": "ИИ",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -582,8 +841,10 @@
 "url": "https://ict2go.ru/events/70968/",
 "date": "20.08.2026",
 "iso": "2026-08-20",
+"time": "",
 "topic": "IT",
 "online": false,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -591,8 +852,10 @@
 "url": "https://ict2go.ru/events/70684/",
 "date": "20.08.2026",
 "iso": "2026-08-20",
+"time": "",
 "topic": "IT",
 "online": false,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -600,8 +863,10 @@
 "url": "https://ict2go.ru/events/70374/",
 "date": "20.08.2026",
 "iso": "2026-08-20",
+"time": "",
 "topic": "IT",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -609,8 +874,10 @@
 "url": "https://ict2go.ru/events/71090/",
 "date": "20.08.2026",
 "iso": "2026-08-20",
+"time": "",
 "topic": "IT",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -618,8 +885,10 @@
 "url": "https://ict2go.ru/events/71124/",
 "date": "20.08.2026",
 "iso": "2026-08-20",
+"time": "",
 "topic": "IT",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -627,8 +896,10 @@
 "url": "https://ict2go.ru/events/71103/",
 "date": "20.08.2026",
 "iso": "2026-08-20",
+"time": "",
 "topic": "IT",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -636,8 +907,10 @@
 "url": "https://ict2go.ru/events/71166/",
 "date": "20.08.2026",
 "iso": "2026-08-20",
+"time": "",
 "topic": "IT",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -645,8 +918,10 @@
 "url": "https://ict2go.ru/events/68789/",
 "date": "21.08.2026",
 "iso": "2026-08-21",
+"time": "",
 "topic": "IT",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -654,8 +929,10 @@
 "url": "https://ict2go.ru/events/69928/",
 "date": "21.08.2026",
 "iso": "2026-08-21",
+"time": "",
 "topic": "IT",
 "online": false,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -663,8 +940,10 @@
 "url": "https://ict2go.ru/events/70888/",
 "date": "24.08.2026",
 "iso": "2026-08-24",
+"time": "",
 "topic": "ИИ",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -672,8 +951,10 @@
 "url": "https://ict2go.ru/events/65741/",
 "date": "25.08.2026",
 "iso": "2026-08-25",
+"time": "",
 "topic": "IT",
 "online": false,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -681,8 +962,10 @@
 "url": "https://ict2go.ru/events/67923/",
 "date": "25.08.2026",
 "iso": "2026-08-25",
+"time": "",
 "topic": "IT",
 "online": false,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -690,8 +973,10 @@
 "url": "https://ict2go.ru/events/71082/",
 "date": "25.08.2026",
 "iso": "2026-08-25",
+"time": "",
 "topic": "IT",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -699,8 +984,10 @@
 "url": "https://ict2go.ru/events/71169/",
 "date": "25.08.2026",
 "iso": "2026-08-25",
+"time": "",
 "topic": "IT",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -708,8 +995,10 @@
 "url": "https://ict2go.ru/events/71158/",
 "date": "25.08.2026",
 "iso": "2026-08-25",
+"time": "",
 "topic": "ИИ",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -717,8 +1006,10 @@
 "url": "https://ict2go.ru/events/70848/",
 "date": "25.08.2026",
 "iso": "2026-08-25",
+"time": "",
 "topic": "IT",
 "online": false,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -726,8 +1017,10 @@
 "url": "https://ict2go.ru/events/71002/",
 "date": "25.08.2026",
 "iso": "2026-08-25",
+"time": "",
 "topic": "ИИ",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -735,8 +1028,10 @@
 "url": "https://ict2go.ru/events/66255/",
 "date": "26.08.2026",
 "iso": "2026-08-26",
+"time": "",
 "topic": "IT",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -744,8 +1039,10 @@
 "url": "https://ict2go.ru/events/71037/",
 "date": "26.08.2026",
 "iso": "2026-08-26",
+"time": "",
 "topic": "IT",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -753,8 +1050,10 @@
 "url": "https://ict2go.ru/events/71209/",
 "date": "26.08.2026",
 "iso": "2026-08-26",
+"time": "",
 "topic": "IT",
 "online": false,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -762,8 +1061,10 @@
 "url": "https://ict2go.ru/events/71224/",
 "date": "26.08.2026",
 "iso": "2026-08-26",
+"time": "",
 "topic": "IT",
 "online": false,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -771,8 +1072,10 @@
 "url": "https://ict2go.ru/events/70937/",
 "date": "27.08.2026",
 "iso": "2026-08-27",
+"time": "",
 "topic": "IT",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -780,8 +1083,10 @@
 "url": "https://ict2go.ru/events/70107/",
 "date": "27.08.2026",
 "iso": "2026-08-27",
+"time": "",
 "topic": "IT",
 "online": false,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -789,17 +1094,22 @@
 "url": "https://ict2go.ru/events/71245/",
 "date": "28.08.2026",
 "iso": "2026-08-28",
+"time": "",
 "topic": "IT",
 "online": true,
-"source": "💻 ict2go (ИТ-события)"
+"net": false,
+"source": "💻 ict2go (ИТ-события)",
+"enr": 1
 },
 {
 "title": "Kaspersky {CTF} 2026 Хакатон Разработка ПО , Искусственный интеллект (ИИ) , Криптография",
 "url": "https://ict2go.ru/events/70415/",
 "date": "29.08.2026",
 "iso": "2026-08-29",
+"time": "",
 "topic": "ИИ",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -807,8 +1117,10 @@
 "url": "https://ict2go.ru/events/70821/",
 "date": "30.08.2026",
 "iso": "2026-08-30",
+"time": "",
 "topic": "IT",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -816,8 +1128,10 @@
 "url": "https://ict2go.ru/events/70801/",
 "date": "30.08.2026",
 "iso": "2026-08-30",
+"time": "",
 "topic": "IT",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -825,8 +1139,10 @@
 "url": "https://ict2go.ru/events/70849/",
 "date": "30.08.2026",
 "iso": "2026-08-30",
+"time": "",
 "topic": "IT",
 "online": false,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -834,8 +1150,10 @@
 "url": "https://ict2go.ru/events/70106/",
 "date": "01.09.2026",
 "iso": "2026-09-01",
+"time": "",
 "topic": "IT",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -843,17 +1161,26 @@
 "url": "https://ict2go.ru/events/71256/",
 "date": "03.09.2026",
 "iso": "2026-09-03",
+"time": "10:11",
 "topic": "IT",
 "online": true,
-"source": "💻 ict2go (ИТ-события)"
+"net": false,
+"source": "💻 ict2go (ИТ-события)",
+"img": "https://ict2go.ru/ict/images/logo_header_small.png",
+"desc": "Вебинар quot;uOS 7.5.0: новые возможности для настройки и администрирования quot; состоится 3 сентября 2026 года в 10:00 (мск). На вебинаре разбер...",
+"price": "",
+"org_page": "",
+"enr": 1
 },
 {
 "title": "Петербургский цифровой хаб Конференция Цифровизация , ПО , Рынок ИТ (Тенденции ИТ)",
 "url": "https://ict2go.ru/events/69376/",
 "date": "03.09.2026",
 "iso": "2026-09-03",
+"time": "",
 "topic": "IT",
 "online": false,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -861,8 +1188,10 @@
 "url": "https://ict2go.ru/events/70965/",
 "date": "03.09.2026",
 "iso": "2026-09-03",
+"time": "",
 "topic": "IT",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -870,8 +1199,10 @@
 "url": "https://ict2go.ru/events/70886/",
 "date": "03.09.2026",
 "iso": "2026-09-03",
+"time": "",
 "topic": "IT",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -879,8 +1210,10 @@
 "url": "https://ict2go.ru/events/71095/",
 "date": "03.09.2026",
 "iso": "2026-09-03",
+"time": "",
 "topic": "IT",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -888,8 +1221,10 @@
 "url": "https://ict2go.ru/events/70737/",
 "date": "08.09.2026",
 "iso": "2026-09-08",
+"time": "",
 "topic": "IT",
 "online": false,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -897,8 +1232,10 @@
 "url": "https://ict2go.ru/events/70711/",
 "date": "08.09.2026",
 "iso": "2026-09-08",
+"time": "",
 "topic": "IT",
 "online": false,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -906,8 +1243,10 @@
 "url": "https://ict2go.ru/events/70667/",
 "date": "08.09.2026",
 "iso": "2026-09-08",
+"time": "",
 "topic": "IT",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -915,8 +1254,10 @@
 "url": "https://ict2go.ru/events/71215/",
 "date": "08.09.2026",
 "iso": "2026-09-08",
+"time": "",
 "topic": "ИИ",
 "online": false,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -924,8 +1265,10 @@
 "url": "https://ict2go.ru/events/71210/",
 "date": "08.09.2026",
 "iso": "2026-09-08",
+"time": "",
 "topic": "IT",
 "online": false,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -933,8 +1276,10 @@
 "url": "https://ict2go.ru/events/70687/",
 "date": "09.09.2026",
 "iso": "2026-09-09",
+"time": "",
 "topic": "IT",
 "online": false,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -942,8 +1287,10 @@
 "url": "https://ict2go.ru/events/70376/",
 "date": "09.09.2026",
 "iso": "2026-09-09",
+"time": "",
 "topic": "IT",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -951,8 +1298,10 @@
 "url": "https://ict2go.ru/events/66649/",
 "date": "10.09.2026",
 "iso": "2026-09-10",
+"time": "",
 "topic": "ИИ",
 "online": false,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -960,8 +1309,10 @@
 "url": "https://ict2go.ru/events/70206/",
 "date": "10.09.2026",
 "iso": "2026-09-10",
+"time": "",
 "topic": "ИИ",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -969,8 +1320,10 @@
 "url": "https://ict2go.ru/events/68791/",
 "date": "10.09.2026",
 "iso": "2026-09-10",
+"time": "",
 "topic": "IT",
 "online": false,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -978,8 +1331,10 @@
 "url": "https://ict2go.ru/events/71152/",
 "date": "10.09.2026",
 "iso": "2026-09-10",
+"time": "",
 "topic": "IT",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -987,8 +1342,10 @@
 "url": "https://ict2go.ru/events/70375/",
 "date": "10.09.2026",
 "iso": "2026-09-10",
+"time": "",
 "topic": "IT",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -996,8 +1353,10 @@
 "url": "https://ict2go.ru/events/71211/",
 "date": "10.09.2026",
 "iso": "2026-09-10",
+"time": "",
 "topic": "IT",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -1005,8 +1364,10 @@
 "url": "https://ict2go.ru/events/70770/",
 "date": "11.09.2026",
 "iso": "2026-09-11",
+"time": "",
 "topic": "IT",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -1014,8 +1375,10 @@
 "url": "https://ict2go.ru/events/70452/",
 "date": "12.09.2026",
 "iso": "2026-09-12",
+"time": "",
 "topic": "IT",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -1023,8 +1386,10 @@
 "url": "https://ict2go.ru/events/70428/",
 "date": "14.09.2026",
 "iso": "2026-09-14",
+"time": "",
 "topic": "ИИ",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -1032,8 +1397,10 @@
 "url": "https://ict2go.ru/events/70333/",
 "date": "14.09.2026",
 "iso": "2026-09-14",
+"time": "",
 "topic": "IT",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -1041,8 +1408,10 @@
 "url": "https://ict2go.ru/events/70493/",
 "date": "14.09.2026",
 "iso": "2026-09-14",
+"time": "",
 "topic": "IT",
 "online": false,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -1050,8 +1419,10 @@
 "url": "https://ict2go.ru/events/70398/",
 "date": "15.09.2026",
 "iso": "2026-09-15",
+"time": "",
 "topic": "IT",
 "online": false,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -1059,8 +1430,10 @@
 "url": "https://ict2go.ru/events/70825/",
 "date": "15.09.2026",
 "iso": "2026-09-15",
+"time": "",
 "topic": "IT",
 "online": false,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -1068,8 +1441,10 @@
 "url": "https://ict2go.ru/events/70584/",
 "date": "15.09.2026",
 "iso": "2026-09-15",
+"time": "",
 "topic": "IT",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -1077,8 +1452,10 @@
 "url": "https://ict2go.ru/events/65740/",
 "date": "16.09.2026",
 "iso": "2026-09-16",
+"time": "",
 "topic": "IT",
 "online": false,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -1086,8 +1463,10 @@
 "url": "https://ict2go.ru/events/65874/",
 "date": "16.09.2026",
 "iso": "2026-09-16",
+"time": "",
 "topic": "IT",
 "online": false,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -1095,8 +1474,10 @@
 "url": "https://ict2go.ru/events/66941/",
 "date": "16.09.2026",
 "iso": "2026-09-16",
+"time": "",
 "topic": "ИИ",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -1104,8 +1485,10 @@
 "url": "https://ict2go.ru/events/71146/",
 "date": "17.09.2026",
 "iso": "2026-09-17",
+"time": "",
 "topic": "IT",
 "online": false,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -1113,8 +1496,10 @@
 "url": "https://ict2go.ru/events/68650/",
 "date": "17.09.2026",
 "iso": "2026-09-17",
+"time": "",
 "topic": "IT",
 "online": false,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -1122,8 +1507,10 @@
 "url": "https://ict2go.ru/events/66655/",
 "date": "17.09.2026",
 "iso": "2026-09-17",
+"time": "",
 "topic": "IT",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -1131,8 +1518,10 @@
 "url": "https://ict2go.ru/events/71107/",
 "date": "17.09.2026",
 "iso": "2026-09-17",
+"time": "",
 "topic": "IT",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -1140,8 +1529,10 @@
 "url": "https://ict2go.ru/events/71150/",
 "date": "17.09.2026",
 "iso": "2026-09-17",
+"time": "",
 "topic": "ИИ",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -1149,8 +1540,10 @@
 "url": "https://ict2go.ru/events/70248/",
 "date": "17.09.2026",
 "iso": "2026-09-17",
+"time": "",
 "topic": "IT",
 "online": false,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -1158,8 +1551,10 @@
 "url": "https://ict2go.ru/events/70704/",
 "date": "18.09.2026",
 "iso": "2026-09-18",
+"time": "",
 "topic": "ИИ",
 "online": false,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -1167,8 +1562,10 @@
 "url": "https://ict2go.ru/events/71132/",
 "date": "19.09.2026",
 "iso": "2026-09-19",
+"time": "",
 "topic": "IT",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -1176,8 +1573,10 @@
 "url": "https://ict2go.ru/events/70712/",
 "date": "22.09.2026",
 "iso": "2026-09-22",
+"time": "",
 "topic": "ИИ",
 "online": false,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -1185,8 +1584,10 @@
 "url": "https://ict2go.ru/events/65432/",
 "date": "23.09.2026",
 "iso": "2026-09-23",
+"time": "",
 "topic": "IT",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -1194,8 +1595,10 @@
 "url": "https://ict2go.ru/events/66792/",
 "date": "23.09.2026",
 "iso": "2026-09-23",
+"time": "",
 "topic": "IT",
 "online": false,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -1203,8 +1606,10 @@
 "url": "https://ict2go.ru/events/67031/",
 "date": "23.09.2026",
 "iso": "2026-09-23",
+"time": "",
 "topic": "IT",
 "online": false,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -1212,8 +1617,10 @@
 "url": "https://ict2go.ru/events/71142/",
 "date": "23.09.2026",
 "iso": "2026-09-23",
+"time": "",
 "topic": "ИИ",
 "online": false,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -1221,8 +1628,10 @@
 "url": "https://ict2go.ru/events/66837/",
 "date": "23.09.2026",
 "iso": "2026-09-23",
+"time": "",
 "topic": "IT",
 "online": false,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -1230,8 +1639,10 @@
 "url": "https://ict2go.ru/events/71225/",
 "date": "23.09.2026",
 "iso": "2026-09-23",
+"time": "",
 "topic": "ИИ",
 "online": false,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -1239,8 +1650,10 @@
 "url": "https://ict2go.ru/events/71204/",
 "date": "23.09.2026",
 "iso": "2026-09-23",
+"time": "",
 "topic": "IT",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -1248,8 +1661,10 @@
 "url": "https://ict2go.ru/events/66162/",
 "date": "24.09.2026",
 "iso": "2026-09-24",
+"time": "",
 "topic": "ИИ",
 "online": false,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -1257,8 +1672,10 @@
 "url": "https://ict2go.ru/events/70838/",
 "date": "24.09.2026",
 "iso": "2026-09-24",
+"time": "",
 "topic": "IT",
 "online": false,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -1266,8 +1683,10 @@
 "url": "https://ict2go.ru/events/70839/",
 "date": "24.09.2026",
 "iso": "2026-09-24",
+"time": "",
 "topic": "IT",
 "online": false,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -1275,8 +1694,10 @@
 "url": "https://ict2go.ru/events/70278/",
 "date": "24.09.2026",
 "iso": "2026-09-24",
+"time": "",
 "topic": "IT",
 "online": false,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -1284,8 +1705,10 @@
 "url": "https://ict2go.ru/events/68352/",
 "date": "24.09.2026",
 "iso": "2026-09-24",
+"time": "",
 "topic": "IT",
 "online": false,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -1293,8 +1716,10 @@
 "url": "https://ict2go.ru/events/69708/",
 "date": "25.09.2026",
 "iso": "2026-09-25",
+"time": "",
 "topic": "ИИ",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -1302,8 +1727,10 @@
 "url": "https://ict2go.ru/events/68247/",
 "date": "25.09.2026",
 "iso": "2026-09-25",
+"time": "",
 "topic": "IT",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -1311,8 +1738,10 @@
 "url": "https://ict2go.ru/events/70299/",
 "date": "29.09.2026",
 "iso": "2026-09-29",
+"time": "",
 "topic": "IT",
 "online": false,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -1320,8 +1749,10 @@
 "url": "https://ict2go.ru/events/69815/",
 "date": "30.09.2026",
 "iso": "2026-09-30",
+"time": "",
 "topic": "IT",
 "online": false,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -1329,8 +1760,10 @@
 "url": "https://ict2go.ru/events/67405/",
 "date": "30.09.2026",
 "iso": "2026-09-30",
+"time": "",
 "topic": "IT",
 "online": false,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -1338,8 +1771,10 @@
 "url": "https://ict2go.ru/events/70808/",
 "date": "30.09.2026",
 "iso": "2026-09-30",
+"time": "",
 "topic": "IT",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -1347,8 +1782,10 @@
 "url": "https://ict2go.ru/events/71075/",
 "date": "30.09.2026",
 "iso": "2026-09-30",
+"time": "",
 "topic": "IT",
 "online": false,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -1356,8 +1793,10 @@
 "url": "https://ict2go.ru/events/69138/",
 "date": "01.10.2026",
 "iso": "2026-10-01",
+"time": "",
 "topic": "IT",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -1365,8 +1804,10 @@
 "url": "https://ict2go.ru/events/69949/",
 "date": "03.10.2026",
 "iso": "2026-10-03",
+"time": "",
 "topic": "ИИ",
 "online": false,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -1374,8 +1815,10 @@
 "url": "https://ict2go.ru/events/68030/",
 "date": "05.10.2026",
 "iso": "2026-10-05",
+"time": "",
 "topic": "IT",
 "online": false,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -1383,8 +1826,10 @@
 "url": "https://ict2go.ru/events/70738/",
 "date": "06.10.2026",
 "iso": "2026-10-06",
+"time": "",
 "topic": "IT",
 "online": false,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -1392,8 +1837,10 @@
 "url": "https://ict2go.ru/events/66657/",
 "date": "06.10.2026",
 "iso": "2026-10-06",
+"time": "",
 "topic": "IT",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -1401,8 +1848,10 @@
 "url": "https://ict2go.ru/events/69983/",
 "date": "06.10.2026",
 "iso": "2026-10-06",
+"time": "",
 "topic": "ИИ",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -1410,8 +1859,10 @@
 "url": "https://ict2go.ru/events/70796/",
 "date": "06.10.2026",
 "iso": "2026-10-06",
+"time": "",
 "topic": "ИИ",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -1419,8 +1870,10 @@
 "url": "https://ict2go.ru/events/69984/",
 "date": "07.10.2026",
 "iso": "2026-10-07",
+"time": "",
 "topic": "ИИ",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -1428,8 +1881,10 @@
 "url": "https://ict2go.ru/events/71174/",
 "date": "07.10.2026",
 "iso": "2026-10-07",
+"time": "",
 "topic": "IT",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -1437,8 +1892,10 @@
 "url": "https://ict2go.ru/events/70987/",
 "date": "08.10.2026",
 "iso": "2026-10-08",
+"time": "",
 "topic": "IT",
 "online": false,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -1446,8 +1903,10 @@
 "url": "https://ict2go.ru/events/70586/",
 "date": "12.10.2026",
 "iso": "2026-10-12",
+"time": "",
 "topic": "ИИ",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -1455,8 +1914,10 @@
 "url": "https://ict2go.ru/events/70303/",
 "date": "12.10.2026",
 "iso": "2026-10-12",
+"time": "",
 "topic": "ИИ",
 "online": false,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -1464,8 +1925,10 @@
 "url": "https://ict2go.ru/events/65739/",
 "date": "13.10.2026",
 "iso": "2026-10-13",
+"time": "",
 "topic": "ИИ",
 "online": false,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -1473,8 +1936,10 @@
 "url": "https://ict2go.ru/events/70266/",
 "date": "14.10.2026",
 "iso": "2026-10-14",
+"time": "",
 "topic": "IT",
 "online": false,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -1482,8 +1947,10 @@
 "url": "https://ict2go.ru/events/66942/",
 "date": "14.10.2026",
 "iso": "2026-10-14",
+"time": "",
 "topic": "ИИ",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -1491,8 +1958,10 @@
 "url": "https://ict2go.ru/events/65694/",
 "date": "14.10.2026",
 "iso": "2026-10-14",
+"time": "",
 "topic": "IT",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -1500,8 +1969,10 @@
 "url": "https://ict2go.ru/events/65916/",
 "date": "15.10.2026",
 "iso": "2026-10-15",
+"time": "",
 "topic": "IT",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -1509,8 +1980,10 @@
 "url": "https://ict2go.ru/events/70301/",
 "date": "16.10.2026",
 "iso": "2026-10-16",
+"time": "",
 "topic": "ИИ",
 "online": false,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -1518,8 +1991,10 @@
 "url": "https://ict2go.ru/events/70223/",
 "date": "18.10.2026",
 "iso": "2026-10-18",
+"time": "",
 "topic": "IT",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -1527,8 +2002,10 @@
 "url": "https://ict2go.ru/events/71220/",
 "date": "20.10.2026",
 "iso": "2026-10-20",
+"time": "",
 "topic": "ИИ",
 "online": false,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -1536,8 +2013,10 @@
 "url": "https://ict2go.ru/events/70304/",
 "date": "21.10.2026",
 "iso": "2026-10-21",
+"time": "",
 "topic": "IT",
 "online": false,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -1545,8 +2024,10 @@
 "url": "https://ict2go.ru/events/71241/",
 "date": "22.10.2026",
 "iso": "2026-10-22",
+"time": "",
 "topic": "IT",
 "online": false,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -1554,8 +2035,10 @@
 "url": "https://ict2go.ru/events/69986/",
 "date": "22.10.2026",
 "iso": "2026-10-22",
+"time": "",
 "topic": "ИИ",
 "online": true,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -1563,8 +2046,10 @@
 "url": "https://ict2go.ru/events/67853/",
 "date": "22.10.2026",
 "iso": "2026-10-22",
+"time": "",
 "topic": "IT",
 "online": false,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -1572,8 +2057,10 @@
 "url": "https://ict2go.ru/events/65738/",
 "date": "22.10.2026",
 "iso": "2026-10-22",
+"time": "",
 "topic": "IT",
 "online": false,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -1581,17 +2068,26 @@
 "url": "https://ict2go.ru/events/71242/",
 "date": "22.10.2026",
 "iso": "2026-10-22",
+"time": "10:11",
 "topic": "IT",
 "online": false,
-"source": "💻 ict2go (ИТ-события)"
+"net": false,
+"source": "💻 ict2go (ИТ-события)",
+"img": "https://ict2go.ru/ict/images/logo_header_small.png",
+"desc": "22-24 октября 2026 года в Санкт-Петербурге состоится laquo;Санкт-Петербургский международный научно-образовательный салон: raquo;. Мероприятие,...",
+"price": "",
+"org_page": "",
+"enr": 1
 },
 {
 "title": "HolyJS 2026 Autumn Конференция Разработка ПО , Разработка приложений , Искусственный интеллект (ИИ) , JavaScri",
 "url": "https://ict2go.ru/events/70305/",
 "date": "23.10.2026",
 "iso": "2026-10-23",
+"time": "",
 "topic": "ИИ",
 "online": false,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
@@ -1599,134 +2095,43 @@
 "url": "https://ict2go.ru/events/70685/",
 "date": "24.10.2026",
 "iso": "2026-10-24",
+"time": "",
 "topic": "IT",
 "online": false,
+"net": false,
 "source": "💻 ict2go (ИТ-события)"
 },
 {
-"title": "IT-Информационные технологии РЕД ВРМ + РЕД АДМ: Управляемая VDI-среда без компромиссов 11.08.2026 Вт 11.08.202",
-"url": "https://all-events.ru/events/red-vrm-red-adm-upravlyaemaya-vdi-sreda-bez-kompromissov/",
-"date": "11.08.2026",
-"iso": "2026-08-11",
+"title": "Виртуализация 2026: реальный опыт Конференция ИТ-инфраструктура , Виртуализация , ИТ в бизнесе",
+"url": "https://ict2go.ru/events/69987/",
+"date": "28.10.2026",
+"iso": "2026-10-28",
+"time": "",
 "topic": "IT",
 "online": true,
-"source": "📅 all-events (деловые события)"
+"net": false,
+"source": "💻 ict2go (ИТ-события)"
 },
 {
-"title": "Искусственный интеллект Пять уровней ИИ-зрелости сотрудников: диагностика, типовые барьеры, роли в ИИ-трансфор",
-"url": "https://all-events.ru/events/pyat-urovney-ii-zrelosti-sotrudnikov-diagnostika-tipovye-barery-roli-v-ii-transformatsii/",
-"date": "11.08.2026",
-"iso": "2026-08-11",
-"topic": "ИИ",
-"online": true,
-"source": "📅 all-events (деловые события)"
-},
-{
-"title": "11 августа 2026 Вебинар по работе с модулем ТС ПИоТ не указан Онлайн-трансляция не определено Онлайн-трансляци",
-"url": "https://all-events.ru/events/vebinar-po-rabote-s-modulem-ts-piot/",
-"date": "11 августа 2026",
-"iso": "2026-08-11",
+"title": "не указан Онлайн-трансляция не определено Онлайн-трансляция Лето – это не только время отпусков. Это еще и пер",
+"url": "https://all-events.ru/events/kadrovye-resheniya-2026-voinskiy-uchet-oplata-truda-personalnye-dannye-otchetnost-v-sfr-/",
+"date": "",
+"iso": "",
+"time": "",
 "topic": "Бизнес",
 "online": true,
+"net": false,
 "source": "📅 all-events (деловые события)"
 },
 {
-"title": "Автоматизация Как выбрать ИСУП, которая действительно заработает 11.08.2026 Вт 11.08.2026 Вт Вебинар Онлайн-тр",
-"url": "https://all-events.ru/events/kak-vybrat-isup-kotoraya-deystvitelno-zarabotaet/",
-"date": "11.08.2026",
-"iso": "2026-08-11",
-"topic": "IT",
-"online": true,
-"source": "📅 all-events (деловые события)"
-},
-{
-"title": "Импортонезависимое решение для построения надежной ИТ-инфраструктуры. Безопасная виртуализация zVirt от Orion Soft",
-"url": "https://all-events.ru/events/importonezavisimoe-reshenie-dlya-postroeniya-nadezhnoy-it-infrastruktury-bezopasnaya-virtualizatsiya/",
-"date": "11.08.2026",
-"iso": "2026-08-11",
-"topic": "IT",
-"online": true,
-"source": "📅 all-events (деловые события)"
-},
-{
-"title": "HR\\Управление персоналом Управленцы не управляют?! Цена управленческих ошибок для бизнеса на реальных бизнес к",
-"url": "https://all-events.ru/events/upravlentsy-ne-upravlyayut-tsena-upravlencheskikh-oshibok-dlya-biznesa-na-realnykh-biznes-keysakh/",
-"date": "11.08.2026",
-"iso": "2026-08-11",
-"topic": "Бизнес",
-"online": true,
-"source": "📅 all-events (деловые события)"
-},
-{
-"title": "Электронная коммерция Как удалить отзывы, которые порочат репутацию бизнеса 11.08.2026 Вт 11.08.2026 Вт Вебина",
-"url": "https://all-events.ru/events/kak-udalit-otzyvy-kotorye-porochat-reputatsiyu-biznesa/",
-"date": "11.08.2026",
-"iso": "2026-08-11",
-"topic": "Бизнес",
-"online": true,
-"source": "📅 all-events (деловые события)"
-},
-{
-"title": "Круглый стол IT-Информационные технологии Метавселенные и виртуальная реальность: мода или рабочий инструмент ",
-"url": "https://all-events.ru/events/metavselennye-i-virtualnaya-realnost-moda-ili-rabochiy-instrument/",
-"date": "11.08.2026",
-"iso": "2026-08-11",
-"topic": "IT",
-"online": false,
-"source": "📅 all-events (деловые события)"
-},
-{
-"title": "IT-Информационные технологии От угроз к возможностям: Использование DLP для стратегического управления рисками",
-"url": "https://all-events.ru/events/ot-ugroz-k-vozmozhnostyam-ispolzovanie-dlp-dlya-strategicheskogo-upravleniya-riskami_23/",
-"date": "11.08.2026",
-"iso": "2026-08-11",
-"topic": "IT",
-"online": true,
-"source": "📅 all-events (деловые события)"
-},
-{
-"title": "Налоги Исчисление, уплата и представление отчетности по страховым взносам в 2026 году 11.08.2026 Вт 11.08.2026",
-"url": "https://all-events.ru/events/ischislenie-uplata-i-predstavlenie-otchetnosti-po-strakhovym-vznosam-v-2026-godu/",
-"date": "11.08.2026",
-"iso": "2026-08-11",
-"topic": "Бизнес",
-"online": true,
-"source": "📅 all-events (деловые события)"
-},
-{
-"title": "11 августа 2026 Живой разбор кейсов. ИИ в маркетинге и продажах не указан Онлайн-трансляция не определено Онла",
-"url": "https://all-events.ru/events/zhivoy_razbor_keysov_ii_v_marketinge_i_prodazhakh/",
-"date": "11 августа 2026",
-"iso": "2026-08-11",
-"topic": "ИИ",
-"online": true,
-"source": "📅 all-events (деловые события)"
-},
-{
-"title": "Цифровая трансформация Как не терять проекты — система контроля без микроменеджмента 11.08.2026 Вт 11.08.2026 ",
-"url": "https://all-events.ru/events/kak_ne_teryat_proekty_sistema_kontrolya_bez_mikromenedzhmenta/",
-"date": "11.08.2026",
-"iso": "2026-08-11",
-"topic": "IT",
-"online": true,
-"source": "📅 all-events (деловые события)"
-},
-{
-"title": "IT-Информационные технологии КЭДО для производства: подписать документы, не снимая каски и перчаток 11.08.2026",
-"url": "https://all-events.ru/events/kedo-dlya-proizvodstva-podpisat-dokumenty-ne-snimaya-kaski-i-perchatok_2/",
-"date": "11.08.2026",
-"iso": "2026-08-11",
-"topic": "IT",
-"online": true,
-"source": "📅 all-events (деловые события)"
-},
-{
-"title": "IT-Информационные технологии Методы защиты и обеспечения безопасности ПО 12.08.2026 Ср 12.08.2026 Ср Вебинар О",
+"title": "12 августа 2026 Методы защиты и обеспечения безопасности ПО не указан Онлайн-трансляция не определено Онлайн-т",
 "url": "https://all-events.ru/events/metody-zashchity-i-obespecheniya-bezopasnosti-po/",
-"date": "12.08.2026",
+"date": "12 августа 2026",
 "iso": "2026-08-12",
-"topic": "IT",
+"time": "15:00",
+"topic": "Бизнес",
 "online": true,
+"net": false,
 "source": "📅 all-events (деловые события)"
 },
 {
@@ -1734,17 +2139,209 @@
 "url": "https://all-events.ru/events/vyvezem-epd-vmeste/",
 "date": "12 августа 2026",
 "iso": "2026-08-12",
+"time": "",
 "topic": "Бизнес",
 "online": true,
+"net": false,
 "source": "📅 all-events (деловые события)"
+},
+{
+"title": "12 августа 2026 Модель цифровой зрелости не указан Онлайн-трансляция не определено Онлайн-трансляция Модель ци",
+"url": "https://all-events.ru/events/model-tsifrovoy-zrelosti-otsenite-uroven-svoego-predpriyatiya-i-sformiruyte-plan-shagov-dlya-razviti/",
+"date": "12 августа 2026",
+"iso": "2026-08-12",
+"time": "15:00",
+"topic": "IT",
+"online": true,
+"net": false,
+"source": "📅 all-events (деловые события)",
+"img": "https://all-events.ru/upload/iblock/261/8wz7j9zlz2cru2a39bw500giw8cbsmro.png",
+"desc": "Модель цифровой зрелости br br Оцените уровень своего предприятия и сформируйте план шагов для развития за 1 час Модель цифровой зрелости Да, , программа, спикеры, стоимость участия. Подробности на All-Events.ru!",
+"price": "",
+"org_page": "",
+"enr": 1
+},
+{
+"title": "12 августа 2026 Обеспечение сохранности данных не указан Онлайн-трансляция не определено Онлайн-трансляция При",
+"url": "https://all-events.ru/events/obespechenie-sokhrannosti-dannykh/",
+"date": "12 августа 2026",
+"iso": "2026-08-12",
+"time": "15:00",
+"topic": "Бизнес",
+"online": true,
+"net": false,
+"source": "📅 all-events (деловые события)",
+"img": "https://all-events.ru/upload/iblock/807/w9woirjca6ce2zp4ysqw630iygktfarg.png",
+"desc": "Приглашаем вас на вебинар, посвященный обеспечению сохранности данных. br br На вебинаре напомним, что такое RuBackup, его лицензирование и преимущества, кому и как его можно предлагать. Обеспечение сохранности данных Да, , программа, спикеры, стоимость участия. Подробности на All-Events.ru!",
+"price": "Бесплатно",
+"org_page": "",
+"enr": 1
+},
+{
+"title": "Налоги Первичные документы. Переход на электронный документооборот 12.08.2026 Ср 12.08.2026 Ср Вебинар Онлайн-",
+"url": "https://all-events.ru/events/pervichnye-dokumenty-perekhod-na-elektronnyy-dokumentooborot/",
+"date": "12.08.2026",
+"iso": "2026-08-12",
+"time": "",
+"topic": "Бизнес",
+"online": true,
+"net": false,
+"source": "📅 all-events (деловые события)",
+"img": "https://all-events.ru/upload/iblock/df2/0s5l0zs71m25j5jgicufcwv3e67mqtp8.webp",
+"desc": "Первичные документы. Переход на электронный документооборот br br Спикеры Ольга Бондаренко br Аудитор, консультант по налогам и сборам, Эксперт и член Правления Палаты налоговых консультантов России, ревизор Совета по профессиональным квалификациям финансового рынка, аттестованный преподаватель Палаты налоговых консультантов и ИПБ России, бизнес-тренер МВА, ведущий методолог консультационного цент",
+"price": "Бесплатно",
+"org_page": "",
+"enr": 1
+},
+{
+"title": "Факторинг в ИТ: как партнеру получить быстрое финансирование, закрыть критические боли и сделать работу с дебиторкой выгодной",
+"url": "https://all-events.ru/events/faktoring-v-it-kak-partneru-poluchit-bystroe-finansirovanie-zakryt-kriticheskie-boli-i-sdelat-rabotu/",
+"date": "12.08.2026",
+"iso": "2026-08-12",
+"time": "11:00",
+"topic": "IT",
+"online": true,
+"net": false,
+"source": "📅 all-events (деловые события)",
+"img": "https://all-events.ru/upload/iblock/6e3/so238b4wdi89ar8sk6bwz8a5smxd5lor.png",
+"desc": "Знакомая ситуация: крупный заказчик готов купить у вас партию товара или услугу, но ставит условие — отсрочка платежа 60, 90, а то и 120 дней. Отказаться — значит потерять контракт и уступить нишу конкурентам. Согласиться — значит заморозить оборотные средства, взять кассовый разрыв и, скорее всего, пойти в банк за кредитом. br br В текущих реалиях, когда стоимость денег высока, а кредитные линии ",
+"price": "",
+"org_page": "",
+"enr": 1
+},
+{
+"title": "Митап meet-up HR\\Управление персоналом Индо-Российский талантовый мост 2026 12.08.2026 - 13.08.2026 Ср-Чт 12.0",
+"url": "https://all-events.ru/events/indo_rossiyskiy_talantovyy_most_2026/",
+"date": "12.08.2026",
+"iso": "2026-08-12",
+"time": "10:00",
+"topic": "Бизнес",
+"online": false,
+"net": false,
+"source": "📅 all-events (деловые события)",
+"img": "https://all-events.ru/upload/iblock/c83/4hls492dtv6egpm29x5drju7xohrmi6v.jpg",
+"desc": "Мероприятие направлено на развитие международного сотрудничества, укрепление деловых связей между Российской Федерацией и Республикой Индия, а также создание эффективной площадки для взаимодействия ро Индо-Российский талантовый мост 2026 , 10:00, программа, спикеры, стоимость участия. Подробности на All-Events.ru!",
+"price": "Бесплатно",
+"org_page": "",
+"enr": 1
+},
+{
+"title": "IT-Информационные технологии Внедряем ИИ-агентов без катастроф: безопасность, ревью и контроль качества 13.08.",
+"url": "https://all-events.ru/events/vnedryaem-ii-agentov-bez-katastrof-bezopasnost-revyu-i-kontrol-kachestva/",
+"date": "13.08.2026",
+"iso": "2026-08-13",
+"time": "14:00",
+"topic": "ИИ",
+"online": true,
+"net": false,
+"source": "📅 all-events (деловые события)",
+"img": "https://all-events.ru/upload/iblock/d76/gtzkkod7vfd35n73hxbfdb5jjq4t5c7u.png",
+"desc": "Команда SimbirSoft и TN Digital (ТЕХНОНИКОЛЬ) 13 августа 2026 года в 14:00 (мск) проводит вебинар «Внедряем ИИ-агентов без катастроф: безопасность, ревью и контроль качества». br br Где ИИ ускоряет команду, а где создаёт проблемы? Честный разбор с живым кодом и реальными кейсами Внедряем ИИ-агентов без катастроф: безопасность, ревью и контроль качества Да, , программа, спикеры, стоимость участия. ",
+"price": "",
+"org_page": "",
+"enr": 1
+},
+{
+"title": "13 августа 2026 Как заместить Cisco в Enterprise-сегменте не указан Онлайн-трансляция не определено Онлайн-тра",
+"url": "https://all-events.ru/events/kak-zamestit-cisco-v-enterprise-segmente/",
+"date": "13 августа 2026",
+"iso": "2026-08-13",
+"time": "15:00",
+"topic": "Бизнес",
+"online": true,
+"net": false,
+"source": "📅 all-events (деловые события)",
+"img": "https://all-events.ru/upload/iblock/f90/hfv692h9j562m642ha7g315pteu509cb.png",
+"desc": "Уход зарубежных вендоров поставил перед крупным бизнесом задачу срочной адаптации сетевой инфраструктуры. br Приглашаем вас 13 августа на вебинар, где представитель ГК «А101» поделится опытом миграции с Cisco: от оценки рисков до практической реализации микросегментации и первых результатов проекта. Как заместить Cisco в Enterprise-сегменте Да, , программа, спикеры, стоимость участия. Подробности ",
+"price": "",
+"org_page": "",
+"enr": 1
+},
+{
+"title": "IT-Информационные технологии Вебинар для партнёров. Презентация нового модуля «Сервис уведомлений» для платфор",
+"url": "https://all-events.ru/events/vebinar-dlya-partnyerov-prezentatsiya-novogo-modulya-servis-uvedomleniy-dlya-platformy-docsvision/",
+"date": "13.08.2026",
+"iso": "2026-08-13",
+"time": "11:00",
+"topic": "IT",
+"online": true,
+"net": false,
+"source": "📅 all-events (деловые события)",
+"img": "https://all-events.ru/upload/iblock/6bf/5d34eqm1lhifmyb284rf5k4kzbs1o4bi.png",
+"desc": "Мы выпустили новый модуль, позволяющий централизованно управлять уведомлениями в платформе Docsvision. С его помощью можно настраивать произвольные события для рассылки уведомлений пользователям, кастомизировать дизайн уведомлений, подключать различные источники данных и отправлять уведомления по различным каналам – почта, смс и мессенджеры. br br 13 августа в 11:00 (МСК) на закрытом вебинаре для ",
+"price": "Бесплатно",
+"org_page": "",
+"enr": 1
+},
+{
+"title": "13 августа 2026 Как заставить методологию УП работать не указан Онлайн-трансляция не определено Онлайн-трансля",
+"url": "https://all-events.ru/events/kak-zastavit-metodologiyu-up-rabotat/",
+"date": "13 августа 2026",
+"iso": "2026-08-13",
+"time": "15:00",
+"topic": "Бизнес",
+"online": true,
+"net": false,
+"source": "📅 all-events (деловые события)",
+"img": "https://all-events.ru/upload/iblock/a3b/b2bsvyvx8uwia57id53i8bfe735cjy8u.png",
+"desc": "Методология есть, а РП её игнорируют? Регламенты пылятся на полке, а проекты срываются? Как заставить методологию УП работать Да, 15:00, программа, спикеры, стоимость участия. Подробности на All-Events.ru!",
+"price": "Бесплатно",
+"org_page": "",
+"enr": 1
+},
+{
+"title": "Маркетинг Как привлекать крупных B2B-клиентов: ABM-маркетинг + AI-агенты 13.08.2026 Чт 13.08.2026 Чт Конференц",
+"url": "https://all-events.ru/events/kak-privlekat-krupnykh-b2b-klientov-abm-marketing-ai-agenty/",
+"date": "13.08.2026",
+"iso": "2026-08-13",
+"time": "16:00",
+"topic": "ИИ",
+"online": true,
+"net": false,
+"source": "📅 all-events (деловые события)",
+"img": "https://all-events.ru/upload/iblock/1bc/9tgr21qzednnlj4wtyouq3l7n6j366dd.png",
+"desc": "13 августа 2026 г. в 16:00 (мск) пройдет онлайн-конференция Как привлекать крупных B2B-клиентов: ABM-маркетинг + AI-агенты . br br Стратегия Account-Based Marketing, ИИ-агенты в лидогенерации и ведение сложных сделок от первого касания до контракта. Реальные кейсы из ИТ, логистики, промышленности и консалтинга. Как привлекать крупных B2B-клиентов: ABM-маркетинг + AI-агенты Да, , программа, спикеры",
+"price": "",
+"org_page": "",
+"enr": 1
+},
+{
+"title": "Искусственный интеллект ИИ есть у каждого сотрудника. Почему результатов нет у компании? 13.08.2026 Чт 13.08.2",
+"url": "https://all-events.ru/events/ii-est-u-kazhdogo-sotrudnika-pochemu-rezultatov-net-u-kompanii/",
+"date": "13.08.2026",
+"iso": "2026-08-13",
+"time": "",
+"topic": "ИИ",
+"online": true,
+"net": false,
+"source": "📅 all-events (деловые события)",
+"enr": 1
+},
+{
+"title": "Как Magnit OMNI ускорили обучение сотрудников в 4 раза и масштабировали его на 5+ направлений без раздувания команды",
+"url": "https://all-events.ru/events/kak-magnit-omni-uskorili-obuchenie-sotrudnikov-v-4-raza-i-masshtabirovali-ego-na-5-napravleniy-bez-r/",
+"date": "13.08.2026",
+"iso": "2026-08-13",
+"time": "",
+"topic": "Бизнес",
+"online": true,
+"net": false,
+"source": "📅 all-events (деловые события)",
+"img": "https://all-events.ru/upload/iblock/17f/7g7mvk6icc68bhgnegdto1u9zm75kf3e.png",
+"desc": "Как обучать быстро, масштабно и измеримо — даже при высокой текучести? Magnit OMNI выстроил систему, которая работает: новичок выходит на линию быстрее, обучение измеримо, а новые программы запускаются за дни, а не за месяцы. br br Команда обучения Magnit OMNI поделится, как они прошли путь от разрозненных текстовых инструкций до единой системы, через которую сегодня учатся тысячи сотрудников, и п",
+"price": "",
+"org_page": "",
+"enr": 1
 },
 {
 "title": "Регистрация открыта Конференции GoCloud Tech 2026 15 октября 2026",
 "url": "https://cloud.ru/events/gocloud-tech-2026",
 "date": "15 октября 2026",
 "iso": "2026-10-15",
+"time": "",
 "topic": "IT",
 "online": false,
+"net": false,
 "source": "☁️ Cloud.ru (вебинары)"
 },
 {
@@ -1752,8 +2349,10 @@
 "url": "https://cloud.ru/events/kak-ii-pomogaet-sozdavat-i-soprovozhdat-spark-zadachi-v-oblake-21729902040",
 "date": "27 августа 2026",
 "iso": "2026-08-27",
+"time": "",
 "topic": "ИИ",
 "online": true,
+"net": false,
 "source": "☁️ Cloud.ru (вебинары)"
 },
 {
@@ -1761,8 +2360,10 @@
 "url": "https://cloud.ru/events/ii-proekty-kogda-i-kak-perekhodit-ot-api-k-bare-metal-22583901067",
 "date": "25 августа 2026",
 "iso": "2026-08-25",
+"time": "",
 "topic": "ИИ",
 "online": true,
+"net": false,
 "source": "☁️ Cloud.ru (вебинары)"
 },
 {
@@ -1770,9 +2371,60 @@
 "url": "https://cloud.ru/events/otkaz-tsod-vystraivaem-zashchitu-s-draas-i-baas-21786969438",
 "date": "18 августа 2026",
 "iso": "2026-08-18",
+"time": "",
 "topic": "IT",
 "online": true,
+"net": false,
 "source": "☁️ Cloud.ru (вебинары)"
+},
+{
+"title": "Информация и связь Петербургский цифровой хаб 2026 3 сентября 2026 - 3 сентября 2026",
+"url": "https://www.expoforum.ru/calendar/peterburgskij-czifrovoj-khab/",
+"date": "",
+"iso": "",
+"time": "",
+"topic": "IT",
+"online": false,
+"net": false,
+"source": "🏟 Экспофорум"
+},
+{
+"title": "Сельское хозяйство Агропромышленная выставка АГРОРУСЬ 2026 16 сентября 2026 - 18 сентября 2026 Зарегистрироват",
+"url": "https://www.expoforum.ru/calendar/agropromyshlennaya-vystavka-agrorus-2026/",
+"date": "",
+"iso": "",
+"time": "",
+"topic": "Бизнес",
+"online": false,
+"net": false,
+"source": "🏟 Экспофорум"
+},
+{
+"title": "Санкт-Петербургский международный научно-образовательный салон 2026 22 октября 2026 - 24 октября 2026",
+"url": "https://www.expoforum.ru/calendar/sankt-peterburgskij-mezhdunarodnyj-nauchno-obrazovatelnyj-salon-2026/",
+"date": "22 октября 2026",
+"iso": "2026-10-22",
+"time": "",
+"topic": "Бизнес",
+"online": false,
+"net": false,
+"source": "🏟 Экспофорум"
+},
+{
+"title": "Металлургия, сварка, механизмы, станки, оборудование Выставка «Станочный хаб» 2026 22 октября 2026 - 24 октябр",
+"url": "https://www.expoforum.ru/calendar/vystavka-stanochnyj-hab-2026/",
+"date": "22 октября 2026",
+"iso": "2026-10-22",
+"time": "8:45",
+"topic": "Бизнес",
+"online": false,
+"net": false,
+"source": "🏟 Экспофорум",
+"img": "",
+"desc": "",
+"price": "",
+"org_page": "EXPOFORUM",
+"enr": 1
 }
 ]
 }

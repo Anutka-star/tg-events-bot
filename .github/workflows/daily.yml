@@ -3,6 +3,7 @@ name: daily-events
 on:
   schedule:
     - cron: '0 7 * * *'   # каждый день в 07:00 UTC = 10:00 по Москве
+    - cron: '0 6 * * 1'   # понедельник 06:00 UTC = 09:00 МСК — дайджест недели
   workflow_dispatch:       # кнопка ручного запуска
 
 permissions:
@@ -25,7 +26,12 @@ jobs:
         env:
           TG_TOKEN: ${{ secrets.TG_TOKEN }}
           TG_CHAT: ${{ secrets.TG_CHAT }}
-        run: python parser.py
+        run: |
+          if [ "${{ github.event.schedule }}" = "0 6 * * 1" ]; then
+            python parser.py --digest
+          else
+            python parser.py
+          fi
 
       - name: Сохранение списка увиденных событий
         run: |
