@@ -11,10 +11,11 @@
    «Directories» → введите `mysite` → New directory).
 2. В папке mysite → **Upload a file** → загрузите `webhook_bot.py` из папки
    tg-events-bot на рабочем столе.
-3. Там же → в поле «Files» введите `keys.txt` → **New file** → вставьте две строки:
+3. Там же → в поле «Files» введите `keys.txt` → **New file** → вставьте три строки:
    - токен бота (тот же, что в Keys.txt на рабочем столе);
-   - ссылку `https://raw.githubusercontent.com/ВАШ_ЛОГИН_GITHUB/tg-events-bot/main/events.json`
-     (подставьте свой логин GitHub).
+   - ссылку `https://raw.githubusercontent.com/ВАШ_ЛОГИН_GITHUB/tg-events-bot/main/events.json`;
+   - ваш личный Telegram ID (число из бота @getidsbot — нужно для кнопки
+     «Написать основателям»: сообщения пользователей будут приходить вам).
    Нажмите **Save**.
 
 ## Шаг 3. Веб-приложение
@@ -44,8 +45,9 @@ https://api.telegram.org/botВАШ_ТОКЕН/setWebhook?url=https://ВАШ_ЛО
 → бот пришлёт список со ссылками.
 
 ## Важно помнить
-- Раз в 3 месяца PythonAnywhere присылает письмо и просит нажать жёлтую кнопку
-  **Run until … (Extend)** на вкладке Web — иначе кнопки перестанут отвечать.
+- Раз в МЕСЯЦ PythonAnywhere просит нажать жёлтую кнопку **Run until 1 month
+  from today** на вкладке Web (письмо-напоминание придёт за неделю) — иначе
+  кнопочный бот заснёт. Ежедневной ленты канала это не касается.
 - Кнопка «Английский» может быть пустой: события англоклубов идут с Timepad,
   который пускает не все автоматические запросы.
 - Если кнопки молчат: вкладка Web → **Error log** и файл `bot_errors.log` в Files —
