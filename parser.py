@@ -27,7 +27,8 @@ SEEN_FILE = os.path.join(HERE, "seen.json")
 EVENTS_FILE = os.path.join(HERE, "events.json")
 TODAY = date.today()
 BOT_LINK = "https://t.me/NorthernIntelligence_bot"
-ENRICH_MAX = 40          # сколько страниц событий обогащаем за один прогон
+ENRICH_MAX = 60          # сколько страниц событий обогащаем за один прогон
+ENR_VERSION = 2          # версия обогащения: поднимаем — старые события обогатятся заново
 CARDS_MAX = 25           # максимум карточек в канал за прогон
 
 UA = {
@@ -194,8 +195,9 @@ def enrich_page(e):
     try:
         html = fetch(e["url"])
     except Exception:
-        e["enr"] = 1  # чтобы не долбить недоступную страницу каждый день
+        e["enr"] = ENR_VERSION  # чтобы не долбить недоступную страницу каждый день
         return e
+
     def meta(*names):
         for n in names:
             m = re.search(r'<meta[^>]+(?:property|name)=["\']%s["\'][^>]+content=["\']([^"\']+)["\']' % re.escape(n), html, re.I) \
@@ -203,35 +205,74 @@ def enrich_page(e):
             if m:
                 return m.group(1).strip()
         return ""
+
     img = meta("og:image", "twitter:image")
     if img.startswith("//"):
         img = "https:" + img
     elif img.startswith("/"):
         img = urljoin(e["url"], img)
-    if not img.lower().startswith("http"):
-        img = ""
+    if not img.lower().startswith("http") or re.search(r"logo_header|favicon|/ict/images/", img):
+        img = ""  # логотип сайта — не афиша
     desc = meta("og:description", "description", "twitter:description")
     desc = clean(re.sub(r"&[a-z]+;", " ", desc))[:400]
-    text = re.sub(r"<script.*?</script>|<style.*?</style>", " ", html, flags=re.S)
-    text = clean(re.sub(r"<[^>]+>", " ", text))[:6000]
-    price = ""
-    m = re.search(r"\b(бесплатно|бесплатное|free)\b", text, re.I)
+
+    soup = BeautifulSoup(html, "html.parser")
+    for bad in soup(["script", "style"]):
+        bad.decompose()
+    text = clean(soup.get_text(" ", strip=True))[:8000]
+
+    # --- организатор: сначала точные места конкретных сайтов, потом общий шаблон
+    BAD_ORG = re.compile(r"^(спикер|каталог|организатор|площадк|о нас|новост|реклам|программа|участник)", re.I)
+    org = ""
+    node = soup.select_one("div.organizers a[href*='/companies/']")  # ict2go
+    if node:
+        org = clean(node.get_text())
+    if not org:
+        node = soup.select_one("div.organizer-events a[href*='/organizers/']")  # all-events
+        if node:
+            im = node.find("img")
+            cand = clean((im.get("alt") or im.get("title")) if im else "") or clean(node.get_text())
+            t_low, c_low = clean(e.get("title", "")).lower()[:40], cand.lower()
+            # подпись к логотипу часто дублирует название события — такое не берём
+            if cand and t_low and t_low[:25] not in c_low and c_low[:25] not in t_low:
+                org = cand
+    if not org:
+        m = re.search(r"Организатор[ы]?\s*:\s*(.{2,60}?)(?:\s{2,}|Будь в курсе|Сайт|Контакты|$)", text)
+        if m:
+            org = clean(m.group(1))
+    if not org:
+        org = meta("og:site_name")
+    if not org or BAD_ORG.search(org) or org.lower() in (
+            "ict2go", "ict2go.ru", "all-events", "all-events.ru", "timepad", "все события", "all events"):
+        org = ""
+
+    # --- время: «Начало [12.08.2026] в 15:00» точнее, чем первое попавшееся время
+    m = re.search(r"Начало(?:\s+\d{1,2}\.\d{1,2}\.\d{4})?\s+в\s+([01]?\d|2[0-3]):([0-5]\d)", text, re.I)
     if m:
+        e["time"] = f"{m.group(1)}:{m.group(2)}"
+    elif not e.get("time"):
+        m = re.search(r"\b([01]?\d|2[0-3]):[0-5]\d\b", text)
+        if m:
+            e["time"] = m.group(0)
+
+    # --- цена: подписанное поле, затем общие шаблоны
+    price = ""
+    m = re.search(r"(?:Стоимость|Цена|Участие|Билеты)\s*:?\s{0,3}(бесплатн\w+|от\s?\d[\d\s]{0,8}\s?(?:₽|руб)\S{0,4}|\d[\d\s]{0,8}\s?(?:₽|руб)\S{0,4})", text, re.I)
+    if m:
+        price = clean(m.group(1))
+    elif re.search(r"\b(бесплатно|бесплатное|участие свободное|free)\b", text, re.I):
         price = "Бесплатно"
     else:
         m = re.search(r"(от\s?\d[\d\s]{0,8}\s?(?:₽|руб))|(\d[\d\s]{0,8}\s?(?:₽|руб))", text, re.I)
         if m:
-            price = clean(m.group(0)).replace("руб", "₽").replace("₽.", "₽")
-    if not e.get("time"):
-        m = re.search(r"\b([01]?\d|2[0-3]):[0-5]\d\b", text)
-        if m:
-            e["time"] = m.group(0)
-    org = meta("og:site_name")
-    if org.lower() in ("ict2go", "ict2go.ru", "all-events", "all-events.ru", "timepad"):
-        org = ""
+            price = clean(m.group(0))
+    if price:
+        price = re.sub(r"бесплатн\w+", "Бесплатно", price, flags=re.I)
+        price = price.replace("руб.", "₽").replace("руб", "₽")
+
     if NET_RE.search((e.get("title", "") + " " + desc)):
         e["net"] = True
-    e.update({"img": img, "desc": desc, "price": price, "org_page": clean(org)[:60], "enr": 1})
+    e.update({"img": img, "desc": desc, "price": price, "org_page": clean(org)[:60], "enr": ENR_VERSION})
     return e
 
 
@@ -370,7 +411,7 @@ def main():
     # переносим обогащение с прошлых прогонов
     for e in all_events:
         p = prev.get(e["url"])
-        if p and p.get("enr"):
+        if p and p.get("enr", 0) >= ENR_VERSION:
             for k in ("img", "desc", "price", "org_page", "enr"):
                 e[k] = p.get(k, e.get(k, ""))
             if not e.get("time") and p.get("time"):
@@ -387,13 +428,13 @@ def main():
     for e in fresh:
         if budget <= 0:
             break
-        if not e.get("enr"):
+        if e.get("enr", 0) < ENR_VERSION:
             enrich_page(e); budget -= 1
     if not digest:
         for e in all_events:
             if budget <= 0:
                 break
-            if not e.get("enr"):
+            if e.get("enr", 0) < ENR_VERSION:
                 enrich_page(e); budget -= 1
     print(f"Обогащено страниц за прогон: {ENRICH_MAX - budget}")
     for e in all_events:
