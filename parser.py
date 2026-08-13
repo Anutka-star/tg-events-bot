@@ -11,6 +11,7 @@
 
 Настройки из переменных окружения: TG_TOKEN, TG_CHAT.
 """
+import html as html_lib
 import json
 import os
 import re
@@ -28,7 +29,7 @@ EVENTS_FILE = os.path.join(HERE, "events.json")
 TODAY = date.today()
 BOT_LINK = "https://t.me/NorthernIntelligence_bot"
 ENRICH_MAX = 60          # сколько страниц событий обогащаем за один прогон
-ENR_VERSION = 2          # версия обогащения: поднимаем — старые события обогатятся заново
+ENR_VERSION = 3          # версия обогащения: поднимаем — старые события обогатятся заново
 CARDS_MAX = 25           # максимум карточек в канал за прогон
 
 UA = {
@@ -214,12 +215,40 @@ def enrich_page(e):
     if not img.lower().startswith("http") or re.search(r"logo_header|favicon|/ict/images/", img):
         img = ""  # логотип сайта — не афиша
     desc = meta("og:description", "description", "twitter:description")
-    desc = clean(re.sub(r"&[a-z]+;", " ", desc))[:400]
+    desc = html_lib.unescape(html_lib.unescape(desc))
+    desc = re.sub(r"\b(quot|laquo|raquo|nbsp|amp|mdash|ndash|hellip|br)\b;?", " ", desc)
+    desc = re.sub(r"<[^>]{0,20}>", " ", desc)  # остатки тегов вида <br/>
+    desc = clean(desc)[:400]
 
     soup = BeautifulSoup(html, "html.parser")
     for bad in soup(["script", "style"]):
         bad.decompose()
     text = clean(soup.get_text(" ", strip=True))[:8000]
+
+    # --- чистый заголовок со страницы события (вместо склейки из списка)
+    page_title = ""
+    h1 = soup.find("h1")
+    if h1:
+        page_title = clean(h1.get_text(" ", strip=True))
+    if not (6 <= len(page_title) <= 120):
+        ot = html_lib.unescape(meta("og:title"))
+        ot = re.split(r"\s+[-|—]\s+", ot)[0]
+        ot = re.sub(r"\s*\d{1,2}\.\d{1,2}\.\d{4}.*$", "", ot)
+        page_title = clean(ot)
+    if 6 <= len(page_title) <= 120 and not re.search(r"ict2go|all.?events|timepad|афиша", page_title, re.I):
+        e["title"] = page_title
+
+    # --- афиша: если мета-картинки нет, ищем картинку события в содержимом
+    if not img:
+        cand = soup.select_one("img[src*='events_lid_image']")  # ict2go
+        if cand is None:
+            for im in soup.find_all("img", src=True):
+                src = im["src"]
+                if re.search(r"/upload", src) and not re.search(r"logo|icon|social|avatar|banner_ad", src, re.I):
+                    cand = im
+                    break
+        if cand is not None:
+            img = urljoin(e["url"], cand["src"])
 
     # --- организатор: сначала точные места конкретных сайтов, потом общий шаблон
     BAD_ORG = re.compile(r"^(спикер|каталог|организатор|площадк|о нас|новост|реклам|программа|участник)", re.I)
@@ -305,10 +334,11 @@ def build_card(e):
     ]
     desc = clean(e.get("desc", ""))
     if desc:
-        room = 1000 - sum(len(x) for x in lines) - len(e["url"]) - 80
+        room = 980 - sum(len(x) for x in lines) - len(e["url"]) - len(BOT_LINK) - 120
         if room > 60:
             lines += ["", f"📝 {html_escape(desc[:room])}"]
-    lines += ["", f"🎟 <a href=\"{e['url']}\">Регистрация / билеты</a>"]
+    lines += ["", f"🎟 <a href=\"{e['url']}\">Регистрация / билеты</a>",
+              f"🤖 <a href=\"{BOT_LINK}\">Больше событий — в нашем боте</a>"]
     return "\n".join(lines)
 
 
