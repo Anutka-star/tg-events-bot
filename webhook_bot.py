@@ -140,7 +140,12 @@ def kb_periods(topic):
 
 
 def tg(method, payload):
-    r = requests.post(f"{API}/{method}", json=payload, timeout=20)
+    """Вызов Telegram. Ошибки сети глушим и НЕ пишем адрес запроса в лог (в нём токен)."""
+    try:
+        r = requests.post(f"{API}/{method}", json=payload, timeout=20)
+    except Exception as ex:
+        log_error(f"{method}: {type(ex).__name__}")
+        return None
     if not r.ok:
         log_error(f"{method}: {r.status_code} {r.text[:250]}")
     return r
@@ -150,7 +155,7 @@ def send_card(chat, e):
     caption = build_card(e)
     if e.get("img"):
         r = tg("sendPhoto", {"chat_id": chat, "photo": e["img"], "caption": caption, "parse_mode": "HTML"})
-        if r.ok:
+        if r is not None and r.ok:
             return
     tg("sendMessage", {"chat_id": chat, "text": caption, "parse_mode": "HTML",
                        "disable_web_page_preview": False})

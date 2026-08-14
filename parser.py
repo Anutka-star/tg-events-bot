@@ -28,7 +28,7 @@ SEEN_FILE = os.path.join(HERE, "seen.json")
 EVENTS_FILE = os.path.join(HERE, "events.json")
 TODAY = date.today()
 BOT_LINK = "https://t.me/NorthernIntelligence_bot"
-ENRICH_MAX = 60          # сколько страниц событий обогащаем за один прогон
+ENRICH_MAX = 250         # сколько страниц событий обогащаем за один прогон
 ENR_VERSION = 3          # версия обогащения: поднимаем — старые события обогатятся заново
 CARDS_MAX = 25           # максимум карточек в канал за прогон
 
@@ -343,8 +343,12 @@ def build_card(e):
 
 
 def tg_api(token, method, payload):
-    r = requests.post(f"https://api.telegram.org/bot{token}/{method}", json=payload, timeout=30)
-    return r
+    """Вызов Telegram. Ошибки сети глушим и НЕ печатаем адрес запроса (в нём токен)."""
+    try:
+        return requests.post(f"https://api.telegram.org/bot{token}/{method}", json=payload, timeout=30)
+    except Exception as ex:
+        print(f"  Telegram недоступен ({method}): {type(ex).__name__}")
+        return None
 
 
 def send_card(token, chat, e):
@@ -352,13 +356,13 @@ def send_card(token, chat, e):
     if e.get("img"):
         r = tg_api(token, "sendPhoto", {"chat_id": chat, "photo": e["img"], "caption": caption,
                                         "parse_mode": "HTML"})
-        if r.ok:
+        if r is not None and r.ok:
             return True
     r = tg_api(token, "sendMessage", {"chat_id": chat, "text": caption, "parse_mode": "HTML",
                                       "disable_web_page_preview": False})
-    if not r.ok:
+    if r is not None and not r.ok:
         print(f"  не отправилась карточка: {r.status_code} {r.text[:150]}")
-    return r.ok
+    return r is not None and r.ok
 
 
 def collect_all():
@@ -416,7 +420,7 @@ def send_digest(token, chat, events):
     for ch in chunks:
         r = tg_api(token, "sendMessage", {"chat_id": chat, "text": ch, "parse_mode": "HTML",
                                           "disable_web_page_preview": True})
-        if not r.ok:
+        if r is not None and not r.ok:
             print("дайджест не отправился:", r.status_code, r.text[:150])
     print(f"Дайджест: {len(week)} событий недели, сообщений {len(chunks)}")
 
@@ -449,6 +453,8 @@ def main():
 
     def finalize_org(e):
         op = e.get("org_page", "")
+        if op and op[:25].lower() in e.get("title", "").lower():
+            op = ""  # запасной парсер зацепил кусок заголовка — не организатор
         e["org"] = op if 0 < len(op) <= 50 else SOURCE_ORG.get(e.get("source", ""), "")
 
     fresh = [e for e in all_events if e["url"] not in seen]
