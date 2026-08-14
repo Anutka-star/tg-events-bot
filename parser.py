@@ -29,7 +29,8 @@ EVENTS_FILE = os.path.join(HERE, "events.json")
 TODAY = date.today()
 BOT_LINK = "https://t.me/NorthernIntelligence_bot"
 ENRICH_MAX = 250         # сколько страниц событий обогащаем за один прогон
-ENR_VERSION = 3          # версия обогащения: поднимаем — старые события обогатятся заново
+ENR_VERSION = 5          # версия обогащения: поднимаем — старые события обогатятся заново
+PLACEHOLDER_IMG = "https://raw.githubusercontent.com/Anutka-star/tg-events-bot/main/assets/placeholder.jpg"
 CARDS_MAX = 25           # максимум карточек в канал за прогон
 
 UA = {
@@ -94,7 +95,8 @@ def find_date(text):
 
 def tidy_title(t):
     t = clean(t)
-    for pat in (r"^Точка Кипения СПб\s*", r"^.{0,45}?\d{2}\.\d{2}\.\d{4}\s*\|\s*(Онлайн|Санкт-Петербург|Москва)?\s*",
+    for pat in (r"^Точка Кипения СПб\s*", r"^Регистрация открыта\s*(Вебинар[а-я]*|Конференци[а-я]+|Семинар[а-я]*)?\s*",
+                r"^.{0,45}?\d{2}\.\d{2}\.\d{4}\s*\|\s*(Онлайн|Санкт-Петербург|Москва)?\s*",
                 r"^\d{1,2}\s+[А-Яа-я]+\s+\d{4}\s*",
                 r"^\d{1,2}\.\d{1,2}\.\d{4}\s*\|?\s*", r"^\d{1,2}:\d{2}\s*[-–]\s*\d{1,2}:\d{2}\s*",
                 r"^(Мастер-класс|Лекция|Встреча|Вебинар|Конференция|Семинар|Митап)\s+(?=[А-ЯA-Z«])"):
@@ -102,6 +104,7 @@ def tidy_title(t):
     t = re.sub(r"\s*(Подробнее|УЧАСТВОВАТЬ|Регистрация)\s*$", "", t, flags=re.I)
     # хвост вида « онлайн Маркетинг Продажи» (категории после формата) — отрезаем
     t = re.sub(r"\s+(онлайн|очно)(\s+[А-ЯЁ][а-яё]+){1,6}\s*$", "", t)
+    t = re.sub(r"\s+\d{1,2}\s+[а-яё]+\s+\d{4}\s*г?\.?\s*$", "", t)  # дата в хвосте заголовка
     return clean(t)
 
 
@@ -179,6 +182,16 @@ SOURCES = [
         "https://otkrytaya-gostinaya.timepad.ru/events/", r"/event/\d+", "https://otkrytaya-gostinaya.timepad.ru", topic="Английский")),
 ]
 
+SOURCE_ORG_URL = {
+    "🏛 ЦРПП «Мой бизнес» СПб": "https://www.crpp.ru/",
+    "🏛 СПб Торгово-промышленная палата": "https://spbtpp.ru/",
+    "🔥 Точка кипения СПб": "https://tboil.spb.ru/",
+    "☁️ Cloud.ru (вебинары)": "https://cloud.ru/events",
+    "🏟 Экспофорум": "https://www.expoforum.ru/",
+    "🇬🇧 Центр британской книги (Timepad)": "https://british-book-centre.timepad.ru/events/",
+    "🇬🇧 Открытая гостиная (Timepad)": "https://otkrytaya-gostinaya.timepad.ru/events/",
+}
+
 # организатор по источнику, если со страницы не достали
 SOURCE_ORG = {
     "🏛 ЦРПП «Мой бизнес» СПб": "Центр «Мой бизнес» СПб",
@@ -236,7 +249,20 @@ def enrich_page(e):
         ot = re.sub(r"\s*\d{1,2}\.\d{1,2}\.\d{4}.*$", "", ot)
         page_title = clean(ot)
     if 6 <= len(page_title) <= 120 and not re.search(r"ict2go|all.?events|timepad|афиша", page_title, re.I):
-        e["title"] = page_title
+        e["title"] = tidy_title(page_title) or e["title"]
+
+    # --- спикеры: берём только имена (Имя Фамилия, через запятую), без хвостов
+    m = re.search(r"Спикер[ы]?\s*:\s*((?:[А-ЯЁ][а-яё]+\s+[А-ЯЁ][а-яё]+)(?:\s*,\s*[А-ЯЁ][а-яё]+\s+[А-ЯЁ][а-яё]+)*)", text)
+    if m:
+        e["speaker"] = clean(m.group(1))
+
+    # --- описание: если мета-описания нет, берём первый содержательный абзац
+    if len(desc) < 40:
+        for p in soup.find_all("p"):
+            t = clean(p.get_text(" ", strip=True))
+            if len(t) >= 80 and not re.search(r"cookie|соглас|персональн\w+ данных", t, re.I):
+                desc = t[:400]
+                break
 
     # --- афиша: если мета-картинки нет, ищем картинку события в содержимом
     if not img:
@@ -256,6 +282,8 @@ def enrich_page(e):
     node = soup.select_one("div.organizers a[href*='/companies/']")  # ict2go
     if node:
         org = clean(node.get_text())
+        if node.get("href"):
+            e["org_url_page"] = urljoin(e["url"], node["href"])
     if not org:
         node = soup.select_one("div.organizer-events a[href*='/organizers/']")  # all-events
         if node:
@@ -265,6 +293,8 @@ def enrich_page(e):
             # подпись к логотипу часто дублирует название события — такое не берём
             if cand and t_low and t_low[:25] not in c_low and c_low[:25] not in t_low:
                 org = cand
+                if node.get("href"):
+                    e["org_url_page"] = urljoin(e["url"], node["href"])
     if not org:
         m = re.search(r"Организатор[ы]?\s*:\s*(.{2,60}?)(?:\s{2,}|Будь в курсе|Сайт|Контакты|$)", text)
         if m:
@@ -319,6 +349,10 @@ def build_card(e):
     org = e.get("org") or e.get("org_page") or SOURCE_ORG.get(e.get("source", ""), "") or "см. по ссылке"
     if len(org) > 50:
         org = SOURCE_ORG.get(e.get("source", ""), "см. по ссылке")
+    if e.get("org_url") and org != "см. по ссылке":
+        org_html = f"<a href=\"{e['org_url']}\">{html_escape(org)}</a>"
+    else:
+        org_html = html_escape(org)
     price = e.get("price") or "см. по ссылке"
     when = e.get("date") or "дата на странице события"
     tm = e.get("time") or "—"
@@ -329,9 +363,11 @@ def build_card(e):
         f"🕒 <b>Время:</b> {html_escape(tm)}",
         f"🏷 <b>Тип:</b> {tags}",
         f"🌐 <b>Формат:</b> {fmt}",
-        f"🏛 <b>Организатор:</b> {html_escape(org)}",
+        f"🏛 <b>Организатор:</b> {org_html}",
         f"💰 <b>Цена:</b> {html_escape(price)}",
     ]
+    if e.get("speaker"):
+        lines.append(f"🎤 <b>Спикер:</b> {html_escape(e['speaker'][:90])}")
     desc = clean(e.get("desc", ""))
     if desc:
         room = 980 - sum(len(x) for x in lines) - len(e["url"]) - len(BOT_LINK) - 120
@@ -455,7 +491,15 @@ def main():
         op = e.get("org_page", "")
         if op and op[:25].lower() in e.get("title", "").lower():
             op = ""  # запасной парсер зацепил кусок заголовка — не организатор
-        e["org"] = op if 0 < len(op) <= 50 else SOURCE_ORG.get(e.get("source", ""), "")
+        src_url = SOURCE_ORG_URL.get(e.get("source", ""), "")
+        if 0 < len(op) <= 50:
+            e["org"] = op
+            e["org_url"] = e.get("org_url_page", "") or src_url
+        else:
+            e["org"] = SOURCE_ORG.get(e.get("source", ""), "")
+            e["org_url"] = src_url
+        if not e.get("img"):
+            e["img"] = PLACEHOLDER_IMG  # у события нет афиши — фирменная заглушка
 
     fresh = [e for e in all_events if e["url"] not in seen]
 

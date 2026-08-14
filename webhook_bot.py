@@ -99,6 +99,10 @@ def build_card(e):
     org = e.get("org") or e.get("org_page") or "см. по ссылке"
     if len(org) > 50:
         org = "см. по ссылке"
+    if e.get("org_url") and org != "см. по ссылке":
+        org_html = f"<a href=\"{e['org_url']}\">{html_escape(org)}</a>"
+    else:
+        org_html = html_escape(org)
     price = e.get("price") or "см. по ссылке"
     when = e.get("date") or "дата на странице события"
     tm = e.get("time") or "—"
@@ -109,9 +113,11 @@ def build_card(e):
         f"🕒 <b>Время:</b> {html_escape(tm)}",
         f"🏷 <b>Тип:</b> {tags}",
         f"🌐 <b>Формат:</b> {fmt}",
-        f"🏛 <b>Организатор:</b> {html_escape(org)}",
+        f"🏛 <b>Организатор:</b> {org_html}",
         f"💰 <b>Цена:</b> {html_escape(price)}",
     ]
+    if e.get("speaker"):
+        lines.append(f"🎤 <b>Спикер:</b> {html_escape(e['speaker'][:90])}")
     desc = re.sub(r"\s+", " ", e.get("desc", "") or "").strip()
     if desc:
         room = 1000 - sum(len(x) for x in lines) - len(e["url"]) - 80
