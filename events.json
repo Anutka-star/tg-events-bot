@@ -1,5 +1,5 @@
 {
-"updated": "2026-08-22",
+"updated": "2026-08-23",
 "events": [
 {
 "title": "Комитета по транспорту и логистике СПб ТПП «Как перевозчикам, экспедиторам и грузовладельцам снизить потери и риски в 2026 году?»",
@@ -2270,7 +2270,7 @@
 "org_url": ""
 },
 {
-"title": "Что важнее SOCа?",
+"title": "Что важнее SOCа? Вебинар ИБ (Информационная безопасность) , SOC",
 "url": "https://ict2go.ru/events/71540/",
 "date": "17.09.2026",
 "iso": "2026-09-17",
@@ -2279,14 +2279,13 @@
 "online": true,
 "net": false,
 "source": "💻 ict2go (ИТ-события)",
-"org_url_page": "https://ict2go.ru/companies/10228/",
 "img": "https://ict2go.ru/uploads/media/events_lid_image/0001/78/thumb_77442_medium.png",
 "desc": "17 сентября 2026 года в 11:00 (мск) пройдет вебинар «Что важнее SOCа?» Базовые услуги SOC заканчивается там, где должно начинаться реаг...",
 "price": "",
 "org_page": "ITG Security",
 "enr": 5,
 "org": "ITG Security",
-"org_url": "https://ict2go.ru/companies/10228/"
+"org_url": ""
 },
 {
 "title": "ИИ в масштабе — Практика внедрения в крупных компаниях Конференция Автоматизация (бизнес-приложения) , Искусст",
@@ -3153,7 +3152,7 @@
 "org_url": ""
 },
 {
-"title": "Прикладной искусственный интеллект: перспективы и риски",
+"title": "Прикладной искусственный интеллект: перспективы и риски Конференция ИБ (Информационная безопасность) , ИТ в об",
 "url": "https://ict2go.ru/events/71220/",
 "date": "20.10.2026",
 "iso": "2026-10-20",
@@ -3162,14 +3161,32 @@
 "online": false,
 "net": false,
 "source": "💻 ict2go (ИТ-события)",
-"org_url_page": "https://ict2go.ru/companies/10514/",
 "img": "https://ict2go.ru/uploads/media/events_lid_image/0001/78/thumb_77116_medium.png",
 "desc": "20 октября 2026 года в Санкт-Петербурге состоится конференция \"Прикладной искусственный интеллект: перспективы и риски\". Цель конференции...",
 "price": "",
 "org_page": "Комитет по науке и высшей школе",
 "enr": 5,
 "org": "Комитет по науке и высшей школе",
-"org_url": "https://ict2go.ru/companies/10514/"
+"org_url": ""
+},
+{
+"title": "Mobius 2026 Autumn",
+"url": "https://ict2go.ru/events/70304/",
+"date": "21.10.2026",
+"iso": "2026-10-21",
+"time": "10:00",
+"topic": "IT",
+"online": false,
+"net": false,
+"source": "💻 ict2go (ИТ-события)",
+"org_url_page": "https://ict2go.ru/companies/783/",
+"img": "https://ict2go.ru/uploads/media/events_lid_image/0001/77/thumb_76238_medium.png",
+"desc": "21-22 октября 2026 г. в Санкт-Петербурге пройдет конференция по мобильной разработке Mobius 2026 Autumn. Mobius — профильная IT-кон...",
+"price": "",
+"org_page": "JUG Ru Group",
+"enr": 5,
+"org": "JUG Ru Group",
+"org_url": "https://ict2go.ru/companies/783/"
 },
 {
 "title": "Бухучёт Как отвечать на требования налоговой: практический алгоритм для бухгалтера 24.08.2026 Пн 24.08.2026 Пн",
@@ -3190,7 +3207,7 @@
 "org_url": ""
 },
 {
-"title": "Как превратить связи в клиентов: система социального капитала для предпринимателя",
+"title": "Прямой эфир Нетворкинг Как превратить связи в клиентов: система социального капитала для предпринимателя 25.08",
 "url": "https://all-events.ru/events/kak_prevratit_svyazi_v_klientov_sistema_sotsialnogo_kapitala_dlya_predprinimatelya/",
 "date": "25.08.2026",
 "iso": "2026-08-25",
@@ -3208,7 +3225,7 @@
 "org_url": ""
 },
 {
-"title": "Agentic Coding Meetup by Sber",
+"title": "25 августа 2026 Agentic Coding Meetup by Sber Земляной Вал 9А Москва Земляной Вал 9А Москва AI-агенты уже умею",
 "url": "https://all-events.ru/events/agentic-coding-meetup-by-sber/",
 "date": "25 августа 2026",
 "iso": "2026-08-25",
@@ -3226,7 +3243,7 @@
 "org_url": ""
 },
 {
-"title": "HR-клуб. оценка и развитие персонала в компании",
+"title": "HR\\Управление персоналом HR-клуб. оценка и развитие персонала в компании 25.08.2026 Вт 25.08.2026 Вт Вебинар О",
 "url": "https://all-events.ru/events/hr-klub-otsenka-i-razvitie-personala-v-kompanii/",
 "date": "25.08.2026",
 "iso": "2026-08-25",
@@ -3298,7 +3315,7 @@
 "org_url": ""
 },
 {
-"title": "Как связать закупки и договоры в 1С:Документооборот и 1С:ERP",
+"title": "Производство Как связать закупки и договоры в 1С:Документооборот и 1С:ERP 25.08.2026 Вт 25.08.2026 Вт Вебинар ",
 "url": "https://all-events.ru/events/kak_svyazat_zakupki_i_dogovory_v_1s_dokumentooborot_i_1s_erp/",
 "date": "25.08.2026",
 "iso": "2026-08-25",
@@ -3316,7 +3333,7 @@
 "org_url": ""
 },
 {
-"title": "IVA Почта, ВКС и мессенджер из Софтлайн Облако: российское решение как сервис для вашего бизнеса",
+"title": "IT-Информационные технологии IVA Почта, ВКС и мессенджер из Софтлайн Облако: российское решение как сервис для",
 "url": "https://all-events.ru/events/iva-pochta-vks-i-messendzher-iz-softlayn-oblako-rossiyskoe-reshenie-kak-servis-dlya-vashego-biznesa/",
 "date": "25.08.2026",
 "iso": "2026-08-25",
@@ -3325,9 +3342,44 @@
 "online": true,
 "net": false,
 "source": "📅 all-events (деловые события)",
-"speaker": "Полина Абаимова",
 "img": "https://all-events.ru/upload/iblock/a51/tukkztbao2ie0p1d5of6etzy71nddjia.png",
 "desc": "Планируете перейти на российские решения для корпоративных коммуникаций или ищете современную альтернативу существующей почтовой системе? В Софтлайн Облако доступен новый сервис – почта, ВКС и мессенджер на базе решения от российского вендора IVA. IVA – это решение, внесенное в Реестр РПО, с понятным и знакомым интерфейсом. Вы получаете готовый облачный сервис, а специалисты Софтлайн Облако помога",
+"price": "Бесплатно",
+"org_page": "",
+"enr": 5,
+"org": "",
+"org_url": ""
+},
+{
+"title": "Как покупать оригинальные вещи с Poizon и доставлять их в Россию через RAKETA",
+"url": "https://all-events.ru/events/kak_pokupat_originalnye_veshchi_s_poizon_i_dostavlyat_ikh_v_rossiyu_cherez_raketa/",
+"date": "25.08.2026",
+"iso": "2026-08-25",
+"time": "16:00",
+"topic": "Бизнес",
+"online": true,
+"net": false,
+"source": "📅 all-events (деловые события)",
+"img": "https://all-events.ru/upload/iblock/376/03s00iknghzie2omaaqytu3mw2nxvtih.png",
+"desc": "На бесплатном вебинаре 25 августа в 16:00 специалист по выкупу и доставке товаров из Китая в прямом эфире покажет весь процесс покупки на Poizon. Как покупать оригинальные вещи с Poizon и доставлять их в Россию через RAKETA Да, 16:00, программа, спикеры, стоимость участия. Подробности на All-Events.ru!",
+"price": "Бесплатно",
+"org_page": "",
+"enr": 5,
+"org": "",
+"org_url": ""
+},
+{
+"title": "ИИ-проекты: когда и как переходить от API к Bare Metal",
+"url": "https://all-events.ru/events/ii-proekty-kogda-i-kak-perekhodit-ot-api-k-bare-metal/",
+"date": "25.08.2026",
+"iso": "2026-08-25",
+"time": "11:00",
+"topic": "ИИ",
+"online": true,
+"net": false,
+"source": "📅 all-events (деловые события)",
+"img": "https://all-events.ru/upload/iblock/014/xy5uv25wqeevikt3vb7f2xnnhwt2a9qm.png",
+"desc": "На старте ИИ-проекта для инференса часто используют API, чтобы быстро запустить модели и проверить гипотезы. Но по мере роста нагрузки, требований к безопасности и затрат такой подход перестает быть эффективным — возникает потребность в собственной ИИ-инфраструктуре. На вебинаре расскажем, когда пора переходить на Bare Metal и как построить инфраструктуру для запуска моделей в продакшене, дообучен",
 "price": "Бесплатно",
 "org_page": "",
 "enr": 5,
