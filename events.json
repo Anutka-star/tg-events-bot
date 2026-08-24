@@ -1,5 +1,5 @@
 {
-"updated": "2026-08-23",
+"updated": "2026-08-24",
 "events": [
 {
 "title": "Комитета по транспорту и логистике СПб ТПП «Как перевозчикам, экспедиторам и грузовладельцам снизить потери и риски в 2026 году?»",
@@ -216,24 +216,6 @@
 "enr": 5,
 "org": "СПб ТПП",
 "org_url": "https://spbtpp.ru/"
-},
-{
-"title": "День открытых дверей Т-Поколения в Санкт-Петербурге День открытых дверей ИБ (Информационная безопасность) , Ис",
-"url": "https://ict2go.ru/events/71317/",
-"date": "23.08.2026",
-"iso": "2026-08-23",
-"time": "12:00",
-"topic": "ИИ",
-"online": false,
-"net": false,
-"source": "💻 ict2go (ИТ-события)",
-"img": "https://ict2go.ru/uploads/media/events_lid_image/0001/78/thumb_77225_medium.png",
-"desc": "23 августа 2026 года в Санкт-Петербурге пройдет День открытых дверей Т-Поколения. На дне открытых можно будет узнать больше о каждом из направлений...",
-"price": "Бесплатно",
-"org_page": "Т-Банк (ex-Тинькофф Банк)",
-"enr": 5,
-"org": "Т-Банк (ex-Тинькофф Банк)",
-"org_url": ""
 },
 {
 "title": "True Tech Спринт: DevOps Хакатон Искусственный интеллект (ИИ) , DevOps",
@@ -848,6 +830,25 @@
 "org_url": ""
 },
 {
+"title": "Автоматизация первой линии поддержки в MAX: диалоговый чат-бот в системе IM",
+"url": "https://ict2go.ru/events/71550/",
+"date": "27.08.2026",
+"iso": "2026-08-27",
+"time": "12:00",
+"topic": "ИИ",
+"online": true,
+"net": false,
+"source": "💻 ict2go (ИТ-события)",
+"org_url_page": "https://ict2go.ru/companies/994/",
+"img": "https://ict2go.ru/uploads/media/events_lid_image/0001/78/thumb_77448_medium.jpg",
+"desc": "27 августа 2026 г. в 12.00 (мск) пройдет вебинар «Автоматизация первой линии поддержки в MAX: диалоговый чат-бот в системе IM». На меро...",
+"price": "",
+"org_page": "Медиалогия",
+"enr": 5,
+"org": "Медиалогия",
+"org_url": "https://ict2go.ru/companies/994/"
+},
+{
 "title": "Почему одного Kubernetes уже недостаточно: как Deckhouse превращает контейнеризацию в безопасную платформу Веб",
 "url": "https://ict2go.ru/events/71525/",
 "date": "27.08.2026",
@@ -902,6 +903,24 @@
 "org_url": ""
 },
 {
+"title": "Диджитал Смузи Конференция Искусственный интеллект (ИИ) , Digital-маркетинг (MarTech)",
+"url": "https://ict2go.ru/events/71523/",
+"date": "27.08.2026",
+"iso": "2026-08-27",
+"time": "14:00",
+"topic": "ИИ",
+"online": true,
+"net": false,
+"source": "💻 ict2go (ИТ-события)",
+"img": "https://ict2go.ru/uploads/media/events_lid_image/0001/78/thumb_77430_medium.jpg",
+"desc": "27 августа 2026 года в 14:00 (мск) состоится онлайн-конференция \"Диджитал Смузи\". Диджитал Смузи — большая онлайн-конференция ...",
+"price": "",
+"org_page": "Vitamin.tools",
+"enr": 5,
+"org": "Vitamin.tools",
+"org_url": ""
+},
+{
 "title": "Как разговорить человека и договориться Вебинар Управление бизнесом , HR (кадры) , Управление проектами (Proje",
 "url": "https://ict2go.ru/events/71372/",
 "date": "27.08.2026",
@@ -917,24 +936,6 @@
 "org_page": "PVS-Studio",
 "enr": 5,
 "org": "PVS-Studio",
-"org_url": ""
-},
-{
-"title": "Конференция \"Диджитал Смузи\" Конференция Искусственный интеллект (ИИ) , Digital-маркетинг (MarTech)",
-"url": "https://ict2go.ru/events/71523/",
-"date": "27.08.2026",
-"iso": "2026-08-27",
-"time": "14:00",
-"topic": "ИИ",
-"online": true,
-"net": false,
-"source": "💻 ict2go (ИТ-события)",
-"img": "https://ict2go.ru/uploads/media/events_lid_image/0001/78/thumb_77430_medium.jpg",
-"desc": "27 августа 2026 года в 14:00 (мск) состоится онлайн-конференция \"Диджитал Смузи\". Диджитал Смузи — большая онлайн-конференция ...",
-"price": "",
-"org_page": "Vitamin.tools",
-"enr": 5,
-"org": "Vitamin.tools",
 "org_url": ""
 },
 {
@@ -1082,6 +1083,25 @@
 "org_url": ""
 },
 {
+"title": "Единый контур безопасной разработки с Deckhouse: Code + Stronghold",
+"url": "https://ict2go.ru/events/71556/",
+"date": "28.08.2026",
+"iso": "2026-08-28",
+"time": "12:00",
+"topic": "IT",
+"online": true,
+"net": false,
+"source": "💻 ict2go (ИТ-события)",
+"org_url_page": "https://ict2go.ru/companies/1219/",
+"img": "https://ict2go.ru/uploads/media/events_lid_image/0001/78/thumb_77455_medium.jpg",
+"desc": "28 августа 2026 г. в 12.00 (мск) пройдет вебинар «Единый контур безопасной разработки с Deckhouse: Code + Stronghold». На вебинаре пока...",
+"price": "",
+"org_page": "Флант",
+"enr": 5,
+"org": "Флант",
+"org_url": "https://ict2go.ru/companies/1219/"
+},
+{
 "title": "Агенты пишут код, а кто его проверяет? Вебинар ИБ (Информационная безопасность) , Разработка ПО , Искусственны",
 "url": "https://ict2go.ru/events/71493/",
 "date": "28.08.2026",
@@ -1098,6 +1118,26 @@
 "enr": 5,
 "org": "PVS-Studio",
 "org_url": ""
+},
+{
+"title": "Фронтенд, который не сгенерируешь",
+"url": "https://ict2go.ru/events/71539/",
+"date": "28.08.2026",
+"iso": "2026-08-28",
+"time": "19:00",
+"topic": "IT",
+"online": true,
+"net": false,
+"source": "💻 ict2go (ИТ-события)",
+"speaker": "Иван Поддубный",
+"org_url_page": "https://ict2go.ru/companies/8159/",
+"img": "https://ict2go.ru/uploads/media/events_lid_image/0001/78/thumb_77452_medium.jpg",
+"desc": "28 августа 2026 г. в 19:00 (мск) пройдет онлайн-митап «Фронтенд, который не сгенерируешь» Можно сгенерировать дропдаун на 200 строк Jav...",
+"price": "",
+"org_page": "UseTech (ГК Юзтех)",
+"enr": 5,
+"org": "UseTech (ГК Юзтех)",
+"org_url": "https://ict2go.ru/companies/8159/"
 },
 {
 "title": "Kaspersky {CTF} 2026 Хакатон Разработка ПО , Искусственный интеллект (ИИ) , Криптография",
@@ -1530,6 +1570,25 @@
 "enr": 5,
 "org": "ELMA (ЭЛМА)",
 "org_url": ""
+},
+{
+"title": "Виртуальная инфраструктура: микросегментация виртуальных машин и контейнеров, практическое применение и требования к защите",
+"url": "https://ict2go.ru/events/71554/",
+"date": "08.09.2026",
+"iso": "2026-09-08",
+"time": "11:00",
+"topic": "IT",
+"online": true,
+"net": false,
+"source": "💻 ict2go (ИТ-события)",
+"org_url_page": "https://ict2go.ru/companies/433/",
+"img": "https://ict2go.ru/uploads/media/events_lid_image/0001/73/thumb_72759_events_lid_image_big.jpeg",
+"desc": "8 сентября в 11:00 (МСК) на онлайн-площадке AM Live «Код Безопасности» проведет прямой эфир «Виртуальная инфраструктура: микросегмен...",
+"price": "",
+"org_page": "Код Безопасности",
+"enr": 5,
+"org": "Код Безопасности",
+"org_url": "https://ict2go.ru/companies/433/"
 },
 {
 "title": "Точка ESG 2026. Онлайн и вечерний нетворкинг Конференция Управление бизнесом , Устойчивое развитие , ESG",
@@ -3170,7 +3229,7 @@
 "org_url": ""
 },
 {
-"title": "Mobius 2026 Autumn",
+"title": "Mobius 2026 Autumn Конференция Разработка приложений , Мобильные приложения , Android",
 "url": "https://ict2go.ru/events/70304/",
 "date": "21.10.2026",
 "iso": "2026-10-21",
@@ -3179,14 +3238,13 @@
 "online": false,
 "net": false,
 "source": "💻 ict2go (ИТ-события)",
-"org_url_page": "https://ict2go.ru/companies/783/",
 "img": "https://ict2go.ru/uploads/media/events_lid_image/0001/77/thumb_76238_medium.png",
 "desc": "21-22 октября 2026 г. в Санкт-Петербурге пройдет конференция по мобильной разработке Mobius 2026 Autumn. Mobius — профильная IT-кон...",
 "price": "",
 "org_page": "JUG Ru Group",
 "enr": 5,
 "org": "JUG Ru Group",
-"org_url": "https://ict2go.ru/companies/783/"
+"org_url": ""
 },
 {
 "title": "Бухучёт Как отвечать на требования налоговой: практический алгоритм для бухгалтера 24.08.2026 Пн 24.08.2026 Пн",
@@ -3351,7 +3409,7 @@
 "org_url": ""
 },
 {
-"title": "Как покупать оригинальные вещи с Poizon и доставлять их в Россию через RAKETA",
+"title": "Логистика Как покупать оригинальные вещи с Poizon и доставлять их в Россию через RAKETA 25.08.2026 Вт 25.08.20",
 "url": "https://all-events.ru/events/kak_pokupat_originalnye_veshchi_s_poizon_i_dostavlyat_ikh_v_rossiyu_cherez_raketa/",
 "date": "25.08.2026",
 "iso": "2026-08-25",
@@ -3369,7 +3427,7 @@
 "org_url": ""
 },
 {
-"title": "ИИ-проекты: когда и как переходить от API к Bare Metal",
+"title": "Искусственный интеллект ИИ-проекты: когда и как переходить от API к Bare Metal 25.08.2026 Вт 25.08.2026 Вт Веб",
 "url": "https://all-events.ru/events/ii-proekty-kogda-i-kak-perekhodit-ot-api-k-bare-metal/",
 "date": "25.08.2026",
 "iso": "2026-08-25",
@@ -3380,6 +3438,24 @@
 "source": "📅 all-events (деловые события)",
 "img": "https://all-events.ru/upload/iblock/014/xy5uv25wqeevikt3vb7f2xnnhwt2a9qm.png",
 "desc": "На старте ИИ-проекта для инференса часто используют API, чтобы быстро запустить модели и проверить гипотезы. Но по мере роста нагрузки, требований к безопасности и затрат такой подход перестает быть эффективным — возникает потребность в собственной ИИ-инфраструктуре. На вебинаре расскажем, когда пора переходить на Bare Metal и как построить инфраструктуру для запуска моделей в продакшене, дообучен",
+"price": "Бесплатно",
+"org_page": "",
+"enr": 5,
+"org": "",
+"org_url": ""
+},
+{
+"title": "DevSecOps на ИИ-скорости: безопасность без компромиссов",
+"url": "https://all-events.ru/events/devsecops-na-ii-skorosti-bezopasnost-bez-kompromissov/",
+"date": "25.08.2026",
+"iso": "2026-08-25",
+"time": "11:00",
+"topic": "ИИ",
+"online": true,
+"net": false,
+"source": "📅 all-events (деловые события)",
+"img": "https://all-events.ru/upload/iblock/e5b/tr3dews89xpp6sesk72991bhxdesqu5j.png",
+"desc": "ИИ ускоряет поиск и эксплуатацию уязвимостей — на проверку и исправление находок уже нельзя тратить недели. При этом важно следить за тем, какие данные получает LLM и где их обрабатывают. DevSecOps на ИИ-скорости: безопасность без компромиссов Да, , программа, спикеры, стоимость участия. Подробности на All-Events.ru!",
 "price": "Бесплатно",
 "org_page": "",
 "enr": 5,
