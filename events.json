@@ -1,5 +1,5 @@
 {
-"updated": "2026-08-28",
+"updated": "2026-08-29",
 "events": [
 {
 "title": "Петербургский цифровой хаб 03 Сен (Чтв.) Место : КВЦ «ЭКСПОФОРУМ»",
@@ -182,7 +182,7 @@
 "org_url": "https://spbtpp.ru/"
 },
 {
-"title": "«Персональные данные 2026: новые правила защиты. Правовые основы и практические инструменты»",
+"title": "«Персональные данные 2026: новые правила защиты. Правовые основы и практические инструменты» 29 Сен (Втр.) Мес",
 "url": "https://spbtpp.ru/events/events_568.html",
 "date": "",
 "iso": "",
@@ -200,7 +200,7 @@
 "org_url": "https://spbtpp.ru/"
 },
 {
-"title": "Ежегодная церемония «Предприятие года»",
+"title": "Ежегодная церемония «Предприятие года» 29 Сен (Втр.) Место : Пространство by Avenue apart",
 "url": "https://spbtpp.ru/events/events_534.html",
 "date": "",
 "iso": "",
@@ -216,6 +216,80 @@
 "enr": 5,
 "org": "СПб ТПП",
 "org_url": "https://spbtpp.ru/"
+},
+{
+"title": "Посев: Идея, Команда, CustDev",
+"url": "https://tboil.spb.ru/events/actual/253750/",
+"date": "",
+"iso": "",
+"time": "18:30",
+"topic": "Бизнес",
+"online": false,
+"net": false,
+"source": "🔥 Точка кипения СПб",
+"speaker": "Олесь Балабкин",
+"img": "https://tboil.spb.ru/upload/iblock/cb8/Безымянный-2_Монтажная область 1.png",
+"desc": "Спасибо! Ваша заявка отправлена команде проекта. По итогам рассмотрения вам будет отправлено письмо на адрес эл.почты",
+"price": "Бесплатно",
+"org_page": "",
+"enr": 5,
+"org": "Точка кипения СПб",
+"org_url": "https://tboil.spb.ru/"
+},
+{
+"title": "Сборка: Рынок, Гипотезы, Финансы",
+"url": "https://tboil.spb.ru/events/actual/253751/",
+"date": "01 октября 2026",
+"iso": "2026-10-01",
+"time": "18:30",
+"topic": "Бизнес",
+"online": false,
+"net": false,
+"source": "🔥 Точка кипения СПб",
+"img": "https://tboil.spb.ru/upload/iblock/cb8/Безымянный-2_Монтажная область 1.png",
+"desc": "Спасибо! Ваша заявка отправлена команде проекта. По итогам рассмотрения вам будет отправлено письмо на адрес эл.почты",
+"price": "Бесплатно",
+"org_page": "",
+"enr": 5,
+"org": "Точка кипения СПб",
+"org_url": "https://tboil.spb.ru/"
+},
+{
+"title": "Масштаб: Инвестиции, Стейкхолдеры, Энергия",
+"url": "https://tboil.spb.ru/events/actual/253752/",
+"date": "15 октября 2026",
+"iso": "2026-10-15",
+"time": "18:30",
+"topic": "Бизнес",
+"online": false,
+"net": false,
+"source": "🔥 Точка кипения СПб",
+"speaker": "Олесь Балабкин",
+"img": "https://tboil.spb.ru/upload/iblock/cb8/Безымянный-2_Монтажная область 1.png",
+"desc": "Спасибо! Ваша заявка отправлена команде проекта. По итогам рассмотрения вам будет отправлено письмо на адрес эл.почты",
+"price": "Бесплатно",
+"org_page": "",
+"enr": 5,
+"org": "Точка кипения СПб",
+"org_url": "https://tboil.spb.ru/"
+},
+{
+"title": "Баркемп 20.35 «Национальная технологическая революция» 2026",
+"url": "https://tboil.spb.ru/events/actual/254165/",
+"date": "11 ноября 2026",
+"iso": "2026-11-11",
+"time": "10:00",
+"topic": "Бизнес",
+"online": false,
+"net": false,
+"source": "🔥 Точка кипения СПб",
+"img": "https://tboil.spb.ru/upload/iblock/cb8/Безымянный-2_Монтажная область 1.png",
+"desc": "Баркемп 20.35 — это флагманское событие, где задаются тренды технологического развития, формируется актуальная повестка Национальной технологической инициативы (НТИ) и запускаются проекты, влияющие на будущее России и мира.",
+"price": "Бесплатно",
+"org_page": "",
+"enr": 5,
+"org": "Точка кипения СПб",
+"org_url": "https://tboil.spb.ru/"
 },
 {
 "title": "Kaspersky {CTF} 2026 Хакатон Разработка ПО , Искусственный интеллект (ИИ) , Криптография",
@@ -506,6 +580,26 @@
 "org_url": ""
 },
 {
+"title": "uNGFW 7.5.x: новые возможности для настройки и администрирования",
+"url": "https://ict2go.ru/events/71697/",
+"date": "03.09.2026",
+"iso": "2026-09-03",
+"time": "10:00",
+"topic": "IT",
+"online": true,
+"net": false,
+"source": "💻 ict2go (ИТ-события)",
+"speaker": "Олег Лысенко",
+"org_url_page": "https://ict2go.ru/companies/5479/",
+"img": "https://ict2go.ru/uploads/media/events_lid_image/0001/78/thumb_77582_medium.png",
+"desc": "Вебинар \"uNGFW 7.5.x: новые возможности для настройки и администрирования\" состоится 3 сентября 2026 года в 10:00 (мск). На вебинаре разб...",
+"price": "",
+"org_page": "UserGate",
+"enr": 5,
+"org": "UserGate",
+"org_url": "https://ict2go.ru/companies/5479/"
+},
+{
 "title": "uOS 7.5.0: новые возможности для настройки и администрирования Вебинар ИБ (Информационная безопасность)",
 "url": "https://ict2go.ru/events/71256/",
 "date": "03.09.2026",
@@ -578,7 +672,26 @@
 "org_url": ""
 },
 {
-"title": "Репликация, миграция и другой движ данных. Кейс банка Уралсиб",
+"title": "Расширяем границы MaxPatrol SIEM: свои инструменты, правила и автоматизация",
+"url": "https://ict2go.ru/events/71698/",
+"date": "03.09.2026",
+"iso": "2026-09-03",
+"time": "11:00",
+"topic": "IT",
+"online": true,
+"net": false,
+"source": "💻 ict2go (ИТ-события)",
+"org_url_page": "https://ict2go.ru/companies/653/",
+"img": "https://ict2go.ru/uploads/media/events_lid_image/0001/78/thumb_77583_medium.jpg",
+"desc": "Вебинар \"Расширяем границы MaxPatrol SIEM: свои инструменты, правила и автоматизация\" состоится 3 сентября 2026 года в 11:00 (мск). MaxPa...",
+"price": "",
+"org_page": "Positive Technologies",
+"enr": 5,
+"org": "Positive Technologies",
+"org_url": "https://ict2go.ru/companies/653/"
+},
+{
+"title": "Репликация, миграция и другой движ данных. Кейс банка Уралсиб Вебинар ИТ-инфраструктура , СУБД , ИТ в банках и",
 "url": "https://ict2go.ru/events/71663/",
 "date": "03.09.2026",
 "iso": "2026-09-03",
@@ -587,17 +700,16 @@
 "online": true,
 "net": false,
 "source": "💻 ict2go (ИТ-события)",
-"org_url_page": "https://ict2go.ru/companies/914/",
 "img": "https://ict2go.ru/uploads/media/events_lid_image/0001/78/thumb_77549_medium.png",
 "desc": "3 сентября 2026 г. в 11.00 (мск) пройдет вебинар «Репликация, миграция и другой движ данных. Кейс банка Уралсиб» по решениям для миграции ...",
 "price": "",
 "org_page": "Банк УРАЛСИБ",
 "enr": 5,
 "org": "Банк УРАЛСИБ",
-"org_url": "https://ict2go.ru/companies/914/"
+"org_url": ""
 },
 {
-"title": "Управленческий учет в банке как сквозной процесс: от исходных данных через MIS - к управленческой отчетности",
+"title": "Управленческий учет в банке как сквозной процесс: от исходных данных через MIS - к управленческой отчетности В",
 "url": "https://ict2go.ru/events/71627/",
 "date": "03.09.2026",
 "iso": "2026-09-03",
@@ -606,14 +718,32 @@
 "online": true,
 "net": false,
 "source": "💻 ict2go (ИТ-события)",
-"org_url_page": "https://ict2go.ru/companies/1302/",
 "img": "https://ict2go.ru/uploads/media/events_lid_image/0001/78/thumb_77517_medium.png",
 "desc": "3 сентября 2026 года в 11:00 (Мск) состоится вебинар \"Управленческий учет в банке как сквозной процесс: от исходных данных через MIS - к управлен...",
 "price": "",
 "org_page": "ПрограмБанк",
 "enr": 5,
 "org": "ПрограмБанк",
-"org_url": "https://ict2go.ru/companies/1302/"
+"org_url": ""
+},
+{
+"title": "Час на взлом: как ИИ-агенты ломают инфраструктуру и как защититься?",
+"url": "https://ict2go.ru/events/71696/",
+"date": "03.09.2026",
+"iso": "2026-09-03",
+"time": "11:00",
+"topic": "ИИ",
+"online": true,
+"net": false,
+"source": "💻 ict2go (ИТ-события)",
+"org_url_page": "https://ict2go.ru/companies/96/",
+"img": "https://ict2go.ru/uploads/media/events_lid_image/0001/78/thumb_77581_medium.png",
+"desc": "Вебинар «Час на взлом: как ИИ-агенты ломают инфраструктуру и как защититься?» от компании Beeline Cloud состоится 3 сентября 2026 года в 1...",
+"price": "",
+"org_page": "билайн (Вымпелком)",
+"enr": 5,
+"org": "билайн (Вымпелком)",
+"org_url": "https://ict2go.ru/companies/96/"
 },
 {
 "title": "Экосистема АСМО. Презентация решений и стратегия продаж Вебинар Автоматизация (бизнес-приложения) , ИТ в бизне",
@@ -652,7 +782,7 @@
 "org_url": ""
 },
 {
-"title": "Автоматизация тестирования как инвестиция: от внедрения к измеримому результату в эпоху ИИ",
+"title": "Автоматизация тестирования как инвестиция: от внедрения к измеримому результату в эпоху ИИ Вебинар Искусственн",
 "url": "https://ict2go.ru/events/71645/",
 "date": "03.09.2026",
 "iso": "2026-09-03",
@@ -661,15 +791,13 @@
 "online": true,
 "net": false,
 "source": "💻 ict2go (ИТ-события)",
-"speaker": "Вячеслав Аргунов",
-"org_url_page": "https://ict2go.ru/companies/4888/",
 "img": "https://ict2go.ru/uploads/media/events_lid_image/0001/78/thumb_77537_medium.jpg",
 "desc": "3 сентября 2026 г. в 16.00 (мск) состоится вебинар «Автоматизация тестирования как инвестиция: от внедрения к измеримому результату в эпоху ИИ&r...",
 "price": "",
 "org_page": "Перфоманс Лаб",
 "enr": 5,
 "org": "Перфоманс Лаб",
-"org_url": "https://ict2go.ru/companies/4888/"
+"org_url": ""
 },
 {
 "title": "Миграция без остановки бизнеса: переносим S3-хранилище продакшена под нагрузкой Вебинар ИТ-инфраструктура",
@@ -762,7 +890,7 @@
 "org_url": ""
 },
 {
-"title": "Лидер корпоративной благотворительности",
+"title": "Лидер корпоративной благотворительности Премия Управление бизнесом , КСО , Устойчивое развитие , ESG",
 "url": "https://ict2go.ru/events/71657/",
 "date": "07.09.2026",
 "iso": "2026-09-07",
@@ -771,14 +899,13 @@
 "online": true,
 "net": false,
 "source": "💻 ict2go (ИТ-события)",
-"org_url_page": "https://ict2go.ru/companies/1613/",
 "img": "https://ict2go.ru/uploads/media/events_lid_image/0001/78/thumb_77544_medium.png",
 "desc": "До 8 сентября 2026 года проходит прием заявок на вручение специальной номинации делового издания «Ведомости» - «Лидер корпорат...",
 "price": "",
 "org_page": "Ведомости",
 "enr": 5,
 "org": "Ведомости",
-"org_url": "https://ict2go.ru/companies/1613/"
+"org_url": ""
 },
 {
 "title": "ЗПИФ-2026. Стратегии роста в эпоху дорогих денег и новых возможностей Круглый стол Инвестиции , Финансы",
@@ -853,7 +980,7 @@
 "org_url": ""
 },
 {
-"title": "Эксперимент ФНС по предоставлению персонала: кого касается и к чему готовиться",
+"title": "Эксперимент ФНС по предоставлению персонала: кого касается и к чему готовиться Вебинар Налоги и Налогообложени",
 "url": "https://ict2go.ru/events/71629/",
 "date": "08.09.2026",
 "iso": "2026-09-08",
@@ -862,15 +989,13 @@
 "online": true,
 "net": false,
 "source": "💻 ict2go (ИТ-события)",
-"speaker": "Александр Рябов",
-"org_url_page": "https://ict2go.ru/companies/10421/",
 "img": "https://ict2go.ru/uploads/media/events_lid_image/0001/78/thumb_77519_medium.jpg",
 "desc": "8 сентября 2026 г. в 11.00 (мск) пройдет вебинар «Эксперимент ФНС по предоставлению персонала: кого касается и к чему готовиться». С 20...",
 "price": "",
 "org_page": "OPEN Group",
 "enr": 5,
 "org": "OPEN Group",
-"org_url": "https://ict2go.ru/companies/10421/"
+"org_url": ""
 },
 {
 "title": "Точка ESG 2026. Онлайн и вечерний нетворкинг Конференция Управление бизнесом , Устойчивое развитие , ESG",
@@ -972,14 +1097,13 @@
 "online": false,
 "net": false,
 "source": "💻 ict2go (ИТ-события)",
-"org_url_page": "https://ict2go.ru/companies/5075/",
 "img": "https://ict2go.ru/uploads/media/events_lid_image/0001/78/thumb_77564_medium.jpg",
 "desc": "9 сентября 2026 г. Кластер «Креономика» проведет в Санкт-Петербурге практическую конференцию «Комплексный подход к внедрению отечест...",
 "price": "Бесплатно",
 "org_page": "Креономика",
 "enr": 5,
 "org": "Креономика",
-"org_url": "https://ict2go.ru/companies/5075/"
+"org_url": ""
 },
 {
 "title": "Марафон: от практик к решениям. Ульяновск Вебинар Финансы , Регулирование в сфере финансов",
@@ -1054,7 +1178,7 @@
 "org_url": ""
 },
 {
-"title": "Промежуточный срез готовности молочной отрасли к партионному учёту",
+"title": "Промежуточный срез готовности молочной отрасли к партионному учёту Вебинар Автоматизация (бизнес-приложения) ,",
 "url": "https://ict2go.ru/events/71666/",
 "date": "09.09.2026",
 "iso": "2026-09-09",
@@ -1063,14 +1187,13 @@
 "online": true,
 "net": false,
 "source": "💻 ict2go (ИТ-события)",
-"org_url_page": "https://ict2go.ru/companies/8960/",
 "img": "https://ict2go.ru/uploads/media/events_lid_image/0001/78/thumb_77557_medium.jpg",
 "desc": "9 сентября 2026 г. в 10.00 (мск) пройдет вебинар «Промежуточный срез готовности молочной отрасли к партионному учёту». До обязательного...",
 "price": "Бесплатно",
 "org_page": "Digital4food",
 "enr": 5,
 "org": "Digital4food",
-"org_url": "https://ict2go.ru/companies/8960/"
+"org_url": ""
 },
 {
 "title": "Профилактика выгорания сотрудников 2026 Конференция HR (кадры)",
@@ -1289,7 +1412,7 @@
 "org_url": ""
 },
 {
-"title": "Документооборот со студенческой скамьи",
+"title": "Документооборот со студенческой скамьи Вебинар СЭД , ЭДО , Образование",
 "url": "https://ict2go.ru/events/71633/",
 "date": "10.09.2026",
 "iso": "2026-09-10",
@@ -1298,14 +1421,13 @@
 "online": true,
 "net": false,
 "source": "💻 ict2go (ИТ-события)",
-"org_url_page": "https://ict2go.ru/companies/6/",
 "img": "https://ict2go.ru/uploads/media/events_lid_image/0001/78/thumb_77522_medium.jpg",
 "desc": "10 сентября 2026 г. в 10.45 (мск) ГК «ЭОС» проведет для преподавателей ВУЗов очередной круглый стол «Документооборот со студенческой...",
 "price": "",
 "org_page": "ЭОС",
 "enr": 5,
 "org": "ЭОС",
-"org_url": "https://ict2go.ru/companies/6/"
+"org_url": ""
 },
 {
 "title": "Новое в Диадоке: распознавание документов, работа с ЭПД и партионный учет молочной продукции Вебинар ПО , ЭДО",
@@ -1362,7 +1484,7 @@
 "org_url": ""
 },
 {
-"title": "Ценообразование 2026: максимум маржи на пиках спроса и в низкий сезон",
+"title": "Ценообразование 2026: максимум маржи на пиках спроса и в низкий сезон Вебинар Торговые сети , Электронная комм",
 "url": "https://ict2go.ru/events/71650/",
 "date": "10.09.2026",
 "iso": "2026-09-10",
@@ -1371,17 +1493,16 @@
 "online": true,
 "net": false,
 "source": "💻 ict2go (ИТ-события)",
-"org_url_page": "https://ict2go.ru/companies/8695/",
 "img": "https://ict2go.ru/uploads/media/events_lid_image/0001/78/thumb_77540_medium.jpg",
 "desc": "10 сентября 2026 г. в 11.00 (мск) пройдет вебинар «Ценообразование 2026: максимум маржи на пиках спроса и в низкий сезон». На вебинаре ...",
 "price": "",
 "org_page": "Odyssey Consulting Group",
 "enr": 5,
 "org": "Odyssey Consulting Group",
-"org_url": "https://ict2go.ru/companies/8695/"
+"org_url": ""
 },
 {
-"title": "Как создать эффективный интернет-магазин на стыке 2026–2027 годов",
+"title": "Как создать эффективный интернет-магазин на стыке 2026–2027 годов Вебинар Веб/Онлайн , Электронная коммерция (",
 "url": "https://ict2go.ru/events/71639/",
 "date": "10.09.2026",
 "iso": "2026-09-10",
@@ -1390,17 +1511,16 @@
 "online": true,
 "net": false,
 "source": "💻 ict2go (ИТ-события)",
-"org_url_page": "https://ict2go.ru/companies/3002/",
 "img": "https://ict2go.ru/uploads/media/events_lid_image/0001/78/thumb_77528_medium.png",
 "desc": "10 сентября 2026 года в 12:00 (мск) пройдет вебинар «Как создать эффективный интернет-магазин на стыке 2026–2027 годов». В 2027 г...",
 "price": "",
 "org_page": "Nethouse",
 "enr": 5,
 "org": "Nethouse",
-"org_url": "https://ict2go.ru/companies/3002/"
+"org_url": ""
 },
 {
-"title": "Цифровые финансовые активы: новые горизонты для бизнеса и банков",
+"title": "Цифровые финансовые активы: новые горизонты для бизнеса и банков Вебинар Банки , Блокчейн , Финансы , Криптова",
 "url": "https://ict2go.ru/events/71632/",
 "date": "10.09.2026",
 "iso": "2026-09-10",
@@ -1409,15 +1529,13 @@
 "online": true,
 "net": false,
 "source": "💻 ict2go (ИТ-события)",
-"speaker": "Анатолий Чернов",
-"org_url_page": "https://ict2go.ru/companies/807/",
 "img": "https://ict2go.ru/uploads/media/events_lid_image/0001/73/thumb_72771_events_lid_image_big.png",
 "desc": "10 сентября в 13.30 состоится вебинар RUDATA «Цифровые финансовые активы: новые горизонты для бизнеса и банков». Развитие цифровых фина...",
 "price": "Бесплатно",
 "org_page": "Интерфакс",
 "enr": 5,
 "org": "Интерфакс",
-"org_url": "https://ict2go.ru/companies/807/"
+"org_url": ""
 },
 {
 "title": "День честных кейсов | Cетевая безопасность глазами инженеров и директоров по ИБ Конференция ИБ (Информационная",
@@ -1456,7 +1574,7 @@
 "org_url": ""
 },
 {
-"title": "Как внедрить гибкую методологию Scrum: возможности и ограничения",
+"title": "Как внедрить гибкую методологию Scrum: возможности и ограничения Вебинар Искусственный интеллект (ИИ) , Agile",
 "url": "https://ict2go.ru/events/71630/",
 "date": "10.09.2026",
 "iso": "2026-09-10",
@@ -1465,14 +1583,13 @@
 "online": true,
 "net": false,
 "source": "💻 ict2go (ИТ-события)",
-"org_url_page": "https://ict2go.ru/companies/10536/",
 "img": "https://ict2go.ru/uploads/media/events_lid_image/0001/78/thumb_77520_medium.jpg",
 "desc": "10 сентября в 16:00 (мск) пройдет практический вебинар «Как внедрить гибкую методологию Scrum: возможности и ограничения». На вебинаре раз...",
 "price": "Бесплатно",
 "org_page": "Русская Школа Управления",
 "enr": 5,
 "org": "Русская Школа Управления",
-"org_url": "https://ict2go.ru/companies/10536/"
+"org_url": ""
 },
 {
 "title": "Технологии Добра 2026. Прием заявок Премия Медиа , КСО , НКО",
@@ -1511,7 +1628,7 @@
 "org_url": ""
 },
 {
-"title": "Новая система «Финист» от «Лукоморья»: от разрозненных проектов к управляемому портфелю",
+"title": "Новая система «Финист» от «Лукоморья»: от разрозненных проектов к управляемому портфелю Вебинар ПО",
 "url": "https://ict2go.ru/events/71671/",
 "date": "11.09.2026",
 "iso": "2026-09-11",
@@ -1520,14 +1637,13 @@
 "online": true,
 "net": false,
 "source": "💻 ict2go (ИТ-события)",
-"org_url_page": "https://ict2go.ru/companies/768/",
 "img": "https://ict2go.ru/uploads/media/events_lid_image/0001/78/thumb_77556_medium.png",
 "desc": "11 сентября 2026 года в 11:00 (мск) состоится вебинар \"Новая система «Финист» от «Лукоморья»: от разрозненных проектов к ...",
 "price": "",
 "org_page": "Axoft",
 "enr": 5,
 "org": "Axoft",
-"org_url": "https://ict2go.ru/companies/768/"
+"org_url": ""
 },
 {
 "title": "Каждая идиома когда-то была проблемой Вебинар Разработка ПО , C++",
@@ -1710,7 +1826,7 @@
 "org_url": ""
 },
 {
-"title": "ИИ.Elements",
+"title": "ИИ.Elements Конференция ИТ в образовании (EdTEch) , HR (кадры) , Искусственный интеллект (ИИ) , ИТ в HR , Обра",
 "url": "https://ict2go.ru/events/71643/",
 "date": "16.09.2026",
 "iso": "2026-09-16",
@@ -1719,17 +1835,16 @@
 "online": true,
 "net": false,
 "source": "💻 ict2go (ИТ-события)",
-"org_url_page": "https://ict2go.ru/companies/3558/",
 "img": "https://ict2go.ru/uploads/media/events_lid_image/0001/78/thumb_77534_medium.png",
 "desc": "16-17 сентября 2026 года пройдет онлайн-конференция для HR и всех, кто занимается обучением взрослых «ИИ.Elements». Цель: помочь специа...",
 "price": "",
 "org_page": "E-learning center",
 "enr": 5,
 "org": "E-learning center",
-"org_url": "https://ict2go.ru/companies/3558/"
+"org_url": ""
 },
 {
-"title": "HR PRO Бизнес: наём, процессы, стратегия",
+"title": "HR PRO Бизнес: наём, процессы, стратегия Вебинар Управление бизнесом , HR (кадры) , ИТ в бизнесе , ИТ в HR",
 "url": "https://ict2go.ru/events/71665/",
 "date": "16.09.2026",
 "iso": "2026-09-16",
@@ -1738,14 +1853,13 @@
 "online": true,
 "net": false,
 "source": "💻 ict2go (ИТ-события)",
-"org_url_page": "https://ict2go.ru/companies/765/",
 "img": "https://ict2go.ru/uploads/media/events_lid_image/0001/78/thumb_77551_medium.png",
 "desc": "16–17 сентября 2026 г. в онлайн формате пройдет пятая онлайн-конференция «HR PRO Бизнес» — площадка для специалистов, кот...",
 "price": "",
 "org_page": "СимбирСофт (SimbirSoft)",
 "enr": 5,
 "org": "СимбирСофт (SimbirSoft)",
-"org_url": "https://ict2go.ru/companies/765/"
+"org_url": ""
 },
 {
 "title": "Агрорусь 2026 Выставка Цифровизация , ИТ в промышленности , ИТ в АПК",
@@ -1910,7 +2024,7 @@
 "org_url": ""
 },
 {
-"title": "Красивые интерфейсы и понятные графики: что нового в ELMA365 КЭДО",
+"title": "Красивые интерфейсы и понятные графики: что нового в ELMA365 КЭДО Вебинар ИТ в HR , КЭДО",
 "url": "https://ict2go.ru/events/71651/",
 "date": "17.09.2026",
 "iso": "2026-09-17",
@@ -1919,14 +2033,13 @@
 "online": true,
 "net": false,
 "source": "💻 ict2go (ИТ-события)",
-"org_url_page": "https://ict2go.ru/companies/235/",
 "img": "https://ict2go.ru/uploads/media/events_lid_image/0001/78/thumb_77186_medium.png",
 "desc": "17 сентября 2026 г. в 11.00 (мск) пройдет вебинар «Красивые интерфейсы и понятные графики: что нового в ELMA365 КЭДО». На мероприятии E...",
 "price": "",
 "org_page": "ELMA (ЭЛМА)",
 "enr": 5,
 "org": "ELMA (ЭЛМА)",
-"org_url": "https://ict2go.ru/companies/235/"
+"org_url": ""
 },
 {
 "title": "Что важнее SOCа? Вебинар ИБ (Информационная безопасность) , SOC",
@@ -2073,7 +2186,7 @@
 "org_url": ""
 },
 {
-"title": "Инфобез без иллюзий. «СёрчИнформ» приглашает на ежегодную серию практических ИБ-конференций",
+"title": "Инфобез без иллюзий. «СёрчИнформ» приглашает на ежегодную серию практических ИБ-конференций Конференция ИБ (Ин",
 "url": "https://ict2go.ru/events/71677/",
 "date": "22.09.2026",
 "iso": "2026-09-22",
@@ -2082,17 +2195,16 @@
 "online": true,
 "net": false,
 "source": "💻 ict2go (ИТ-события)",
-"org_url_page": "https://ict2go.ru/companies/772/",
 "img": "https://ict2go.ru/uploads/media/events_lid_image/0001/78/thumb_77565_medium.png",
 "desc": "С 22 сентября по 17 ноября пройдет серия конференций по информационной безопасности от «СёрчИнформ», которая охватит 30 городов России и с...",
 "price": "Бесплатно",
 "org_page": "СёрчИнформ (Searchinform)",
 "enr": 5,
 "org": "СёрчИнформ (Searchinform)",
-"org_url": "https://ict2go.ru/companies/772/"
+"org_url": ""
 },
 {
-"title": "Совершенно безопасно",
+"title": "Совершенно безопасно Конференция Автоматизация (бизнес-приложения) , ИБ (Информационная безопасность) , Искусс",
 "url": "https://ict2go.ru/events/71653/",
 "date": "22.09.2026",
 "iso": "2026-09-22",
@@ -2101,14 +2213,13 @@
 "online": true,
 "net": false,
 "source": "💻 ict2go (ИТ-события)",
-"org_url_page": "https://ict2go.ru/companies/470/",
 "img": "https://ict2go.ru/uploads/media/events_lid_image/0001/78/thumb_77541_medium.jpg",
 "desc": "22 сентября 2026 г. в 10.00 (мск) состоится онлайн-конференция «Совершенно безопасно» на тему безопасности бизнеса: актуальные проблемы, р...",
 "price": "Бесплатно",
 "org_page": "СКБ Контур",
 "enr": 5,
 "org": "СКБ Контур",
-"org_url": "https://ict2go.ru/companies/470/"
+"org_url": ""
 },
 {
 "title": "ТрансЛогистика Санкт-Петербург 2026 Конференция Цифровизация , HR (кадры) , Искусственный интеллект (ИИ) , Лог",
@@ -2273,7 +2384,7 @@
 "org_url": ""
 },
 {
-"title": "Антикризисные решения для eCommerce: 5 точек роста трафика и конверсий на сайте",
+"title": "Антикризисные решения для eCommerce: 5 точек роста трафика и конверсий на сайте Вебинар Веб/Онлайн , Электронн",
 "url": "https://ict2go.ru/events/71636/",
 "date": "23.09.2026",
 "iso": "2026-09-23",
@@ -2282,14 +2393,13 @@
 "online": true,
 "net": false,
 "source": "💻 ict2go (ИТ-события)",
-"org_url_page": "https://ict2go.ru/companies/3002/",
 "img": "https://ict2go.ru/uploads/media/events_lid_image/0001/78/thumb_77525_medium.png",
 "desc": "23 сентября 2026 года в 12:00 (мск) состоится вебинар «Антикризисные решения для eCommerce: 5 точек роста трафика и конверсий на сайте». ...",
 "price": "",
 "org_page": "Nethouse",
 "enr": 5,
 "org": "Nethouse",
-"org_url": "https://ict2go.ru/companies/3002/"
+"org_url": ""
 },
 {
 "title": "CNews Петербург: Передовые технологии и кейсы России Конференция ЦОД , Цифровизация , ИБ (Информационная безоп",
@@ -2364,7 +2474,7 @@
 "org_url": ""
 },
 {
-"title": "Настоящее и будущее промышленности Северо-Запада",
+"title": "Настоящее и будущее промышленности Северо-Запада Форум ИТ в промышленности , ИТ в регионах",
 "url": "https://ict2go.ru/events/71659/",
 "date": "24.09.2026",
 "iso": "2026-09-24",
@@ -2373,14 +2483,13 @@
 "online": false,
 "net": false,
 "source": "💻 ict2go (ИТ-события)",
-"org_url_page": "https://ict2go.ru/companies/1613/",
 "img": "https://ict2go.ru/uploads/media/events_lid_image/0001/78/thumb_77545_medium.png",
 "desc": "24 сентября 2026 года в Санкт-Петербурге пройдет форум о стратегиях предприятий в новых экономических условиях «Настоящее и будущее промышленнос...",
 "price": "",
 "org_page": "Ведомости",
 "enr": 5,
 "org": "Ведомости",
-"org_url": "https://ict2go.ru/companies/1613/"
+"org_url": ""
 },
 {
 "title": "Санкт-Петербургский международный форум объединенных культур 2026 Форум Культура",
@@ -2410,14 +2519,13 @@
 "online": true,
 "net": false,
 "source": "💻 ict2go (ИТ-события)",
-"org_url_page": "https://ict2go.ru/companies/65/",
 "img": "https://ict2go.ru/uploads/media/events_lid_image/0001/78/thumb_77554_medium.jpg",
 "desc": "24 сентября 2026 года в 11:00 (мск) состоится вебинар \"Непрерывность бизнеса с HOSTVM VDI: предсказуемый бюджет, гибкое масштабирование и оптимиз...",
 "price": "",
 "org_page": "Софтлайн (Softline)",
 "enr": 5,
 "org": "Софтлайн (Softline)",
-"org_url": "https://ict2go.ru/companies/65/"
+"org_url": ""
 },
 {
 "title": "Открытый разговор о строительстве Конференция ИТ в строительстве , Коммерческая недвижимость , ИТ в недвижимос",
@@ -2492,7 +2600,7 @@
 "org_url": ""
 },
 {
-"title": "ИИ ассистенты для энергетики",
+"title": "ИИ ассистенты для энергетики Хакатон ИТ в промышленности , Искусственный интеллект (ИИ) , ИТ в энергетике , UX",
 "url": "https://ict2go.ru/events/71624/",
 "date": "28.09.2026",
 "iso": "2026-09-28",
@@ -2501,17 +2609,16 @@
 "online": true,
 "net": false,
 "source": "💻 ict2go (ИТ-события)",
-"org_url_page": "https://ict2go.ru/companies/2697/",
 "img": "https://ict2go.ru/uploads/media/events_lid_image/0001/78/thumb_77539_medium.jpg",
 "desc": "28 сентября 2026 г. в онлайн формате стартуе хакатон «ИИ ассистенты для энергетики». Твоё ИИ-решение — в одной из крупнейших эн...",
 "price": "750 000 ₽",
 "org_page": "Интер РАО",
 "enr": 5,
 "org": "Интер РАО",
-"org_url": "https://ict2go.ru/companies/2697/"
+"org_url": ""
 },
 {
-"title": "Обучение по работе с ЭПД в веб-версиях Диадока и Логистики",
+"title": "Обучение по работе с ЭПД в веб-версиях Диадока и Логистики Вебинар ИТ в логистике , ЭДО",
 "url": "https://ict2go.ru/events/71652/",
 "date": "29.09.2026",
 "iso": "2026-09-29",
@@ -2520,14 +2627,13 @@
 "online": true,
 "net": false,
 "source": "💻 ict2go (ИТ-события)",
-"org_url_page": "https://ict2go.ru/companies/470/",
 "img": "https://ict2go.ru/uploads/media/events_lid_image/0001/69/thumb_68576_events_lid_image_big.jpeg",
 "desc": "29 сентября 2026 г. в 11.00 (мск) состоится бесплатный вебинар «Обучение по работе с ЭПД в веб-версиях Диадока и Логистики». Регулярное...",
 "price": "",
 "org_page": "СКБ Контур",
 "enr": 5,
 "org": "СКБ Контур",
-"org_url": "https://ict2go.ru/companies/470/"
+"org_url": ""
 },
 {
 "title": "Предприятие года 2026. Церемония награждения Церемония награждения Финансы , ИТ в промышленности , Управление ",
@@ -2548,7 +2654,7 @@
 "org_url": ""
 },
 {
-"title": "Диалог: государство - бизнес - сообщества",
+"title": "Диалог: государство - бизнес - сообщества Конференция Автоматизация (бизнес-приложения) , Управление бизнесом ",
 "url": "https://ict2go.ru/events/71642/",
 "date": "30.09.2026",
 "iso": "2026-09-30",
@@ -2557,14 +2663,13 @@
 "online": false,
 "net": false,
 "source": "💻 ict2go (ИТ-события)",
-"org_url_page": "https://ict2go.ru/companies/10546/",
 "img": "https://ict2go.ru/uploads/media/events_lid_image/0001/78/thumb_77533_medium.png",
 "desc": "Конференция представляет собой специализированную площадку, объединяющую представителей власти, представителей деловых сообществ и объединений, собств...",
 "price": "",
 "org_page": "ENCHЕ",
 "enr": 5,
 "org": "ENCHЕ",
-"org_url": "https://ict2go.ru/companies/10546/"
+"org_url": ""
 },
 {
 "title": "R&D Conference ПромКом 2026 Конференция Автоматизация (бизнес-приложения) , ИТ в промышленности , Управление б",
@@ -2801,7 +2906,7 @@
 "org_url": ""
 },
 {
-"title": "ДронКонгресс 2026",
+"title": "ДронКонгресс 2026 Конгресс Дроны/Беспилотники",
 "url": "https://ict2go.ru/events/71664/",
 "date": "07.10.2026",
 "iso": "2026-10-07",
@@ -2810,14 +2915,13 @@
 "online": false,
 "net": false,
 "source": "💻 ict2go (ИТ-события)",
-"org_url_page": "https://ict2go.ru/companies/9064/",
 "img": "https://ict2go.ru/uploads/media/events_lid_image/0001/78/thumb_77550_medium.jpg",
 "desc": "7—9 октября 2026 года в Санкт-Петербурге пройдёт Всероссийский ДронКонгресс – итоговое событие года площадки БАС.ЭКСПО. Организатор &md...",
 "price": "",
 "org_page": "БАС.Экспо (ExpoUAV)",
 "enr": 5,
 "org": "БАС.Экспо (ExpoUAV)",
-"org_url": "https://ict2go.ru/companies/9064/"
+"org_url": ""
 },
 {
 "title": "Код ИБ. КиберДень с SECURITM Вебинар ИБ (Информационная безопасность)",
@@ -2856,7 +2960,7 @@
 "org_url": ""
 },
 {
-"title": "Диадок Фест 2026",
+"title": "Диадок Фест 2026 Фестиваль Автоматизация (бизнес-приложения) , ЭДО , ИТ в бизнесе",
 "url": "https://ict2go.ru/events/71661/",
 "date": "09.10.2026",
 "iso": "2026-10-09",
@@ -2865,14 +2969,13 @@
 "online": true,
 "net": false,
 "source": "💻 ict2go (ИТ-события)",
-"org_url_page": "https://ict2go.ru/companies/470/",
 "img": "https://ict2go.ru/uploads/media/events_lid_image/0001/78/thumb_77547_medium.jpg",
 "desc": "9 октября 2026 г. в онлайн-формате пройдет «Диадок Фест» — мероприятие Контур.Диадока для тех, кто работает с документами, упрощает ...",
 "price": "Бесплатно",
 "org_page": "СКБ Контур",
 "enr": 5,
 "org": "СКБ Контур",
-"org_url": "https://ict2go.ru/companies/470/"
+"org_url": ""
 },
 {
 "title": "AI Challenge 2026. Финал Конкурс Разработка ПО , Машинное обучение , Искусственный интеллект (ИИ) , Нейросети",
@@ -3037,7 +3140,7 @@
 "org_url": ""
 },
 {
-"title": "AI Journey Contest 2026",
+"title": "AI Journey Contest 2026 Чемпионат Разработка ПО , Разработка приложений , Искусственный интеллект (ИИ)",
 "url": "https://ict2go.ru/events/71679/",
 "date": "20.10.2026",
 "iso": "2026-10-20",
@@ -3046,17 +3149,16 @@
 "online": true,
 "net": false,
 "source": "💻 ict2go (ИТ-события)",
-"org_url_page": "https://ict2go.ru/companies/19/",
 "img": "https://ict2go.ru/uploads/media/events_lid_image/0001/78/thumb_77566_medium.jpg",
 "desc": "Сбер открывает регистрацию на международное онлайн-соревнование по искусственному интеллекту AI Journey Contest. Участники со всех уголков мира смогут...",
 "price": "",
 "org_page": "Сбер (Сбербанк)",
 "enr": 5,
 "org": "Сбер (Сбербанк)",
-"org_url": "https://ict2go.ru/companies/19/"
+"org_url": ""
 },
 {
-"title": "Прикладной искусственный интеллект: перспективы и риски",
+"title": "Прикладной искусственный интеллект: перспективы и риски Конференция ИБ (Информационная безопасность) , ИТ в об",
 "url": "https://ict2go.ru/events/71220/",
 "date": "20.10.2026",
 "iso": "2026-10-20",
@@ -3065,17 +3167,16 @@
 "online": false,
 "net": false,
 "source": "💻 ict2go (ИТ-события)",
-"org_url_page": "https://ict2go.ru/companies/10514/",
 "img": "https://ict2go.ru/uploads/media/events_lid_image/0001/78/thumb_77116_medium.png",
 "desc": "20 октября 2026 года в Санкт-Петербурге состоится конференция \"Прикладной искусственный интеллект: перспективы и риски\". Цель конференции...",
 "price": "",
 "org_page": "Комитет по науке и высшей школе",
 "enr": 5,
 "org": "Комитет по науке и высшей школе",
-"org_url": "https://ict2go.ru/companies/10514/"
+"org_url": ""
 },
 {
-"title": "Mobius 2026 Autumn",
+"title": "Mobius 2026 Autumn Конференция Разработка приложений , Мобильные приложения , Android",
 "url": "https://ict2go.ru/events/70304/",
 "date": "21.10.2026",
 "iso": "2026-10-21",
@@ -3084,36 +3185,16 @@
 "online": false,
 "net": false,
 "source": "💻 ict2go (ИТ-события)",
-"org_url_page": "https://ict2go.ru/companies/783/",
 "img": "https://ict2go.ru/uploads/media/events_lid_image/0001/77/thumb_76238_medium.png",
 "desc": "21-22 октября 2026 г. в Санкт-Петербурге пройдет конференция по мобильной разработке Mobius 2026 Autumn. Mobius — профильная IT-кон...",
 "price": "",
 "org_page": "JUG Ru Group",
 "enr": 5,
 "org": "JUG Ru Group",
-"org_url": "https://ict2go.ru/companies/783/"
+"org_url": ""
 },
 {
-"title": "Сумма технологий 2026",
-"url": "https://ict2go.ru/events/71291/",
-"date": "21.10.2026",
-"iso": "2026-10-21",
-"time": "10:00",
-"topic": "ИИ",
-"online": false,
-"net": false,
-"source": "💻 ict2go (ИТ-события)",
-"org_url_page": "https://ict2go.ru/companies/1318/",
-"img": "https://ict2go.ru/uploads/media/events_lid_image/0001/78/thumb_77193_medium.png",
-"desc": "Конференция \"Сумма технологий\" состоится 21 октября 2026 года в Санкт-Петербурге. «Сумма технологий» впервые соберёт заказчик...",
-"price": "",
-"org_page": "TS Solution",
-"enr": 5,
-"org": "TS Solution",
-"org_url": "https://ict2go.ru/companies/1318/"
-},
-{
-"title": "Загородная жизнь как экосистема 360: инфраструктура, сообщество, смыслы",
+"title": "Круглый стол Недвижимость Загородная жизнь как экосистема 360: инфраструктура, сообщество, смыслы 31.08.2026 П",
 "url": "https://all-events.ru/events/zagorodnaya-zhizn-kak-ekosistema-360-infrastruktura-soobshchestvo-smysly/",
 "date": "31.08.2026",
 "iso": "2026-08-31",
@@ -3131,7 +3212,7 @@
 "org_url": ""
 },
 {
-"title": "Как освоить новую профессию зарабатывать на ИИ-агентах",
+"title": "Искусственный интеллект Как освоить новую профессию зарабатывать на ИИ-агентах 01.09.2026 Вт 01.09.2026 Вт Веб",
 "url": "https://all-events.ru/events/kak-osvoit-novuyu-professiyu-zarabatyvat-na-ii-agentakh/",
 "date": "01.09.2026",
 "iso": "2026-09-01",
@@ -3149,7 +3230,7 @@
 "org_url": ""
 },
 {
-"title": "От сделки до результата: треугольник проектного управления",
+"title": "Цифровизация бизнеса От сделки до результата: треугольник проектного управления 02.09.2026 Ср 02.09.2026 Ср Ве",
 "url": "https://all-events.ru/events/ot_sdelki_do_rezultata_treugolnik_proektnogo_upravleniya/",
 "date": "02.09.2026",
 "iso": "2026-09-02",
@@ -3167,7 +3248,7 @@
 "org_url": ""
 },
 {
-"title": "Где теплоснабжение теряет на топливе — и как увидеть это на двое суток вперёд",
+"title": "Цифровая трансформация Где теплоснабжение теряет на топливе — и как увидеть это на двое суток вперёд 02.09.202",
 "url": "https://all-events.ru/events/gde_teplosnabzhenie_teryaet_na_toplive_i_kak_uvidet_eto_na_dvoe_sutok_vperyed/",
 "date": "02.09.2026",
 "iso": "2026-09-02",
@@ -3185,7 +3266,7 @@
 "org_url": ""
 },
 {
-"title": "CDP и репликация для обеспечения непрерывности бизнеса",
+"title": "IT-Информационные технологии CDP и репликация для обеспечения непрерывности бизнеса 02.09.2026 Ср 02.09.2026 С",
 "url": "https://all-events.ru/events/cdp-i-replikatsiya-dlya-obespecheniya-nepreryvnosti-biznesa/",
 "date": "02.09.2026",
 "iso": "2026-09-02",
@@ -3203,7 +3284,7 @@
 "org_url": ""
 },
 {
-"title": "Трансграничный ЭДО с Узбекистаном: как подключиться и начать работу",
+"title": "ЭДО Трансграничный ЭДО с Узбекистаном: как подключиться и начать работу 02.09.2026 Ср 02.09.2026 Ср Вебинар Он",
 "url": "https://all-events.ru/events/transgranichnyy_edo_s_uzbekistanom_kak_podklyuchitsya_i_nachat_rabotu/",
 "date": "02.09.2026",
 "iso": "2026-09-02",
@@ -3221,7 +3302,7 @@
 "org_url": ""
 },
 {
-"title": "Новая версия MasterSCADA 4D - 1.3.10",
+"title": "2 сентября 2026 Новая версия MasterSCADA 4D - 1.3.10 не указан Онлайн-трансляция не определено Онлайн-трансляц",
 "url": "https://all-events.ru/events/novaya-versiya-masterscada-4d-1-3-10/",
 "date": "",
 "iso": "",
@@ -3239,7 +3320,7 @@
 "org_url": ""
 },
 {
-"title": "Сравнение российских NGFW 2026: технобаттл вендоров",
+"title": "IT-Информационные технологии Сравнение российских NGFW 2026: технобаттл вендоров 02.09.2026 Ср 02.09.2026 Ср К",
 "url": "https://all-events.ru/events/sravnenie-rossiyskikh-ngfw-2026-tekhnobattl-vendorov/",
 "date": "02.09.2026",
 "iso": "2026-09-02",
@@ -3257,7 +3338,7 @@
 "org_url": ""
 },
 {
-"title": "NGFW 2026: как выбрать зрелое решение",
+"title": "2 сентября 2026 NGFW 2026: как выбрать зрелое решение не указан Онлайн-трансляция не определено Онлайн-трансля",
 "url": "https://all-events.ru/events/ngfw-2026-kak-vybrat-zreloe-reshenie/",
 "date": "",
 "iso": "",
@@ -3275,7 +3356,7 @@
 "org_url": ""
 },
 {
-"title": "И снова третье сентября: что изменилось в ИБ, пока вы ели кукурузу на сочинских пляжах",
+"title": "IT-Информационные технологии И снова третье сентября: что изменилось в ИБ, пока вы ели кукурузу на сочинских п",
 "url": "https://all-events.ru/events/i-snova-trete-sentyabrya-chto-izmenilos-v-ib-poka-vy-eli-kukuruzu-na-sochinskikh-plyazhakh/",
 "date": "03.09.2026",
 "iso": "2026-09-03",
@@ -3286,134 +3367,6 @@
 "source": "📅 all-events (деловые события)",
 "img": "https://all-events.ru/upload/iblock/3a1/inbea6w65ojxsflbe7evtzh5mlotmx2l.webp",
 "desc": "Вы вернулись с моря загорелыми и отдохнувшими, а регуляторы лето провели продуктивно: пока одни жарились на пляже, ФСТЭК России и Правительство успели выкатить пачку изменений. Так что кофе в одну руку, блокнот в другую - разбираемся, с чем встречаем осень 2026. 3 сентября, 11:00. Календарь перевёрнут, песня заиграла - самое время спокойно и по делу пройтись по главным летним изменениям на нашем в",
-"price": "Бесплатно",
-"org_page": "",
-"enr": 5,
-"org": "",
-"org_url": ""
-},
-{
-"title": "Порядок допуска организаций, осуществляющих обмен цифровых валют",
-"url": "https://all-events.ru/events/poryadok-dopuska-organizatsiy-osushchestvlyayushchikh-obmen-tsifrovykh-valyut/",
-"date": "28.08.2026",
-"iso": "2026-08-28",
-"time": "10:00",
-"topic": "IT",
-"online": true,
-"net": false,
-"source": "📅 all-events (деловые события)",
-"img": "https://all-events.ru/upload/iblock/e76/e3tme0hxf10vq6l7ptk2ku7wcupnk5h4.png",
-"desc": "28 августа 2026 года в 10:00 (мск) пройдет вебинар «Порядок допуска организаций, осуществляющих обмен цифровых валют, цифровых депозитариев и операторов информационных систем, в которых осуществляется выпуск цифровых финансовых активов». Порядок допуска организаций, осуществляющих обмен цифровых валют Да, , программа, спикеры, стоимость участия. Подробности на All-Events.ru!",
-"price": "Бесплатно",
-"org_page": "",
-"enr": 5,
-"org": "",
-"org_url": ""
-},
-{
-"title": "Фронтенд, который не сгенерируешь",
-"url": "https://all-events.ru/events/frontend-kotoryy-ne-sgeneriruesh/",
-"date": "28 августа 2026",
-"iso": "2026-08-28",
-"time": "19:00",
-"topic": "Бизнес",
-"online": true,
-"net": false,
-"source": "📅 all-events (деловые события)",
-"speaker": "Иван Поддубный",
-"img": "https://all-events.ru/upload/iblock/0bc/k8ird129l1ygnyse4fv2lnnxbcv3pd02.png",
-"desc": "28 августа 2026 г. в 19:00 (мск) пройдет онлайн-митап «Фронтенд, который не сгенерируешь» На онлайн-митапе говорим про инженерную культуру там, где заметная часть кода уже пишется не руками. Фронтенд, который не сгенерируешь Да, , программа, спикеры, стоимость участия. Подробности на All-Events.ru!",
-"price": "Бесплатно",
-"org_page": "",
-"enr": 5,
-"org": "",
-"org_url": ""
-},
-{
-"title": "Агенты пишут код, а кто его проверяет?",
-"url": "https://all-events.ru/events/agenty-pishut-kod-a-kto-ego-proveryaet/",
-"date": "28 августа 2026",
-"iso": "2026-08-28",
-"time": "11:00",
-"topic": "ИИ",
-"online": true,
-"net": false,
-"source": "📅 all-events (деловые события)",
-"img": "https://all-events.ru/upload/iblock/a72/g7lvki1evh82vnqiuty467ngo9u6s7t7.png",
-"desc": "28 августа 2026 г. в 15.00 (мск) пройдет вебинар «Агенты пишут код, а кто его проверяет?» Агенты пишут код, а кто его проверяет? Да, , программа, спикеры, стоимость участия. Подробности на All-Events.ru!",
-"price": "Бесплатно",
-"org_page": "",
-"enr": 5,
-"org": "",
-"org_url": ""
-},
-{
-"title": "Как подготовить команду для самостоятельной интеграции роботов в производственные процессы",
-"url": "https://all-events.ru/events/kak-podgotovit-komandu-dlya-samostoyatelnoy-integratsii-robotov-v-proizvodstvennye-protsessy/",
-"date": "28.08.2026",
-"iso": "2026-08-28",
-"time": "",
-"topic": "Бизнес",
-"online": true,
-"net": false,
-"source": "📅 all-events (деловые события)",
-"img": "https://all-events.ru/upload/iblock/ddb/5wcqzlb6s88rtq1p7vt552ura54xws3c.jpg",
-"desc": "Как подготовить команду для самостоятельной интеграции роботов в производственные процессы Кому будет полезно: Руководителям предприятий, главным инженерам, руководителям служб по автоматизации и интеграции, руководителям ИТ, АСУ ТП. Как подготовить команду для самостоятельной интеграции роботов в производственные процессы Да, , программа, спикеры, стоимость участия. Подробности на All-Events.ru!",
-"price": "Бесплатно",
-"org_page": "",
-"enr": 5,
-"org": "",
-"org_url": ""
-},
-{
-"title": "Единый контур безопасной разработки с Deckhouse: Code + Stronghold",
-"url": "https://all-events.ru/events/edinyy-kontur-bezopasnoy-razrabotki-s-deckhouse-code-stronghold/",
-"date": "28.08.2026",
-"iso": "2026-08-28",
-"time": "",
-"topic": "IT",
-"online": true,
-"net": false,
-"source": "📅 all-events (деловые события)",
-"img": "https://all-events.ru/upload/iblock/745/pvbm1r9dkp8wzg2adl3ivx93b6te0nq8.png",
-"desc": "Многие команды используют GitLab CE как основу процесса разработки, а недостающие функции безопасности добавляют самостоятельно. Настраивают правила для репозиториев, собирают схемы согласования изменений, связывают GitLab с внешним хранилищем секретов и поддерживают дополнительные интеграции. В результате процесс разработки распределён между несколькими инструментами. Часть контроля остаётся на с",
-"price": "Бесплатно",
-"org_page": "",
-"enr": 5,
-"org": "",
-"org_url": ""
-},
-{
-"title": "Защита от утечек конфиденциальных данных 2026",
-"url": "https://all-events.ru/events/zashchita-ot-utechek-konfidentsialnykh-dannykh-2026/",
-"date": "28 августа 2026",
-"iso": "2026-08-28",
-"time": "",
-"topic": "Бизнес",
-"online": true,
-"net": false,
-"source": "📅 all-events (деловые события)",
-"img": "https://all-events.ru/upload/iblock/d07/l7fz2kdnw7l8ogrn8pfqvyggohbemnv5.png",
-"desc": "Утечки данных в 2026 году — это уже не только проблема ИБ, а прямой финансовый, юридический и репутационный риск для бизнеса. Под угрозой находятся персональные данные клиентов, коммерческая тайна, документы, код, финансовая информация, переписки, данные из CRM, ERP, облаков и корпоративных SaaS. Классический подход “поставим DLP и закроем вопрос” больше не работает. Данные живут в почте, мессендж",
-"price": "",
-"org_page": "",
-"enr": 5,
-"org": "",
-"org_url": ""
-},
-{
-"title": "Бухгалтер вышел из отпуска: что изменилось за лето?",
-"url": "https://all-events.ru/events/bukhgalter-vyshel-iz-otpuska-chto-izmenilos-za-leto/",
-"date": "28.08.2026",
-"iso": "2026-08-28",
-"time": "",
-"topic": "Бизнес",
-"online": true,
-"net": false,
-"source": "📅 all-events (деловые события)",
-"speaker": "Марина Климова",
-"img": "https://all-events.ru/upload/iblock/14f/xu5p4c2lyng2eqy7lla5rsd752py2ycm.jpg",
-"desc": "Бухгалтер вышел из отпуска: что изменилось за лето? Спикер: Марина Климова — налоговый консультант, преподаватель ИПБ России, Палаты налоговых консультантов, опыт консультирования более 20 лет, автор более 30 книг и более 200 публикаций, включённых в различные правовые базы, автор материалов для «Базы знаний» компании «Такском», к. э. н. Бухгалтер вышел из отпуска: что изменилось за лето? Да, , пр",
 "price": "Бесплатно",
 "org_page": "",
 "enr": 5,
