@@ -1,78 +1,6 @@
 {
-"updated": "2026-11-06",
+"updated": "2026-11-07",
 "events": [
-{
-"title": "«Бухгалтерский учёт 2027: новые ФСБУ в действии» 05 Ноя (Чтв.) - 06 Ноя (Пт.) 2026 Место : Онлайн",
-"url": "https://spbtpp.ru/events/events_690.html",
-"date": "",
-"iso": "",
-"time": "10:00",
-"topic": "Бизнес",
-"online": true,
-"net": false,
-"source": "🏛 СПб Торгово-промышленная палата",
-"img": "https://raw.githubusercontent.com/Anutka-star/tg-events-bot/main/assets/placeholder.jpg",
-"desc": "Приглашаем бухгалтеров и руководителей малого и среднего бизнеса на практический семинар, который даст понятную и применимую картину изменений бухгалтерского учёта. Да, да, именно летом, когда все отдыхают, принято огромное количество поправок в разные виды законодательства, незнание которых грозит большими санкциями.",
-"price": "",
-"org_page": "",
-"enr": 5,
-"org": "СПб ТПП",
-"org_url": "https://spbtpp.ru/"
-},
-{
-"title": "«Разработка и внедрение комплексной системы риск-менеджмента на предприятии» 05 Ноя (Чтв.) - 06 Ноя (Пт.) 2026",
-"url": "https://spbtpp.ru/events/events_615.html",
-"date": "",
-"iso": "",
-"time": "10:00",
-"topic": "IT",
-"online": false,
-"net": false,
-"source": "🏛 СПб Торгово-промышленная палата",
-"img": "https://raw.githubusercontent.com/Anutka-star/tg-events-bot/main/assets/placeholder.jpg",
-"desc": "На семинаре изучаются современная концепция управления рисками в соответствии с международными стандартами и лучшим практическим опытом. Полученные знания позволят слушателям сформировать умения и навыки по выявлению, оценке, анализу и управлению стратегиями рисков. Такой подход способствует повышению роста эффективности компании.",
-"price": "",
-"org_page": "",
-"enr": 5,
-"org": "СПб ТПП",
-"org_url": "https://spbtpp.ru/"
-},
-{
-"title": "«Эффективная система адаптации персонала» 06 Ноя (Пт.) Место : СПб ТПП",
-"url": "https://spbtpp.ru/events/events_619.html",
-"date": "",
-"iso": "",
-"time": "10:00",
-"topic": "Бизнес",
-"online": false,
-"net": false,
-"source": "🏛 СПб Торгово-промышленная палата",
-"img": "https://raw.githubusercontent.com/Anutka-star/tg-events-bot/main/assets/placeholder.jpg",
-"desc": "Семинар ведет: Бурмистрова Наталья Олеговна, психолог, экономист, HR-эксперт, методолог HR-технологий по оценке, мотивации и развитию персонала, автор книг и обучающих курсов в области HR.",
-"price": "15 000 ₽",
-"org_page": "",
-"enr": 5,
-"org": "СПб ТПП",
-"org_url": "https://spbtpp.ru/"
-},
-{
-"title": "Круглый стол «Инновационные решения в бестраншейной прокладке и реконструкции подземных трубопроводов на опыте белорусской компани",
-"url": "https://spbtpp.ru/events/events_692.html",
-"date": "",
-"iso": "",
-"time": "10:00",
-"topic": "Бизнес",
-"online": false,
-"net": false,
-"source": "🏛 СПб Торгово-промышленная палата",
-"img": "https://raw.githubusercontent.com/Anutka-star/tg-events-bot/main/assets/placeholder.jpg",
-"desc": "6 ноября 2026 года в 11:00 на площадке СПб ТПП состоится круглый стол «Инновационные решения в бестраншейной прокладке и реконструкции подземных трубопроводов на опыте белорусской компании».",
-"price": "Бесплатно",
-"org_page": "",
-"enr": 5,
-"org": "СПб ТПП",
-"org_url": "https://spbtpp.ru/"
-},
 {
 "title": "«Организация входного контроля на предприятии в соответствии с требованиями ГОСТ Р 24297-2013 и ГОСТ Р ИСО 9001-2015»",
 "url": "https://spbtpp.ru/events/events_557.html",
@@ -200,7 +128,7 @@
 "org_url": "https://spbtpp.ru/"
 },
 {
-"title": "35‑я Международная продовольственная выставка «ПЕТЕРФУД‑2026»",
+"title": "35‑я Международная продовольственная выставка «ПЕТЕРФУД‑2026» 24 Ноя (Втр.) - 26 Ноя (Чтв.) 2026 Место : Экспо",
 "url": "https://spbtpp.ru/events/events_625.html",
 "date": "",
 "iso": "",
@@ -218,22 +146,76 @@
 "org_url": "https://spbtpp.ru/"
 },
 {
-"title": "Самопрезентация и защита перед экспертами и инвесторами",
-"url": "https://tboil.spb.ru/events/actual/254423/",
-"date": "06 ноября 2026",
-"iso": "2026-11-06",
-"time": "17:30",
+"title": "«Воинский учет, бронирование, частичная мобилизация: новые требования, алгоритмы для работодателя»",
+"url": "https://spbtpp.ru/events/events_609.html",
+"date": "",
+"iso": "",
+"time": "10:00",
+"topic": "Бизнес",
+"online": true,
+"net": false,
+"source": "🏛 СПб Торгово-промышленная палата",
+"img": "https://raw.githubusercontent.com/Anutka-star/tg-events-bot/main/assets/placeholder.jpg",
+"desc": "Вебинар проводит: Светлана Анатольевна ШНАЙДЕР – Член Комитета по трудовому законодательству Национального союза кадровиков, преподаватель кафедры Управление персоналом Российской академии народного хозяйства и государственной службы при Президенте РФ, практикующий консультант по вопросам применения трудового законодательства, кадрового делопроизводства и управления персоналом.",
+"price": "",
+"org_page": "",
+"enr": 5,
+"org": "СПб ТПП",
+"org_url": "https://spbtpp.ru/"
+},
+{
+"title": "Семинар-практикум «Профессиональный помощник руководителя: задачи, навыки, компетенции»",
+"url": "https://spbtpp.ru/events/events_523.html",
+"date": "",
+"iso": "",
+"time": "10:00",
 "topic": "Бизнес",
 "online": false,
 "net": false,
-"source": "🔥 Точка кипения СПб",
-"img": "https://tboil.spb.ru/upload/iblock/cb8/Безымянный-2_Монтажная область 1.png",
-"desc": "Спасибо! Ваша заявка отправлена команде проекта. По итогам рассмотрения вам будет отправлено письмо на адрес эл.почты",
-"price": "Бесплатно",
+"source": "🏛 СПб Торгово-промышленная палата",
+"img": "https://raw.githubusercontent.com/Anutka-star/tg-events-bot/main/assets/placeholder.jpg",
+"desc": "- Должностной статус и функциональные обязанности помощника руководителя, его роль в управленческом процессе. - Необходимые в работе деловые и личные качества. - Квалификационная характеристика помощника руководителя и его должностные обязанности в соответствии с требованиями профессионального стандарта. - Деловое взаимодействие с руководителем. - Психология внутрикорпоративной коммуникации.",
+"price": "35 000 ₽",
 "org_page": "",
 "enr": 5,
-"org": "Точка кипения СПб",
-"org_url": "https://tboil.spb.ru/"
+"org": "СПб ТПП",
+"org_url": "https://spbtpp.ru/"
+},
+{
+"title": "«Масштабные изменения в труде водителей в 2026 году: прием на работу, режимы труда, квалификация и другие вопросы»",
+"url": "https://spbtpp.ru/events/events_551.html",
+"date": "",
+"iso": "",
+"time": "10:00",
+"topic": "Бизнес",
+"online": false,
+"net": false,
+"source": "🏛 СПб Торгово-промышленная палата",
+"img": "https://raw.githubusercontent.com/Anutka-star/tg-events-bot/main/assets/placeholder.jpg",
+"desc": "С 1 сентября 2026 года вступают в силу новые требования к приему на работу водителей, новые требования к режиму труда водителей, новые квалификационные требования и новые требования к обеспечению безопасности перевозок.",
+"price": "",
+"org_page": "",
+"enr": 5,
+"org": "СПб ТПП",
+"org_url": "https://spbtpp.ru/"
+},
+{
+"title": "«Иностранные работники и исполнители: новации в порядке оформления, в расчетах, налогообложении, страховании и отчетности. Масштаб",
+"url": "https://spbtpp.ru/events/events_678.html",
+"date": "",
+"iso": "",
+"time": "10:00",
+"topic": "Бизнес",
+"online": false,
+"net": false,
+"source": "🏛 СПб Торгово-промышленная палата",
+"img": "https://raw.githubusercontent.com/Anutka-star/tg-events-bot/main/assets/placeholder.jpg",
+"desc": "Семинар проводит: Морозова Ирина Владимировна – высококвалифицированный специалист-практик по вопросам расчётов с персоналом по оплате труда, автор многочисленных публикаций, действительный член ИПБ России.",
+"price": "",
+"org_page": "",
+"enr": 5,
+"org": "СПб ТПП",
+"org_url": "https://spbtpp.ru/"
 },
 {
 "title": "Пленарное заседание - \"Экотехнологии настоящего и будущего: сила инноваций для нового качества жизни\" Баркемп ",
@@ -576,78 +558,6 @@
 "enr": 5,
 "org": "Точка кипения СПб",
 "org_url": "https://tboil.spb.ru/"
-},
-{
-"title": "Бизнес-премия VK «Проявление». Прием заявок Премия Маркетинг , Интернет-маркетинг , Digital-маркетинг (MarTech",
-"url": "https://ict2go.ru/events/73731/",
-"date": "06.11.2026",
-"iso": "2026-11-06",
-"time": "10:00",
-"topic": "IT",
-"online": true,
-"net": false,
-"source": "💻 ict2go (ИТ-события)",
-"img": "https://ict2go.ru/uploads/media/events_lid_image/0001/80/thumb_79474_medium.jpg",
-"desc": "До 8 ноября 2026 года будет проходить прием заявок на участие в бизнес-премии VK за лучшие рекламные решения «Проявление». Премия объед...",
-"price": "",
-"org_page": "VK (бывш. Mail.Ru Group)",
-"enr": 5,
-"org": "VK (бывш. Mail.Ru Group)",
-"org_url": ""
-},
-{
-"title": "БИТ Санкт-Петербург 2026 Конференция ИБ (Информационная безопасность)",
-"url": "https://ict2go.ru/events/73014/",
-"date": "06.11.2026",
-"iso": "2026-11-06",
-"time": "08:00",
-"topic": "IT",
-"online": false,
-"net": false,
-"source": "💻 ict2go (ИТ-события)",
-"img": "https://ict2go.ru/uploads/media/events_lid_image/0001/79/thumb_78771_medium.png",
-"desc": "6 ноября 2026 года в Санкт-Петербурге состоится \"БИТ Санкт-Петербург 2026\" - конференция по ИБ для CISO и руководителей компаний....",
-"price": "",
-"org_page": "АРСИБ",
-"enr": 5,
-"org": "АРСИБ",
-"org_url": ""
-},
-{
-"title": "Взлом HuggingFace агентами OpenAI: что случилось и о чем нам это говорит? Лекция ИБ (Информационная безопаснос",
-"url": "https://ict2go.ru/events/73848/",
-"date": "06.11.2026",
-"iso": "2026-11-06",
-"time": "19:00",
-"topic": "ИИ",
-"online": true,
-"net": false,
-"source": "💻 ict2go (ИТ-события)",
-"img": "https://ict2go.ru/uploads/media/events_lid_image/0001/80/thumb_79572_medium.jpg",
-"desc": "6 ноября 2026 года в 19:00 (мск) пройдет открытая лекция в онлайн формате \"Взлом HuggingFace агентами OpenAI: что случилось и о чем нам это говор...",
-"price": "",
-"org_page": "Центральный университет",
-"enr": 5,
-"org": "Центральный университет",
-"org_url": ""
-},
-{
-"title": "DebugRead — книжный клуб инженеров: Chip Huyen, «AI Engineering» Мероприятие Искусственный интеллект (ИИ)",
-"url": "https://ict2go.ru/events/73764/",
-"date": "06.11.2026",
-"iso": "2026-11-06",
-"time": "19:30",
-"topic": "ИИ",
-"online": false,
-"net": false,
-"source": "💻 ict2go (ИТ-события)",
-"img": "https://ict2go.ru/uploads/media/events_lid_image/0001/80/thumb_79502_medium.jpg",
-"desc": "Совместное чтение канонического текста по AI-инженерии: evals, RAG, файнтюнинг, датасеты, оптимизация инференса. Онлайн-созвон в пятницу 6 ноября 19:3...",
-"price": "",
-"org_page": "Debug Skills",
-"enr": 5,
-"org": "Debug Skills",
-"org_url": ""
 },
 {
 "title": "SpbTechRun 2026 Хакатон Разработка ПО , Образование",
@@ -1010,7 +920,7 @@
 "org_url": ""
 },
 {
-"title": "Обзор приложения MERCUSYS: настройка и управление сетью",
+"title": "Обзор приложения MERCUSYS: настройка и управление сетью Вебинар Сетевые технологии , Сетевое оборудование",
 "url": "https://ict2go.ru/events/73936/",
 "date": "10.11.2026",
 "iso": "2026-11-10",
@@ -1019,7 +929,6 @@
 "online": true,
 "net": false,
 "source": "💻 ict2go (ИТ-события)",
-"org_url_page": "https://ict2go.ru/companies/7202/",
 "img": "https://ict2go.ru/uploads/media/events_lid_image/0001/80/thumb_79643_medium.jpg",
 "desc": "10 ноября 2026 г. в 11.00 (мск) пройдет вебинар «Обзор приложения MERCUSYS: настройка и управление сетью». На мероприятии разберут его ...",
 "price": "",
@@ -1047,7 +956,7 @@
 "org_url": ""
 },
 {
-"title": "Решение типовых задач проектирования в новых версиях EnergyCS",
+"title": "Решение типовых задач проектирования в новых версиях EnergyCS Вебинар САПР , CAD",
 "url": "https://ict2go.ru/events/73918/",
 "date": "10.11.2026",
 "iso": "2026-11-10",
@@ -1056,14 +965,13 @@
 "online": true,
 "net": false,
 "source": "💻 ict2go (ИТ-события)",
-"org_url_page": "https://ict2go.ru/companies/2049/",
 "img": "https://ict2go.ru/uploads/media/events_lid_image/0001/78/thumb_77351_medium.jpg",
 "desc": "10 ноября в 11:00 по московскому времени «СиСофт Девелопмент» проведет бесплатный технический вебинар «Решение типовых задач проекти...",
 "price": "Бесплатно",
 "org_page": "(СиСофт) CSoft",
 "enr": 5,
 "org": "(СиСофт) CSoft",
-"org_url": "https://ict2go.ru/companies/2049/"
+"org_url": ""
 },
 {
 "title": "Сквозная работа с ЭПД в сервисах Контура: EDI — Диадок — Логистика Вебинар Логистика , ЭДО",
@@ -1102,7 +1010,7 @@
 "org_url": ""
 },
 {
-"title": "Установлено ≠ учтено: где теряются ИТ-активы и лицензии? Интеграция RuDesktop и SimpleOne",
+"title": "Установлено ≠ учтено: где теряются ИТ-активы и лицензии? Интеграция RuDesktop и SimpleOne Вебинар ИТ-инфрастру",
 "url": "https://ict2go.ru/events/73937/",
 "date": "10.11.2026",
 "iso": "2026-11-10",
@@ -1111,7 +1019,6 @@
 "online": true,
 "net": false,
 "source": "💻 ict2go (ИТ-события)",
-"org_url_page": "https://ict2go.ru/companies/7481/",
 "img": "https://ict2go.ru/uploads/media/events_lid_image/0001/78/thumb_77641_medium.png",
 "desc": "10 ноября 2026 г. в 11.00 (мск) пройдет вебинар «Установлено ≠ учтено: где теряются ИТ-активы и лицензии? Интеграция RuDesktop и SimpleOne&ra...",
 "price": "",
@@ -1427,7 +1334,7 @@
 "org_url": ""
 },
 {
-"title": "Цена новой автоматизации: за что бизнес будет платить в эпоху «бесплатных» ИИ-решений",
+"title": "Цена новой автоматизации: за что бизнес будет платить в эпоху «бесплатных» ИИ-решений Вебинар Автоматизация (б",
 "url": "https://ict2go.ru/events/73941/",
 "date": "11.11.2026",
 "iso": "2026-11-11",
@@ -1436,14 +1343,13 @@
 "online": true,
 "net": false,
 "source": "💻 ict2go (ИТ-события)",
-"org_url_page": "https://ict2go.ru/companies/10688/",
 "img": "https://ict2go.ru/uploads/media/events_lid_image/0001/80/thumb_79648_medium.png",
 "desc": "11 ноября 2026 года в 12:00 (мск) пройдет вебинар «Цена новой автоматизации: за что бизнес будет платить в эпоху «бесплатных» И...",
 "price": "",
 "org_page": "НЕКСТБИ",
 "enr": 5,
 "org": "НЕКСТБИ",
-"org_url": "https://ict2go.ru/companies/10688/"
+"org_url": ""
 },
 {
 "title": "Инвест.Премаркет Конкурс Искусственный интеллект (ИИ) , Финтех",
@@ -1608,7 +1514,7 @@
 "org_url": ""
 },
 {
-"title": "Корпоративные коммуникации под капотом: опыт Ситидрайв",
+"title": "Корпоративные коммуникации под капотом: опыт Ситидрайв Вебинар Унифицированные коммуникации (UC)",
 "url": "https://ict2go.ru/events/73935/",
 "date": "12.11.2026",
 "iso": "2026-11-12",
@@ -1617,14 +1523,13 @@
 "online": true,
 "net": false,
 "source": "💻 ict2go (ИТ-события)",
-"org_url_page": "https://ict2go.ru/companies/470/",
 "img": "https://ict2go.ru/uploads/media/events_lid_image/0001/69/thumb_68576_events_lid_image_big.jpeg",
 "desc": "12 ноября 2026 г. в 10.00 (мск) пройдет бесплатный вебинар Контур.Толка «Корпоративные коммуникации под капотом: опыт Ситидрайв». Когда...",
 "price": "",
 "org_page": "СКБ Контур",
 "enr": 5,
 "org": "СКБ Контур",
-"org_url": "https://ict2go.ru/companies/470/"
+"org_url": ""
 },
 {
 "title": "Осенний HR День 2026 Конференция Цифровизация , Управление бизнесом , HR (кадры) , Искусственный интеллект (ИИ",
@@ -1717,7 +1622,7 @@
 "org_url": ""
 },
 {
-"title": "Ваш Kaspersky Endpoint Security может больше: ловушки TS Echo и реакция на вторжение без SOC",
+"title": "Ваш Kaspersky Endpoint Security может больше: ловушки TS Echo и реакция на вторжение без SOC Вебинар ИБ (Инфор",
 "url": "https://ict2go.ru/events/73929/",
 "date": "12.11.2026",
 "iso": "2026-11-12",
@@ -1726,14 +1631,13 @@
 "online": true,
 "net": false,
 "source": "💻 ict2go (ИТ-события)",
-"org_url_page": "https://ict2go.ru/companies/1318/",
 "img": "https://ict2go.ru/uploads/media/events_lid_image/0001/80/thumb_79639_medium.png",
 "desc": "12 ноября 2026 г. в 11.00 (мск) пройдет вебинар «Ваш Kaspersky Endpoint Security может больше: ловушки TS Echo и реакция на вторжение без SOC&ra...",
 "price": "",
 "org_page": "TS Solution",
 "enr": 5,
 "org": "TS Solution",
-"org_url": "https://ict2go.ru/companies/1318/"
+"org_url": ""
 },
 {
 "title": "Гарда WAF 3.3: геораспределенная защита веб-сервисов и отказоустойчивость без компромиссов Вебинар ИБ (Информа",
@@ -1808,7 +1712,7 @@
 "org_url": ""
 },
 {
-"title": "Новая линейка CyberData: ИБП для ЦОД и ИИ-нагрузок",
+"title": "Новая линейка CyberData: ИБП для ЦОД и ИИ-нагрузок Вебинар ЦОД , Искусственный интеллект (ИИ) , ИБП",
 "url": "https://ict2go.ru/events/73939/",
 "date": "12.11.2026",
 "iso": "2026-11-12",
@@ -1817,14 +1721,13 @@
 "online": true,
 "net": false,
 "source": "💻 ict2go (ИТ-события)",
-"org_url_page": "https://ict2go.ru/companies/9067/",
 "img": "https://ict2go.ru/uploads/media/events_lid_image/0001/80/thumb_79645_medium.png",
 "desc": "12 ноября 2026 года в 11:00 (мск) состоится вебинар «Новая линейка CyberData: ИБП для ЦОД и ИИ-нагрузок». Эксперты покажут CyberData и ...",
 "price": "",
 "org_page": "PROWAY",
 "enr": 5,
 "org": "PROWAY",
-"org_url": "https://ict2go.ru/companies/9067/"
+"org_url": ""
 },
 {
 "title": "ПДн без белых пятен: процессы, системы и требования Вебинар ИБ (Информационная безопасность) , Персональные да",
@@ -1881,7 +1784,7 @@
 "org_url": ""
 },
 {
-"title": "Создание КХД в диалоге с ИИ-агентом",
+"title": "Создание КХД в диалоге с ИИ-агентом Вебинар Искусственный интеллект (ИИ)",
 "url": "https://ict2go.ru/events/73410/",
 "date": "12.11.2026",
 "iso": "2026-11-12",
@@ -1890,14 +1793,13 @@
 "online": true,
 "net": false,
 "source": "💻 ict2go (ИТ-события)",
-"org_url_page": "https://ict2go.ru/companies/10660/",
 "img": "https://ict2go.ru/uploads/media/events_lid_image/0001/80/thumb_79155_medium.png",
 "desc": "12 ноября 2026 г. в 11:00 (мск) состоится вебинар \"Создание КХД в диалоге с ИИ-агентом\". На вебинаре будет показано, как ИИ-агент в&...",
 "price": "",
 "org_page": "DecoSystems (Деко Системс)",
 "enr": 5,
 "org": "DecoSystems (Деко Системс)",
-"org_url": "https://ict2go.ru/companies/10660/"
+"org_url": ""
 },
 {
 "title": "Технологические БСПД или Wi‑Fi везде? Вебинар ИТ в промышленности , Wi-Fi , ИТ в логистике , АСУ ТП",
@@ -2008,7 +1910,7 @@
 "org_url": ""
 },
 {
-"title": "Новая линейка СайберПром: ИБП для промышленных объектов и тяжёлых условий",
+"title": "Новая линейка СайберПром: ИБП для промышленных объектов и тяжёлых условий Вебинар ИТ в промышленности , ИБП",
 "url": "https://ict2go.ru/events/73940/",
 "date": "12.11.2026",
 "iso": "2026-11-12",
@@ -2017,17 +1919,16 @@
 "online": true,
 "net": false,
 "source": "💻 ict2go (ИТ-события)",
-"org_url_page": "https://ict2go.ru/companies/9067/",
 "img": "https://ict2go.ru/uploads/media/events_lid_image/0001/80/thumb_79646_medium.png",
 "desc": "12 ноября 2026 года в 12:45 (мск) состоится вебинар «Новая линейка СайберПром: ИБП для промышленных объектов и тяжёлых условий»....",
 "price": "",
 "org_page": "PROWAY",
 "enr": 5,
 "org": "PROWAY",
-"org_url": "https://ict2go.ru/companies/9067/"
+"org_url": ""
 },
 {
-"title": "Как Клиника Фомина использует данные по максимуму: от отчётов — к управленческим решениям",
+"title": "Как Клиника Фомина использует данные по максимуму: от отчётов — к управленческим решениям Вебинар Автоматизаци",
 "url": "https://ict2go.ru/events/73922/",
 "date": "12.11.2026",
 "iso": "2026-11-12",
@@ -2036,14 +1937,13 @@
 "online": true,
 "net": false,
 "source": "💻 ict2go (ИТ-события)",
-"org_url_page": "https://ict2go.ru/companies/6235/",
 "img": "https://ict2go.ru/uploads/media/events_lid_image/0001/80/thumb_79634_medium.png",
 "desc": "12 ноября 2026 г. в 13.00 (мск) пройдет вебинар «Как Клиника Фомина использует данные по максимуму: от отчётов — к управленческим решениям...",
 "price": "",
 "org_page": "Purrweb",
 "enr": 5,
 "org": "Purrweb",
-"org_url": "https://ict2go.ru/companies/6235/"
+"org_url": ""
 },
 {
 "title": "XSpider PRO 1.2 и MaxPatrol VM 28.0: что изменилось в новых версиях Вебинар ИБ (Информационная безопасность)",
@@ -2442,7 +2342,7 @@
 "org_url": ""
 },
 {
-"title": "Новая инженерия разработки: ИИ-агенты, quality gates и безопасный код",
+"title": "Новая инженерия разработки: ИИ-агенты, quality gates и безопасный код Вебинар Разработка ПО , Искусственный ин",
 "url": "https://ict2go.ru/events/73822/",
 "date": "17.11.2026",
 "iso": "2026-11-17",
@@ -2451,14 +2351,13 @@
 "online": true,
 "net": false,
 "source": "💻 ict2go (ИТ-события)",
-"org_url_page": "https://ict2go.ru/companies/8866/",
 "img": "https://ict2go.ru/uploads/media/events_lid_image/0001/80/thumb_79548_medium.png",
 "desc": "17 ноября 2026 г. в 15.00 (мск) пройдет вебинар «Новая инженерия разработки: ИИ-агенты, quality gates и безопасный код». ИИ-агенты пост...",
 "price": "",
 "org_page": "PVS-Studio",
 "enr": 5,
 "org": "PVS-Studio",
-"org_url": "https://ict2go.ru/companies/8866/"
+"org_url": ""
 },
 {
 "title": "Как злоумышленники атакуют современные ИИ-системы Лекция ИБ (Информационная безопасность) , Искусственный инте",
@@ -2659,7 +2558,7 @@
 "org_url": ""
 },
 {
-"title": "MaxPatrol Endpoint Security: обновлённые функции сертифицированного решения для комплексной защиты узлов",
+"title": "MaxPatrol Endpoint Security: обновлённые функции сертифицированного решения для комплексной защиты узлов Вебин",
 "url": "https://ict2go.ru/events/73834/",
 "date": "19.11.2026",
 "iso": "2026-11-19",
@@ -2668,14 +2567,13 @@
 "online": true,
 "net": false,
 "source": "💻 ict2go (ИТ-события)",
-"org_url_page": "https://ict2go.ru/companies/653/",
 "img": "https://ict2go.ru/uploads/media/events_lid_image/0001/80/thumb_79560_medium.png",
 "desc": "19 ноября 2026 г. в 11.00 (мск) пройдет вебинар «MaxPatrol Endpoint Security: обновлённые функции сертифицированного решения для комплексной защ...",
 "price": "",
 "org_page": "Positive Technologies",
 "enr": 5,
 "org": "Positive Technologies",
-"org_url": "https://ict2go.ru/companies/653/"
+"org_url": ""
 },
 {
 "title": "Грань выбора: собственная команда или подрядчик? Вебинар ИТ-аутсорсинг , ИТ в фармацевтике",
@@ -2714,7 +2612,7 @@
 "org_url": ""
 },
 {
-"title": "Умное ценообразование в реальном времени: как превратить большие данные в потоковые конвейеры",
+"title": "Умное ценообразование в реальном времени: как превратить большие данные в потоковые конвейеры Вебинар Big Data",
 "url": "https://ict2go.ru/events/73910/",
 "date": "19.11.2026",
 "iso": "2026-11-19",
@@ -2723,17 +2621,16 @@
 "online": true,
 "net": false,
 "source": "💻 ict2go (ИТ-события)",
-"org_url_page": "https://ict2go.ru/companies/3305/",
 "img": "https://ict2go.ru/uploads/media/events_lid_image/0001/80/thumb_79626_medium.jpg",
 "desc": "19 ноября 2026 г. в 11:00 (мск) пройдет вебинар «Умное ценообразование в реальном времени: как превратить большие данные в потоковые конвейеры&r...",
 "price": "",
 "org_page": "DIS Group",
 "enr": 5,
 "org": "DIS Group",
-"org_url": "https://ict2go.ru/companies/3305/"
+"org_url": ""
 },
 {
-"title": "Nethouse Business Day",
+"title": "Nethouse Business Day Конференция Управление бизнесом , ИТ в бизнесе , Интернет-маркетинг , Реклама",
 "url": "https://ict2go.ru/events/73898/",
 "date": "19.11.2026",
 "iso": "2026-11-19",
@@ -2742,7 +2639,6 @@
 "online": true,
 "net": false,
 "source": "💻 ict2go (ИТ-события)",
-"org_url_page": "https://ict2go.ru/companies/3002/",
 "img": "https://ict2go.ru/uploads/media/events_lid_image/0001/80/thumb_79622_medium.jpg",
 "desc": "19 ноября 2026 года в 12:00 (мск) состоится онлайн-конференция \"Nethouse Business Day\". Эксперты Nethouse, eLama, VK, Авито, Unisender и ...",
 "price": "",
@@ -3040,7 +2936,7 @@
 "org_url": ""
 },
 {
-"title": "BI.ZONE расширяет защиту почты: BI.ZONE Sandbox в BI.ZONE Mail Security",
+"title": "BI.ZONE расширяет защиту почты: BI.ZONE Sandbox в BI.ZONE Mail Security Вебинар ИБ (Информационная безопасност",
 "url": "https://ict2go.ru/events/73877/",
 "date": "25.11.2026",
 "iso": "2026-11-25",
@@ -3049,7 +2945,6 @@
 "online": true,
 "net": false,
 "source": "💻 ict2go (ИТ-события)",
-"org_url_page": "https://ict2go.ru/companies/1702/",
 "img": "https://ict2go.ru/uploads/media/events_lid_image/0001/74/thumb_73415_medium.png",
 "desc": "25 ноября 2026 г. в 11.00 (мск) состоится вебинар «BI.ZONE расширяет защиту почты: BI.ZONE Sandbox в BI.ZONE Mail Security». Защита поч...",
 "price": "",
@@ -3851,7 +3746,7 @@
 "org_url": ""
 },
 {
-"title": "Пищёвка3D: азбука готовой еды",
+"title": "Пищёвка3D: азбука готовой еды Форум ИТ в промышленности , ИТ в ритейле , ИТ в HoReCa",
 "url": "https://ict2go.ru/events/73489/",
 "date": "04.02.2027",
 "iso": "2027-02-04",
@@ -3860,14 +3755,13 @@
 "online": false,
 "net": false,
 "source": "💻 ict2go (ИТ-события)",
-"org_url_page": "https://ict2go.ru/companies/8653/",
 "img": "https://ict2go.ru/uploads/media/events_lid_image/0001/80/thumb_79245_medium.png",
 "desc": "4-5 февраля 2027 г. в Санкт-Петербурге состоится форум «Пищёвка3D: азбука готовой еды». 400+ участников 200+ компаний 30+&n...",
 "price": "",
 "org_page": "Vatel Marketing",
 "enr": 5,
 "org": "Vatel Marketing",
-"org_url": "https://ict2go.ru/companies/8653/"
+"org_url": ""
 },
 {
 "title": "Вебинар · Есть запись Как Apache Nessie меняет работу с Data Lakehouse",
