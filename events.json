@@ -1,5 +1,5 @@
 {
-"updated": "2026-11-22",
+"updated": "2026-11-23",
 "events": [
 {
 "title": "«Системное мышление и пространство инноваций: как находить сильные решения в условиях неопределенности. Использование ТРИЗ для раз",
@@ -110,6 +110,24 @@
 "org_url": "https://spbtpp.ru/"
 },
 {
+"title": "Деловая конференция Комитета по транспорту и логистике СПб ТПП «PRO БИЗНЕС: продажи, финансы, логистика»",
+"url": "https://spbtpp.ru/events/events_698.html",
+"date": "",
+"iso": "",
+"time": "11:00",
+"topic": "Бизнес",
+"online": false,
+"net": false,
+"source": "🏛 СПб Торгово-промышленная палата",
+"img": "https://raw.githubusercontent.com/Anutka-star/tg-events-bot/main/assets/placeholder.jpg",
+"desc": "Санкт-Петербургская торгово-промышленная палата приглашает 2 декабря 2026 года на деловую конференцию «PRO БИЗНЕС: продажи, финансы, логистика»! Концентрат бизнес-решений для предпринимателей!",
+"price": "Бесплатно",
+"org_page": "",
+"enr": 5,
+"org": "СПб ТПП",
+"org_url": "https://spbtpp.ru/"
+},
+{
 "title": "«Масштабные изменения в труде водителей в 2026 году: прием на работу, режимы труда, квалификация и другие вопросы»",
 "url": "https://spbtpp.ru/events/events_551.html",
 "date": "",
@@ -194,24 +212,6 @@
 "img": "https://raw.githubusercontent.com/Anutka-star/tg-events-bot/main/assets/placeholder.jpg",
 "desc": "Цель семинара познакомить слушателей с основными понятиями в учете рабочего времени и времени отдыха, изучить нормативную базу по вопросу организации суммированного учета рабочего времени, сменного режима работы и гибких графиков, на конкретных примерах подробно разобрать особенности составления графиков работы и графиков сменности, изучить вопросы документирования сверхурочной работы и ответствен",
 "price": "",
-"org_page": "",
-"enr": 5,
-"org": "СПб ТПП",
-"org_url": "https://spbtpp.ru/"
-},
-{
-"title": "«Техническое регулирование: особенности ввоза и подтверждения соответствия продукции» 10 Дек (Чтв.) Место : СП",
-"url": "https://spbtpp.ru/events/events_611.html",
-"date": "",
-"iso": "",
-"time": "10:00",
-"topic": "Бизнес",
-"online": false,
-"net": false,
-"source": "🏛 СПб Торгово-промышленная палата",
-"img": "https://raw.githubusercontent.com/Anutka-star/tg-events-bot/main/assets/placeholder.jpg",
-"desc": "Программа будет дополнена в случае принятия ко дню проведения семинара законов, вносящих изменения и дополнения в ТК РФ, НК РФ и других законодательных актов, имеющих отношение к теме семинара.",
-"price": "15000 ₽",
 "org_page": "",
 "enr": 5,
 "org": "СПб ТПП",
@@ -377,6 +377,25 @@
 "org_page": "MSK-IX",
 "enr": 5,
 "org": "MSK-IX",
+"org_url": ""
+},
+{
+"title": "Нейрокомпьютеры и их применение 2026",
+"url": "https://ict2go.ru/events/74386/",
+"date": "24.11.2026",
+"iso": "2026-11-24",
+"time": "09:30",
+"topic": "ИИ",
+"online": true,
+"net": false,
+"source": "💻 ict2go (ИТ-события)",
+"org_url_page": "https://ict2go.ru/companies/6928/",
+"img": "https://ict2go.ru/uploads/media/events_lid_image/0001/81/thumb_80020_medium.jpg",
+"desc": "24 ноября 2026 г. Факультет «Информационные технологии» Московского государственного психолого-педагогического университета проводит XXIII...",
+"price": "",
+"org_page": "Московский государственный психолого-педагогический универси",
+"enr": 5,
+"org": "",
 "org_url": ""
 },
 {
@@ -686,6 +705,25 @@
 "org_url": ""
 },
 {
+"title": "Московские ИТ-решения на зарубежных рынках: поддержка, продвижение, партнерства",
+"url": "https://ict2go.ru/events/74393/",
+"date": "24.11.2026",
+"iso": "2026-11-24",
+"time": "16:00",
+"topic": "IT",
+"online": true,
+"net": false,
+"source": "💻 ict2go (ИТ-события)",
+"org_url_page": "https://ict2go.ru/companies/9074/",
+"img": "https://ict2go.ru/uploads/media/events_lid_image/0001/75/thumb_74500_medium.jpg",
+"desc": "24 ноября 2026 г. в 16.00 (мск) пройдет вебинар «Московские ИТ-решения на зарубежных рынках: поддержка, продвижение, партнерства». Цель...",
+"price": "",
+"org_page": "Московская торгово-промышленная палата (МТПП)",
+"enr": 5,
+"org": "Московская торгово-промышленная палата (МТПП)",
+"org_url": "https://ict2go.ru/companies/9074/"
+},
+{
 "title": "Микрофинансирование и доверие: путь к устойчивому развитию 2026 Конференция Финансы , ИТ в банках и финансах ,",
 "url": "https://ict2go.ru/events/72361/",
 "date": "25.11.2026",
@@ -704,8 +742,8 @@
 "org_url": ""
 },
 {
-"title": "Национальная конференция по микрофинансированию и финансовой доступности Конференция ИБ (Информационная безопа",
-"url": "https://ict2go.ru/events/73521/",
+"title": "City Build Russia 2026",
+"url": "https://ict2go.ru/events/74378/",
 "date": "25.11.2026",
 "iso": "2026-11-25",
 "time": "10:00",
@@ -713,12 +751,51 @@
 "online": false,
 "net": false,
 "source": "💻 ict2go (ИТ-события)",
-"img": "https://ict2go.ru/uploads/media/events_lid_image/0001/80/thumb_79279_medium.png",
-"desc": "25-27 ноября 2026 г. в Санкт-Петербурге пройдет конференция \"Национальная конференция по микрофинансированию и финансовой доступности\". Т...",
-"price": "",
-"org_page": "НАУМИР",
+"org_url_page": "https://ict2go.ru/companies/8426/",
+"img": "https://ict2go.ru/uploads/media/events_lid_image/0001/81/thumb_80012_medium.png",
+"desc": "25–26 ноября 2026 года в Санкт-Петербурге на площадке «Севкабель Порт» пройдет международная строительно-интерьерная выставка City B...",
+"price": "Бесплатно",
+"org_page": "КВК «РУС ЭКСПО»",
 "enr": 5,
-"org": "НАУМИР",
+"org": "КВК «РУС ЭКСПО»",
+"org_url": "https://ict2go.ru/companies/8426/"
+},
+{
+"title": "REFORUM. Человек в мире будущего 2026",
+"url": "https://ict2go.ru/events/74379/",
+"date": "25.11.2026",
+"iso": "2026-11-25",
+"time": "10:00",
+"topic": "ИИ",
+"online": true,
+"net": false,
+"source": "💻 ict2go (ИТ-события)",
+"org_url_page": "https://ict2go.ru/companies/6419/",
+"img": "https://ict2go.ru/uploads/media/events_lid_image/0001/81/thumb_80013_medium.png",
+"desc": "25–26 ноября 2026 года в онлайн-формате пройдет международный форум REFORUM «Человек в мире будущего», посвященный развитию человека...",
+"price": "",
+"org_page": "ReForum",
+"enr": 5,
+"org": "",
+"org_url": ""
+},
+{
+"title": "Евразийская экономическая перспектива 2026",
+"url": "https://ict2go.ru/events/74381/",
+"date": "25.11.2026",
+"iso": "2026-11-25",
+"time": "10:00",
+"topic": "IT",
+"online": false,
+"net": false,
+"source": "💻 ict2go (ИТ-события)",
+"org_url_page": "https://ict2go.ru/companies/2553/",
+"img": "https://ict2go.ru/uploads/media/events_lid_image/0001/81/thumb_80015_medium.png",
+"desc": "25–26 ноября 2026 года в Санкт-Петербурге пройдет XIV Международный форум «Евразийская экономическая перспектива». Тема форума &m...",
+"price": "",
+"org_page": "Санкт-Петербургский государственный экономический университе",
+"enr": 5,
+"org": "",
 "org_url": ""
 },
 {
@@ -1100,6 +1177,25 @@
 "org_url": ""
 },
 {
+"title": "Tech Analyst Club x ИнфоТеКС",
+"url": "https://ict2go.ru/events/74385/",
+"date": "25.11.2026",
+"iso": "2026-11-25",
+"time": "18:00",
+"topic": "ИИ",
+"online": false,
+"net": false,
+"source": "💻 ict2go (ИТ-события)",
+"org_url_page": "https://ict2go.ru/companies/99/",
+"img": "https://ict2go.ru/uploads/media/events_lid_image/0001/81/thumb_80019_medium.jpg",
+"desc": "25 ноября 2026 года в 18:00 (мск) в Санкт-Петербурге состоится митап «Tech Analyst Club × ИнфоТеКС», посвященный работе с ИИ-агентам...",
+"price": "Бесплатно",
+"org_page": "ИнфоТеКС (Infotecs)",
+"enr": 5,
+"org": "ИнфоТеКС (Infotecs)",
+"org_url": "https://ict2go.ru/companies/99/"
+},
+{
 "title": "От стартапа до корпорации: как меняется работа бэкенд-разработчика в компаниях разного масштаба Вебинар Разраб",
 "url": "https://ict2go.ru/events/74218/",
 "date": "25.11.2026",
@@ -1116,6 +1212,26 @@
 "enr": 5,
 "org": "НИУ ВШЭ",
 "org_url": ""
+},
+{
+"title": "Тренды UX/UI 2026: от функций к эмоциям",
+"url": "https://ict2go.ru/events/74376/",
+"date": "25.11.2026",
+"iso": "2026-11-25",
+"time": "18:00",
+"topic": "IT",
+"online": true,
+"net": false,
+"source": "💻 ict2go (ИТ-события)",
+"speaker": "Екатерина Матвеева",
+"org_url_page": "https://ict2go.ru/companies/477/",
+"img": "https://ict2go.ru/uploads/media/events_lid_image/0001/81/thumb_80011_medium.jpg",
+"desc": "25 ноября 2026 г. в 18.00 (мск) пройдет вебинар «Тренды UX/UI 2026: от функций к эмоциям». В 2026 ИИ открывает новые возможности для UX...",
+"price": "",
+"org_page": "Т1 (ex-Техносерв)",
+"enr": 5,
+"org": "Т1 (ex-Техносерв)",
+"org_url": "https://ict2go.ru/companies/477/"
 },
 {
 "title": "AI Dev Conf 2026 Конференция Искусственный интеллект (ИИ)",
@@ -1205,6 +1321,25 @@
 "org_page": "ИнфоТеКС (Infotecs)",
 "enr": 5,
 "org": "ИнфоТеКС (Infotecs)",
+"org_url": ""
+},
+{
+"title": "Профессиональная культура специалиста будущего",
+"url": "https://ict2go.ru/events/74384/",
+"date": "26.11.2026",
+"iso": "2026-11-26",
+"time": "10:00",
+"topic": "IT",
+"online": false,
+"net": false,
+"source": "💻 ict2go (ИТ-события)",
+"org_url_page": "https://ict2go.ru/companies/126/",
+"img": "https://ict2go.ru/uploads/media/events_lid_image/0001/81/thumb_80018_medium.png",
+"desc": "26–28 ноября 2026 года в Санкт-Петербурге пройдет XXVI Международная научно-теоретическая конференция «Профессиональная культура специалис...",
+"price": "Бесплатно",
+"org_page": "Санкт-Петербургский политехнический университет Петра Велико",
+"enr": 5,
+"org": "",
 "org_url": ""
 },
 {
@@ -1532,6 +1667,25 @@
 "org_url": ""
 },
 {
+"title": "Уязвимости под контролем: от конкретной уязвимости до экспозиции атаки",
+"url": "https://ict2go.ru/events/74383/",
+"date": "26.11.2026",
+"iso": "2026-11-26",
+"time": "11:00",
+"topic": "IT",
+"online": true,
+"net": false,
+"source": "💻 ict2go (ИТ-события)",
+"org_url_page": "https://ict2go.ru/companies/2061/",
+"img": "https://ict2go.ru/uploads/media/events_lid_image/0001/81/thumb_80017_medium.png",
+"desc": "Вебинар \"Уязвимости под контролем: от конкретной уязвимости до экспозиции атаки\" состоится 26 ноября 2026 года в 11:00 (мск). Уязвимость ...",
+"price": "",
+"org_page": "Security Vision",
+"enr": 5,
+"org": "Security Vision",
+"org_url": "https://ict2go.ru/companies/2061/"
+},
+{
 "title": "Цифровой рубль без разрывов: как банку подготовиться к требованиям ИБ Воркшоп Банки , ИБ (Информационная безоп",
 "url": "https://ict2go.ru/events/74317/",
 "date": "26.11.2026",
@@ -1746,6 +1900,25 @@
 "enr": 5,
 "org": "Codenrock",
 "org_url": ""
+},
+{
+"title": "Оба говорят: «Работаю с ИИ». Но как именно?",
+"url": "https://ict2go.ru/events/74390/",
+"date": "26.11.2026",
+"iso": "2026-11-26",
+"time": "18:00",
+"topic": "ИИ",
+"online": true,
+"net": false,
+"source": "💻 ict2go (ИТ-события)",
+"org_url_page": "https://ict2go.ru/companies/6602/",
+"img": "https://ict2go.ru/uploads/media/events_lid_image/0001/79/thumb_78127_small.png",
+"desc": "26 ноября 2026 г. в 18.00 (мск) Codenrock провебет вебинар «Оба говорят: «Работаю с ИИ». Но как именно?». Как оценить навык...",
+"price": "",
+"org_page": "Codenrock",
+"enr": 5,
+"org": "Codenrock",
+"org_url": "https://ict2go.ru/companies/6602/"
 },
 {
 "title": "SPM Meetup #130 Митап Управление проектами (Project Management)",
@@ -2232,6 +2405,25 @@
 "enr": 5,
 "org": "Макссофт (MaxSoft)",
 "org_url": ""
+},
+{
+"title": "Astra Store изнутри: технический вебинар",
+"url": "https://ict2go.ru/events/74403/",
+"date": "02.12.2026",
+"iso": "2026-12-02",
+"time": "11:00",
+"topic": "IT",
+"online": true,
+"net": false,
+"source": "💻 ict2go (ИТ-события)",
+"org_url_page": "https://ict2go.ru/companies/2930/",
+"img": "https://ict2go.ru/uploads/media/events_lid_image/0001/81/thumb_80031_medium.png",
+"desc": "2 декабря 2026 года в 11:00 (мск) состоится технический вебинар \"Astra Store изнутри\". Участники узнают, как агент Astra Store получает и...",
+"price": "",
+"org_page": "Группа Астра (Astra Linux)",
+"enr": 5,
+"org": "Группа Астра (Astra Linux)",
+"org_url": "https://ict2go.ru/companies/2930/"
 },
 {
 "title": "Лидеры о главном - основные тренды в IT и телекоме Круглый стол Телеком , ИБ (Информационная безопасность) , Р",
@@ -3278,24 +3470,6 @@
 "org_url": ""
 },
 {
-"title": "Продвижение продукта Продажи в B2B: закрытая трёхдневная онлайн-сессия 23.11.2026 - 25.11.2026 Пн-Ср 23.11.202",
-"url": "https://all-events.ru/events/prodazhi_v_b2b_zakrytaya_tryekhdnevnaya_onlayn_sessiya_4/",
-"date": "23.11.2026",
-"iso": "2026-11-23",
-"time": "13:00",
-"topic": "Бизнес",
-"online": true,
-"net": false,
-"source": "📅 all-events (деловые события)",
-"img": "https://all-events.ru/upload/iblock/e3e/gmc7n5p3u5103w08bav14thhk0bnfy7y.png",
-"desc": "Приглашаем на бесплатную трёхдневную онлайн-сессию «Продажи в B2B» 23–25 ноября в 13:00 МСК. Диагностика отдела продаж, навыки менеджеров, стратегия роста и готовые чек-листы от Виталия Парфенова. Продажи в B2B: закрытая трёхдневная онлайн-сессия Да, 13:00, программа, спикеры, стоимость участия. Подробности на All-Events.ru!",
-"price": "Бесплатно",
-"org_page": "",
-"enr": 5,
-"org": "",
-"org_url": ""
-},
-{
 "title": "IT-Информационные технологии Axoft Online: экономьте время. Снижайте затраты. Работайте эффективнее 24/7 23.11",
 "url": "https://all-events.ru/events/axoft-online-ekonomte-vremya-snizhayte-zatraty-rabotayte-effektivnee-24-7/",
 "date": "23.11.2026",
@@ -3325,6 +3499,25 @@
 "source": "📅 all-events (деловые события)",
 "img": "https://all-events.ru/upload/iblock/cd9/h7t1ocnbp7zbv3xw3eynwl554jxq9gux.png",
 "desc": "Работа с молодёжью часто складывается из отдельных активностей: профориентации, карьерных страниц, стажировок, вэлком-материалов. Но сами по себе они ещё не создают понятный путь для будущего специалиста. Молодой кандидат сначала замечает компанию, потом пытается разобраться в возможностях, выбирает программу, приходит на практику или стажировку и уже после этого формирует отношение к работодателю",
+"price": "Бесплатно",
+"org_page": "",
+"enr": 5,
+"org": "",
+"org_url": ""
+},
+{
+"title": "Риэлтор нового поколения: цифровые технологии, личный бренд и предпринимательство в недвижимости",
+"url": "https://all-events.ru/events/rieltor_novogo_pokoleniya_tsifrovye_tekhnologii_lichnyy_brend_i_predprinimatelstvo_v_nedvizhimosti/",
+"date": "24.11.2026",
+"iso": "2026-11-24",
+"time": "15:00",
+"topic": "IT",
+"online": false,
+"net": false,
+"source": "📅 all-events (деловые события)",
+"speaker": "Вячеслав Мухин",
+"img": "https://all-events.ru/upload/iblock/376/4btbo1d41z43p3xnqdaxkldjcxibqduq.jpg",
+"desc": "WELCOME24 — цифровая платформа для предпринимателей в сфере недвижимости, резидент инновационного центра „Сколково“, объединяющая более 400 агентов и предоставляющая инструменты для ведения и развития Риэлтор нового поколения: цифровые технологии, личный бренд и предпринимательство в недвижимости , 15:00, программа, спикеры, стоимость участия. Подробности на All-Events.ru!",
 "price": "Бесплатно",
 "org_page": "",
 "enr": 5,
@@ -3422,7 +3615,7 @@
 "org_url": ""
 },
 {
-"title": "Cloud Sessions #2: инфраструктура для ИИ",
+"title": "24 ноября 2026 Cloud Sessions #2: инфраструктура для ИИ не указан Москва не определено Москва 24 ноября в Моск",
 "url": "https://all-events.ru/events/cloud-sessions-2-infrastruktura-dlya-ii/",
 "date": "24 ноября 2026",
 "iso": "2026-11-24",
@@ -3440,7 +3633,7 @@
 "org_url": ""
 },
 {
-"title": "HR-клуб. Корпоративу быть или не быть? Вот в чём вопрос!",
+"title": "24 ноября 2026 HR-клуб. Корпоративу быть или не быть? Вот в чём вопрос! не указан Онлайн-трансляция не определ",
 "url": "https://all-events.ru/events/hr-klub-korporativu-byt-ili-ne-byt-vot-v-chyem-vopros/",
 "date": "24 ноября 2026",
 "iso": "2026-11-24",
@@ -3458,7 +3651,7 @@
 "org_url": ""
 },
 {
-"title": "Новая система оплаты труда: от традиций к амбициям. Кейс производителя детского питания «Инфаприм»",
+"title": "HR\\Управление персоналом Новая система оплаты труда: от традиций к амбициям. Кейс производителя детского питан",
 "url": "https://all-events.ru/events/novaya-sistema-oplaty-truda-ot-traditsiy-k-ambitsiyam-keys-proizvoditelya-detskogo-pitaniya-infaprim/",
 "date": "24.11.2026",
 "iso": "2026-11-24",
@@ -3467,7 +3660,6 @@
 "online": true,
 "net": false,
 "source": "📅 all-events (деловые события)",
-"speaker": "Алексей Васюнин",
 "img": "https://all-events.ru/upload/iblock/13d/1s510hb5zu1aes7n3wlnsfmvzpt0wk23.png",
 "desc": "Расскажем про кейс производителя детского питания «Инфаприм» и компании ЭКОПСИ Консалтинг. В компании по производству детского питания всё хорошо: стабильный рост, лояльные сотрудники. Но задачи от акционеров амбициозные — значительное повышение доли рынка, агрессивный рост. Становится понятно, что система мотивации компании не дотягивает до заданной планки. Новая система оплаты труда: от традиций",
 "price": "Бесплатно",
@@ -3477,7 +3669,7 @@
 "org_url": ""
 },
 {
-"title": "AI & RPA платформа для техподдержки и клиентского сервиса",
+"title": "IT-Информационные технологии AI & RPA платформа для техподдержки и клиентского сервиса 24.11.2026 Вт 24.11.202",
 "url": "https://all-events.ru/events/ai-rpa-platforma-dlya-tekhpodderzhki-i-klientskogo-servisa/",
 "date": "24.11.2026",
 "iso": "2026-11-24",
@@ -3495,7 +3687,7 @@
 "org_url": ""
 },
 {
-"title": "Московские ИТ-решения на зарубежных рынках: поддержка, продвижение, партнерства",
+"title": "IT-Информационные технологии Московские ИТ-решения на зарубежных рынках: поддержка, продвижение, партнерства 2",
 "url": "https://all-events.ru/events/moskovskie-it-resheniya-na-zarubezhnykh-rynkakh-podderzhka-prodvizhenie-partnerstva/",
 "date": "24.11.2026",
 "iso": "2026-11-24",
@@ -3513,7 +3705,7 @@
 "org_url": ""
 },
 {
-"title": "Вебинар · Онлайн · 104 Резервирование ИТ-инфраструктуры: как собрать полный стек защиты данных 26 ноября 2026 ",
+"title": "Вебинар · Онлайн · 174 Резервирование ИТ-инфраструктуры: как собрать полный стек защиты данных 26 ноября 2026 ",
 "url": "https://cloud.ru/events/rezervirovanie-it-infrastruktury-kak-sobrat-polnyi-stek-zashchity-dannykh-27378325572",
 "date": "26 ноября 2026",
 "iso": "2026-11-26",
@@ -3531,7 +3723,7 @@
 "org_url": "https://cloud.ru/events"
 },
 {
-"title": "Вебинар · Онлайн · 12 От виртуализации к частному облаку: возможности Evolution Stack Virt и Evolution Stack C",
+"title": "Вебинар · Онлайн · 26 От виртуализации к частному облаку: возможности Evolution Stack Virt и Evolution Stack C",
 "url": "https://cloud.ru/events/ot-virtualizatsii-k-chastnomu-oblaku-vozmozhnosti-evolution-stack-virt-i-evolution-stack-core-28184754843",
 "date": "1 декабря 2026",
 "iso": "2026-12-01",
